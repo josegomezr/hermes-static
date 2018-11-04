@@ -1,21 +1,15 @@
 <div class="carousel carousel-indicator-circle slide" id="carouselPrincipal" data-ride="carousel">
   <ol class="carousel-indicators">
-    <li class="active" data-target="#carouselPrincipal" data-slide-to="0"></li>
-    <li data-target="#carouselPrincipal" data-slide-to="1"></li>
-    <li data-target="#carouselPrincipal" data-slide-to="2"></li>
+    {% for slide in include.slides %}
+    <li {% if forloop.first == true %}class="active"{% endif %} 
+      data-target="#carouselPrincipal" data-slide-to="{{ forloop.index0 }}"></li>
+    {% endfor %}
   </ol>
   <div class="carousel-inner h-100">
-    <div class="carousel-item h-100 active" data-background-image="">
-      <div class="w-100 position-absolute"><img class="w-100" src="holder.js/1200x480?theme=vine&amp;text=First+slide" alt="First slide"></div>
-      <div class="carousel-content p-4 px-5 text-white"></div>
+    {% for slide in include.slides %}
+    <div class="carousel-item h-100 {% if forloop.first == true %}active{% endif %}" data-background-image="">
+      <img class="w-100" src="{{ slide.image }}" alt="slide">
     </div>
-    <div class="carousel-item h-100" data-background-image="">
-      <div class="w-100 position-absolute"><img class="w-100" src="holder.js/1200x480?theme=vine&amp;text=Second+slide" alt="Second slide"></div>
-      <div class="carousel-content p-4 px-5 text-white"></div>
-    </div>
-    <div class="carousel-item h-100" data-background-image="">
-      <div class="w-100 position-absolute"><img class="w-100" src="holder.js/1200x480?theme=vine&amp;text=Third+slide" alt="Third slide"></div>
-      <div class="carousel-content p-4 px-5 text-white"></div>
-    </div>
+    {% endfor %}
   </div>
 </div>
