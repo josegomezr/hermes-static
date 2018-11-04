@@ -1,0 +1,302 @@
+---
+---
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.rounded-search{
+  border-radius: 24px;
+}
+
+.navbar-hermes{
+  min-height: 90px;
+}
+
+.bg-hermes{
+  background-color: #112f60;
+}
+
+.text-white-nav{
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.nav-fit{
+  padding: 0.175rem 0.75rem;
+}
+
+#footer, #footer-note {
+  color: #666;
+  a {
+    text-decoration: none;
+    color: #666;
+    &:hover{
+      color: #333;
+    }
+    &:active{
+      color: #555;
+    }
+    &:visited{
+      color: #222;
+    }
+  }
+}
+
+
+.bg-red-hermes{
+  background-color: #f52800;
+}
+
+.btn-red-hermes{
+  background: #f52800;
+  color: white;
+}
+
+
+.text-white{
+  color: white;
+}
+
+
+.hermes-main-nav {
+  .nav-link{
+    color: #112f60;
+
+    &[aria-expanded="true"]{
+      background: #666;
+      color: white;
+    }
+
+  }
+}
+
+.hermes-secondary-nav{
+  background: rgba(60,60,60, 0.1);
+  .nav-link{
+    color: #333;
+  }
+}
+
+
+#mainSection{
+  position: relative;
+}
+#carouselPrincipal{
+  height: 480px;
+}
+
+#floatingForm{
+  top: 0;
+  height: 480px;
+}
+
+
+hr.red-line{
+  border-top-color: rgba(255,0,0, .5);
+}
+
+.color-blue{
+  color: #112f60;
+}
+
+.bg-light-blue{
+  background-color: lighten(#112f60, 75%);
+}
+
+.bg-light-gray{
+  background-color: #ccc;
+}
+
+.smaller-font{
+  font-size: 90%;
+}
+
+
+
+.dropdown-submenu {
+  position: relative;
+}
+
+.hermes-navbar-dropdown .dropdown-item{
+  background: #112f60;
+  color: white;
+  white-space: normal;
+  &:focus, &:hover{
+    background: fade-out($color: #112f60, $amount: .20);
+    color: white;
+  }
+}
+
+.dropdown-menu{
+  color: white;
+  border: none;
+  background: fade-out($color: #112f60, $amount: 0.45);
+  border-radius: 0;
+  padding: 0;
+}
+
+.dropdown-menu .dropdown-item {
+  border-bottom: 1px solid rgba(255,255,255,0.25);
+}
+
+.dropdown-submenu .dropdown-menu {
+  top: 0;
+  margin-top: -1px;
+  left: 100%;
+  padding: 0;
+}
+/* 
+.popover-fullwidth {
+  width: calc(100% - 10px);
+  max-width: 100%;
+  margin-top: 1em;
+} */
+
+.popover-fullwidth {
+  margin-top: 1em;
+  max-width: initial;
+}
+
+
+/*@include media-breakpoint-down('sm') {*/
+@media (max-width: 576px) {
+  
+  .dropdown-submenu a::after, .dropdown a::after {
+    position: absolute;
+    right: 0.8em;
+    top: 1em;
+  }
+
+}
+
+@media (min-width: 576px){
+  .full-width-sm{
+    width: 100%;
+  }
+}
+@media (min-width: 768px){
+  .full-width-md{
+    width: 100%;
+  }
+}
+
+.nav-tabs-hover .nav-link.active{
+  background: transparent;
+  opacity: 1;
+  color: #333;
+}
+.nav-tabs-hover .nav-link{
+  background: transparent;
+  color: #333;
+  opacity: 0.5
+}
+
+.opacity-1{
+  opacity: 1;
+}
+
+/*@include media-breakpoint-up('md'){*/
+@media (min-width: 768px){
+  .position-md-absolute{
+    position: absolute;
+  }
+  .w-md-auto{
+    width: auto !important;
+  }
+
+  .bg-hermes-md-opacity-0-75{
+    background-color: fade-out($color: #112f60, $amount: 0.25);
+  }
+}
+
+.carousel-indicator-circle .carousel-indicators li{
+  border-radius: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+  width: 15px;
+  height: 15px;
+  background: #112f60;
+  &.active{
+    background: #f52800;
+  }
+}
+
+.carousel-item[data-background-image]{
+  background-position: center;
+  background-size: cover !important;
+
+  img {
+    display: block;
+  }
+}
+
+.hermes-red{
+  background: #f52800;
+  color: white;
+}
+
+
+.list-group-cozy{
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 0;
+  border: none;
+  font-size: 85%;
+}
+
+.navbar-menu-hermes {
+  font-size: 90%;
+  .nav-item a{
+    padding-top: 1rem !important; 
+    padding-bottom: 1rem !important; 
+  }
+}
+.dropdown-small-font{
+  font-size: 85%;
+}
+
+.bg-plomo{
+  background: #d9d9d9
+}
+
+.font-small{
+  font-size: 85%;
+}
+
+.widget-interes-overlay{
+  padding-top: 0.5rem !important; 
+  @extend .bg-plomo;
+  position: absolute;
+  bottom: 0;
+}
+
+.nav-divider{
+  width: 56px;
+  display: block;
+  border-color: #7d93a9;
+}
+
+#documentos-popover{
+  width: 640px;
+}
+
+#acerca-hermes-popover{
+  width: 640px;
+}
+
+.hermes-heading{
+  color: #192146;
+}
+.nav-pills-hermes .nav-link{
+  color: #192146;
+  &.active{
+    background: #112f60;
+    color: white;
+  }
+}
+
+.popover-adjust{
+  margin-left: 0.7em;
+}

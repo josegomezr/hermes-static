@@ -1,0 +1,161 @@
+doctype html
+html
+  include head.pug
+  body
+    include header.pug
+
+    #mainSection
+      #carouselPrincipal.carousel.carousel-indicator-circle.slide(data-ride='carousel')
+        ol.carousel-indicators
+          li.active(data-target='#carouselPrincipal' data-slide-to='0')
+          li(data-target='#carouselPrincipal' data-slide-to='1')
+          li(data-target='#carouselPrincipal' data-slide-to='2')
+        .carousel-inner.h-100
+          .carousel-item.h-100.active(data-background-image='')
+            div.w-100.position-absolute
+              img.w-100(src='holder.js/1200x480?theme=vine&text=First+slide' alt='First slide')
+            div.carousel-content.p-4.px-5.text-white
+          .carousel-item.h-100(data-background-image='')
+            div.w-100.position-absolute
+              img.w-100(src='holder.js/1200x480?theme=vine&text=Second+slide' alt='Second slide')
+            div.carousel-content.p-4.px-5.text-white
+          .carousel-item.h-100(data-background-image='')
+            div.w-100.position-absolute
+              img.w-100(src='holder.js/1200x480?theme=vine&text=Third+slide' alt='Third slide')
+            div.carousel-content.p-4.px-5.text-white
+
+      #floatingForm.position-md-absolute.w-100
+        .container.d-flex.justify-content-start.align-items-center.h-100#here-2
+          form.bg-hermes.float-none.float-md-right.w-100.w-md-auto.p-4.bg-hermes-md-opacity-0-75
+            h5.mb-0.text-white.font-weight-bold Logística de Valores 
+              br 
+              | para el Sector Minero 
+            hr.red-line.my-2
+            p.text-white.mb-1
+              small NOS COMUNICAREMOS CONTIGO
+            .form-group.my-3
+              input#nombre.form-control(type='text', placeholder='Nombre')
+            .form-group.my-3
+              input#telefono.form-control(type='text' placeholder='Teléfono')
+            .form-group.my-3
+              input#nombre.form-control(type='text', placeholder='Email')
+            .row.clearfix
+              .col
+                .form-check.text-center
+                  input#acepto_terminos.form-check-input(type='checkbox')
+                  label.text-white.form-check-label(for='acepto_terminos') Acepto términos y condiciones
+              .col-auto
+                button.btn.btn-red-hermes.rounded-0(type='submit') ENVIAR
+
+      .bg-plomo
+        .container.py-3.color-blue
+          .row.clearfix
+            .col-12.col-md-4.d-md-flex.align-items-center
+              h5.d-block.mb-2.mb-md-0.text-center.text-md-left.font-weight-bold Nuestras líneas de negocio
+            .col-6.col-md.text-center.mt-2.mb-4.my-md-0
+              img.img-fluid(src='holder.js/32x32?theme=vine' alt='X')
+              div Financiero
+            .col-6.col-md.text-center.mt-2.mb-4.my-md-0
+              img.img-fluid(src='holder.js/32x32?theme=vine' alt='X')
+              div Comercial
+            .col-6.col-md.text-center.mt-2.mb-4.my-md-0
+              img.img-fluid(src='holder.js/32x32?theme=vine' alt='X')
+              div Minería
+            .col-6.col-md.text-center.mt-2.mb-4.my-md-0
+              img.img-fluid(src='holder.js/32x32?theme=vine' alt='X')
+              div PYMES
+
+      .container.mt-4
+        h4.text-muted.text-center Encuentra aquí información de interés
+        .row.no-gutters.d-flex
+          .col-12.col-md.mb-3.bg-plomo.font-small.align-self-stretch.position-relative.text-center
+            img.img-fluid(src="holder.js/600x300?theme=vine")
+            div.widget-interes-overlay.w-100
+              strong.d-block Trabaja con Nosotros
+              p Encuentra las oportunidades Lorem ipsum dolor sit amet.
+              div.text-right
+                a(href="#") Ver más &gt;
+          .col-12.col-md.mb-3.font-small.mx-md-3.align-self-stretch.position-relative.text-center
+            img.img-fluid(src="holder.js/600x300?theme=vine")
+          .col-12.col-md.mb-3.font-small.align-self-stretch.position-relative.text-center
+            img.img-fluid(src="holder.js/600x300?theme=vine")
+        .row.no-gutters
+          .col-12.col-md.mb-3.bg-plomo.bg-plomo.font-small.align-self-stretch.position-relative.text-center
+            img.img-fluid(src="holder.js/600x300?theme=vine")
+            div.widget-interes-overlay
+              strong.d-block Trabaja con Nosotros
+              p Encuentra las oportunidades Lorem ipsum dolor sit amet.
+              div.text-right
+                a(href="#") Ver más &gt;
+          .col-12.col-md.mb-3.font-small.mx-md-3.align-self-stretch.position-relative.text-center
+            img.img-fluid(src="holder.js/600x300?theme=vine")
+          .col-12.col-md.mb-3.font-small.align-self-stretch.position-relative.text-center
+            img.img-fluid(src="holder.js/600x300?theme=vine")
+      
+      .container.mt-4
+        article#headings
+          h1.hermes-heading This is heading h1
+          h2.hermes-heading This is heading h2
+          h3.hermes-heading This is heading h3
+          h4.hermes-heading This is heading h4
+          h5.hermes-heading This is heading h5
+          h6.hermes-heading This is heading h6
+        hr
+        .media.align-items-center.flex-column.flex-md-row
+          img.mb-2.mb-md-auto.mr-3(src='holder.js/250x200?theme=vine' alt='Generic placeholder image')
+          .media-body
+            p Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+        hr
+
+        ul#myTab.nav.nav-pills.nav-pills-hermes.flex-column.flex-md-row.mb-2.mb-md-auto
+          li.nav-item
+            a#home-tab.nav-link.active(data-toggle='tab' href='#home' role='tab') Home
+          li.nav-item
+            a#profile-tab.nav-link(data-toggle='tab' href='#profile' role='tab') Profile
+          li.nav-item
+            a#messages-tab.nav-link(data-toggle='tab' href='#messages' role='tab') Messages
+          li.nav-item
+            a#settings-tab.nav-link(data-toggle='tab' href='#settings' role='tab') Settings
+        // Tab panes
+        .tab-content
+          #home.tab-pane.active(role='tabpanel') 
+            p Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            h3 Test
+            .media.align-items-center.flex-column.flex-md-row
+              img.mb-2.mb-md-auto.mr-3(src='holder.js/250x200?theme=vine' alt='Generic placeholder image')
+              .media-body
+                p Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+
+          #profile.tab-pane(role='tabpanel')
+            p tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+
+            .row.clearfix
+              .col-12.col-md.mb-2
+                img.img-fluid(src='holder.js/600x300?theme=vine' alt='Generic placeholder image')
+              .col-12.col-md.mb-2
+                img.img-fluid(src='holder.js/600x300?theme=vine' alt='Generic placeholder image')
+              .col-12.col-md.mb-2
+                img.img-fluid(src='holder.js/600x300?theme=vine' alt='Generic placeholder image')
+              .col-12.col-md.mb-2
+                img.img-fluid(src='holder.js/600x300?theme=vine' alt='Generic placeholder image')
+            
+          #messages.tab-pane(role='tabpanel')
+            | quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            
+          #settings.tab-pane(role='tabpanel')
+            | consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        hr
+
+        .row.clearfix
+          .col-12.col-md.mb-2
+            img.img-fluid(src='holder.js/600x300?theme=vine' alt='Generic placeholder image')
+          .col-12.col-md.mb-2
+            img.img-fluid(src='holder.js/600x300?theme=vine' alt='Generic placeholder image')
+          .col-12.col-md.mb-2
+            img.img-fluid(src='holder.js/600x300?theme=vine' alt='Generic placeholder image')
+          .col-12.col-md.mb-2
+            img.img-fluid(src='holder.js/600x300?theme=vine' alt='Generic placeholder image')
+
+
+
+    include foot.pug

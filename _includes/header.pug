@@ -1,0 +1,312 @@
+
+
+section#header
+  nav.navbar.navbar-expand-md.navbar-dark.bg-hermes.navbar-hermes
+    .container
+      a.navbar-brand(href="#") 
+        img(src="holder.js/200x70")
+
+      button.mr-2.my-2.my-md-auto.navbar-toggler(type='button' data-toggle='collapse' data-target='#navbarNavDropdown')
+        span.navbar-toggler-icon
+
+      div.collapse.navbar-collapse#navbar-top-collapse
+        form.form-inline.my-2.my-lg-0.ml-auto
+          .input-group.d-none#toggle-this-search
+            input.form-control(type='text', placeholder="Buscar...")
+            .input-group-append
+              button.btn.btn-red-hermes(type='button', data-target="#toggle-this-search").hide-search-bar 
+                i.fas.fa-search
+          button.btn.btn-red-hermes(type='button', data-target="#toggle-this-search").show-search-bar 
+            i.fas.fa-search
+
+        ul.navbar-nav
+          li.nav-item
+            a.nav-link(href="productos.html") Atención al Cliente
+        span.navbar-text 617-4004
+
+
+nav.navbar.navbar-expand-md.navbar-light.bg-plomo.px-0.px-md-2.py-0
+  .container
+    #navbarNavDropdown.collapse.navbar-collapse.hermes-navbar-dropdown.collapse
+      ul.navbar-nav.nav-fill.full-width-sm.navbar-menu-hermes
+        li.nav-item.dropdown
+          a.px-2.text-left.nav-link.popover-main-hermes(href='#' role='button' data-popover-target='#valores-popover' data-toggle='dropdown')
+            | Logística de Valores
+          .dropdown-menu.dropdown-small-font.d-md-none
+            a.dropdown-item.dropdown-toggle(href='#') Sector Financiero y Comercial
+            .dropdown-menu.dropdown-small-font
+              a(href="#").dropdown-item.text-white
+                | Traslado de valores
+              a(href="#").dropdown-item.text-white
+                | Procesamiento de Billetes y Monedas
+              a(href="#").dropdown-item.text-white
+                | Custodia de Billetes
+              a(href="#").dropdown-item.text-white
+                | Hermeticase
+              a(href="#").dropdown-item.text-white
+                | Atención integral de cajeros automaticos
+            a.dropdown-item.dropdown-toggle(href='#') Sector Minero
+            .dropdown-menu.dropdown-small-font
+              a(href="#").dropdown-item.text-white
+                | Traslado y custodia de metales
+              a(href="#").dropdown-item.text-white
+                | Exportación de Metales
+              a(href="#").dropdown-item.text-white
+                | Gestión de Bóveda
+              a(href="#").dropdown-item.text-white
+                | Servicios Especializados
+              a(href="#").dropdown-item.text-white
+                | Acopio Minero
+
+        li.nav-item.dropdown
+          a.px-2.text-left.nav-link.popover-main-hermes(href='#' role='button' data-popover-target='#canales-popover' data-toggle='dropdown')
+            | Logistica de Canales
+          .dropdown-menu.dropdown-small-font.d-md-none
+            a.dropdown-item(href='#')
+              | Administración de Puntos de Atención
+            a.dropdown-item(href='#')
+              | Administración de Locales y Agencias
+            a.dropdown-item(href='#')
+              | Atención comercial y atención de reclamos y requerimientos
+            a.dropdown-item(href='#')
+              | Pagos Móviles
+            
+
+        li.nav-item.dropdown
+          a.px-2.text-left.nav-link.popover-main-hermes(href='#' role='button' data-popover-target='#documentos-popover' data-toggle='dropdown')
+            | Logística de Documentos
+          .dropdown-menu.dropdown-small-font.d-md-none
+            a.dropdown-item.dropdown-toggle(href='#') Servicio Integral de Mensajería Corporativa
+            .dropdown-menu.dropdown-small-font
+              a.dropdown-item(href="#").text-white
+                | Distribución Nacional
+              a.dropdown-item(href="#").text-white
+                | Distribución Local
+              a.dropdown-item(href="#").text-white
+                | Mensajería Interna
+              a.dropdown-item(href="#").text-white
+                | E-commerce
+
+            a.dropdown-item.dropdown-toggle(href='#') Planta de Procesamiento de Documentos (BPO)
+            .dropdown-menu.dropdown-small-font
+              a(href="#").dropdown-item.text-white
+                | Digitación
+              a(href="#").dropdown-item.text-white
+                | Digitalización
+              a(href="#").dropdown-item.text-white
+                | Verificación
+              a(href="#").dropdown-item.text-white
+                | Validación
+              a(href="#").dropdown-item.text-white
+                | Atención de requerimientos comerciales
+              a(href="#").dropdown-item.text-white
+                | Rgistro y análisis Contable de Facturas
+              a(href="#").dropdown-item.text-white
+                | Encartado de Tarjetas
+              a(href="#").dropdown-item.text-white
+                | Custodia de Documentos Valorados
+
+
+        li.nav-item
+          a.px-2.text-left.nav-link(href='#')
+            | Smart Security
+
+
+        li.nav-item
+          a.px-2.text-left.nav-link.popover-main-hermes(href='#' role='button' data-popover-target='#acerca-hermes-popover' data-toggle='dropdown')
+            | Acerca de Hermes
+          .dropdown-menu.dropdown-small-font.d-md-none
+            a.font-weight-bold.dropdown-item(href="#")
+              | Información Corporativa
+            a.dropdown-item(href="#")
+              | Visión, Misión, Pilares
+            a.dropdown-item(href="#")
+              | Nuestra Historia
+            a.dropdown-item(href="#")
+              | Infraestructura y Recrusos  
+            a.dropdown-item(href="#")
+              | ¿Por qué HERMES?
+            a.dropdown-item(href="#")
+              | Certificaciones
+            a.font-weight-bold.dropdown-item(href="#")
+              | Buen Gobierno Coporativo
+            a.dropdown-item(href="#")
+              | Prevención de Lavado de Activos
+            a.dropdown-item(href="#")
+              | Prevención y Anticorrupción
+            a.dropdown-item(href="#")
+              | Sobornos
+            a.dropdown-item(href="#")
+              | Línea de Denuncias
+            a.font-weight-bold.dropdown-item(href="#")
+              | Trabaja en Hermes
+            a.dropdown-item(href="#")
+              | Línea de Carrera
+            a.dropdown-item(href="#")
+              | Beneficios
+            a.dropdown-item(href="#")
+              | Ofertas Laborales
+        li.nav-item.dropdown
+          a.px-2.hermes-red.text-center.text-white.text-left.nav-link.popover-main-hermes(href='#' role='button' data-popover-target='#zona-clientes-popover' data-toggle='dropdown')
+            | Zona de Clientes
+          .dropdown-menu.dropdown-small-font.d-md-none
+            a.dropdown-item(href='#online')
+              | Hermes Online
+            a.dropdown-item(href='#web')
+              | Sim Web
+            a.dropdown-item(href='#fact')
+              | Facturación
+
+#here.container
+
+#valores-popover.d-none.py-3.px-2
+  .row.clearfix
+    .col-6
+      img(src="https://placehold.it/48x48").mr-1.d-none.d-md-inline.mb-2
+      strong.d-block
+        | Sector Financiero y Comercial
+      hr.nav-divider.mt-1.mb-2.ml-0
+      ul.list-group.list-group-flush
+        li.list-group-item.list-group-cozy 
+          a(href="#") Traslado de valores 
+        li.list-group-item.list-group-cozy 
+          a(href="#") Procesamiento de Billetes y Monedas 
+        li.list-group-item.list-group-cozy 
+          a(href="#") Custodia de Billetes  
+        li.list-group-item.list-group-cozy 
+          a(href="#") Hermeticase 
+        li.list-group-item.list-group-cozy 
+          a(href="#") Atención integral de cajeros automaticos  
+
+    .col-6
+      img(src="https://placehold.it/48x48").mr-1.d-none.d-md-inline.mb-2
+      strong.d-block
+        | Sector Financiero y Comercial
+      hr.nav-divider.mt-1.mb-2.ml-0
+      ul.list-group.list-group-flush.px-1
+        li.list-group-item.list-group-cozy 
+          a(href="#") Traslado y custodia de metales
+        li.list-group-item.list-group-cozy 
+          a(href="#") Exportación de Metales
+        li.list-group-item.list-group-cozy 
+          a(href="#") Gestión de Bóveda
+        li.list-group-item.list-group-cozy 
+          a(href="#") Servicios Especializados
+        li.list-group-item.list-group-cozy 
+          a(href="#") Acopio Minero
+
+#canales-popover.d-none.py-3.px-2
+  img(src="https://placehold.it/48x48").mr-1.d-none.d-md-inline.mb-2
+  strong.d-block
+    | Administración de Puntos de Atención
+  hr.nav-divider.mt-1.mb-2.ml-0
+  ul.list-group.list-group-flush
+    li.list-group-item.list-group-cozy
+      a(href="#") Administración de Locales y Agencias
+    li.list-group-item.list-group-cozy
+      a(href="#") Atención comercial y atención de
+        br
+        | reclamos y requerimientos
+    li.list-group-item.list-group-cozy
+      a(href="#") Pagos Móviles
+
+
+#documentos-popover.d-none.py-3.px-2
+  .row.clearfix
+    .col-6
+      img(src="https://placehold.it/48x48").mr-1.d-none.d-md-inline.mb-2
+      strong.d-block
+        | Servicio Integral de Mensajería Corporativa
+      hr.nav-divider.mt-1.mb-2.ml-0
+      ul.list-group.list-group-flush
+        li.list-group-item.list-group-cozy 
+          a(href="#") Distribución Nacional
+        li.list-group-item.list-group-cozy 
+          a(href="#") Distribución Local
+        li.list-group-item.list-group-cozy 
+          a(href="#") Mensajería Interna
+        li.list-group-item.list-group-cozy 
+          a(href="#") E-commerce
+        
+    .col-6
+      img(src="https://placehold.it/48x48").mr-1.d-none.d-md-inline.mb-2
+      strong.d-block
+        | Procesamiento de Documentos (BPO)
+      hr.nav-divider.mt-1.mb-2.ml-0
+      ul.list-group.list-group-flush
+        li.list-group-item.list-group-cozy 
+          a(href="#") Digitación
+        li.list-group-item.list-group-cozy 
+          a(href="#") Digitalización
+        li.list-group-item.list-group-cozy 
+          a(href="#") Verificación
+        li.list-group-item.list-group-cozy 
+          a(href="#") Validación
+        li.list-group-item.list-group-cozy 
+          a(href="#") Atención de requerimientos comerciales
+        li.list-group-item.list-group-cozy 
+          a(href="#") Rgistro y análisis Contable de Facturas
+        li.list-group-item.list-group-cozy 
+          a(href="#") Encartado de Tarjetas
+        li.list-group-item.list-group-cozy 
+          a(href="#") Custodia de Documentos Valorados
+
+#acerca-hermes-popover.d-none.py-3.px-2
+  .row.clearfix
+    .col-4
+      img(src="https://placehold.it/48x48").mr-1.d-none.d-md-inline.mb-2
+      strong.d-block
+        | Información Corporativa
+      hr.nav-divider.mt-1.mb-2.ml-0
+      ul.list-group.list-group-flush
+        li.list-group-item.list-group-cozy 
+          a(href="#") Visión, Misión, Pilares
+        li.list-group-item.list-group-cozy 
+          a(href="#") Nuestra Historia
+        li.list-group-item.list-group-cozy 
+          a(href="#") Infraestructura y Recrusos  
+        li.list-group-item.list-group-cozy 
+          a(href="#") ¿Por qué HERMES?
+        li.list-group-item.list-group-cozy 
+          a(href="#") Certificaciones
+
+    .col-4
+      img(src="https://placehold.it/48x48").mr-1.d-none.d-md-inline.mb-2
+      strong.d-block
+        | Buen Gobierno Corporativo
+      hr.nav-divider.mt-1.mb-2.ml-0
+      ul.list-group.list-group-flush.px-1
+        li.list-group-item.list-group-cozy 
+          a(href="#") Prevención de Lavado de Activos
+        li.list-group-item.list-group-cozy 
+          a(href="#") Prevención y Anticorrupción
+        li.list-group-item.list-group-cozy 
+          a(href="#") Sobornos
+        li.list-group-item.list-group-cozy 
+          a(href="#") Línea de Denuncias
+
+    .col-4
+      img(src="https://placehold.it/48x48").mr-1.d-none.d-md-inline.mb-2
+      strong.d-block
+        | Trabaja en Hermes
+      hr.nav-divider.mt-1.mb-2.ml-0
+      ul.list-group.list-group-flush.px-1
+        li.list-group-item.list-group-cozy 
+          a(href="#") Línea de Carrera
+        li.list-group-item.list-group-cozy 
+          a(href="#") Beneficios
+        li.list-group-item.list-group-cozy 
+          a(href="#") Ofertas Laborales
+
+#zona-clientes-popover.d-none.py-3.px-2
+  img(src="https://placehold.it/48x48").mr-1.d-none.d-md-inline.mb-2
+  strong.d-block
+    | Soluciones en línea
+  hr.nav-divider.mt-1.mb-2.ml-0
+  ul.list-group.list-group-flush
+    li.list-group-item.list-group-cozy 
+      a(href="#") Hermes Online
+    li.list-group-item.list-group-cozy 
+      a(href="#") Sim Web
+    li.list-group-item.list-group-cozy 
+      a(href="#") Facturación
