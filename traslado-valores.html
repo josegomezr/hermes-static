@@ -1,0 +1,67 @@
+---
+layout: home
+---
+
+<div id="mainSection">
+  <!-- aqui cambiamos los slides, por la data del yml. -->
+  {% include carousel.html slides=site.data.carousel.traslado %}
+  
+  {% include form-flotante.html %}
+
+  <div class="container mt-4">
+    <h4 class="hermes-heading">Traslado de Valores</h4>
+    <p>
+      Enviamos y recogemos billetes, monedas, metales preciosos, joyas y otros objetos de alto valor en unidades blindadas hacia y/o desde el destino solicitado con estricta seguridad, responsabilizándonos por el 100% de los valores encomendados.
+    </p>
+    <ul class="nav nav-pills nav-pills-hermes flex-column flex-md-row mb-2 mb-md-auto" id="myTab">
+      <li class="nav-item">
+        <a class="nav-link active" id="caracteristicas-tab-header" data-toggle="tab" href="#caracteristicas-tab">
+          Características
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="caracteristicas-tab-header" data-toggle="tab" href="#beneficios-tab">
+          Beneficios
+        </a>
+      </li>
+    </ul>
+    <!-- Tab panes-->
+    <div class="tab-content">
+      <div class="tab-pane active" id="caracteristicas-tab" role="tabpanel"> 
+        <hr>
+        <ul>
+          <li> Contamos con licencias de funcionamiento y todas las autorizaciones de la SBS y la SUCAMEC para brindar el servicio de traslado de Valores en diversos sectores del país </li>
+          <li>
+            Realizamos el servicio de traslado en Unidades Blindadas:
+          </li> 
+            <ul>
+              <li> Más de 190 unidades blindadas a nivel nacional </li>
+              <li> Unidades con alto nivel de blindaje y monitoreo satelital (GPS) </li>
+              <li> Centro de Control de Monitoreo diseñado para controlar y supervisar la ubicación y el desenvolvimiento de las unidades. </li>
+            </ul>
+          <li>
+            Tenemos personal altamente capacitado para realizar el servicio:
+            <ul>
+              <li> Proceso de selección riguroso y reentrenamiento constante </li>
+              <li> Armamento de última generación para repeler ataques de forma precisa y oportuna. </li>
+            </ul>
+          </li>
+          <li> Amplia cobertura geográfica: 18 sucursales a nivel nacional </li>
+          <li> Contamos con la póliza de seguros más importante del país </li>
+          <li> Brindamos indicadores de gestión mensuales </li>
+        </ul>
+      </div>
+      <div class="tab-pane" id="beneficios-tab" role="tabpanel">
+        <hr>
+        <ul>
+          <li>Evita riesgos innecesarios para la empresa </li>
+          <li>El dinero es abonado en las cuentas indicadas dentro de las primeras 24 horas </li>
+          <li>Solicitudes y consultas en línea a través del sistema Hermetic Web </li>
+          <li> El cliente puede dedicar tiempo y esfuerzo a la actividad principal de su negocio </li>
+          <li>Programación de servicios a través de nuestro Contact Center </li>
+          <li>Atención 24/7 </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

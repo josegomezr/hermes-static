@@ -1,4 +1,7 @@
-default:
-  - image: holder.js/1200x480?theme=vine&amp;text=First+slide
-  - image: holder.js/1200x480?theme=vine&amp;text=Second+slide
-  - image: holder.js/1200x480?theme=vine&amp;text=Third+slide
+index:
+  - image: /assets/slider-pics/index-01.jpg
+  - image: /assets/slider-pics/index-02.jpg
+  - image: /assets/slider-pics/index-03.jpg
+
+traslado:
+  - image: /assets/slider-pics/traslado-01.jpg

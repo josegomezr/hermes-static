@@ -1,10 +1,13 @@
+{% if include.slides %}
 <div class="carousel carousel-indicator-circle slide" id="carouselPrincipal" data-ride="carousel">
+  {% if include.slides.size > 1 %}
   <ol class="carousel-indicators">
     {% for slide in include.slides %}
     <li {% if forloop.first == true %}class="active"{% endif %} 
       data-target="#carouselPrincipal" data-slide-to="{{ forloop.index0 }}"></li>
     {% endfor %}
   </ol>
+  {% endif %}
   <div class="carousel-inner h-100">
     {% for slide in include.slides %}
     <div class="carousel-item h-100 {% if forloop.first == true %}active{% endif %}" data-background-image="">
@@ -13,3 +16,4 @@
     {% endfor %}
   </div>
 </div>
+{% endif %}
