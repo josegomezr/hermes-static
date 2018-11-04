@@ -27,9 +27,6 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-plugins:
-  - jekyll-pug
-
 sass:
   sass_dir: _sass
 
