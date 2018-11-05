@@ -1,0 +1,146 @@
+---
+layout: home
+title: Consultas y Sugerencias
+---
+
+<div id="mainSection">
+  <!-- aqui cambiamos los slides, por la data del yml. -->
+  {% include carousel.html slides=site.data.carousel.contacto %}
+  
+  {% include form-flotante.html titulo="Logística de valores<br>para el sector minero" %}
+
+  <div class="container mt-4">
+    <h4 class="hermes-heading">Consultas y Sugerencias</h4>
+    <form>
+      <fieldset class="form-group">
+        <div class="row">
+          <legend class="col-form-label col-sm-3 pt-0">Usted Desea realizar una: </legend>
+          <div class="col-sm-4">
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1" checked="">
+              <label class="form-check-label" for="gridRadios1">Consulta</label>
+            </div>
+          </div>
+          <div class="col-sm-5">
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2">
+              <label class="form-check-label" for="gridRadios2">Sugerencia</label>
+            </div>
+          </div>
+        </div>
+      </fieldset>
+      <div class="row">
+        <div class="col">
+          <div class="form-group">
+            <select name="tipo_doc" id="tipo_doc" class="form-control">
+              <option value="dni">DNI</option>
+              <option value="ruc">RUC</option>
+            </select>
+          </div>
+        </div>
+        <div class="col">
+          <div class="form-group">
+            <input type="text" class="form-control" name="documento" id="documento" placeholder="Numero documento">
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Nombres">
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Apellido Paterno">
+          </div>
+        </div>
+        <div class="col">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Apellido Materno">
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <div class="form-group">
+            <select id="inputState" class="form-control">
+              <option selected="">Departamento</option>
+              <option>...</option>
+            </select>
+          </div>
+        </div>
+        <div class="col">
+          <div class="form-group">
+            <select id="inputState" class="form-control">
+              <option selected="">Provincia</option>
+              <option>...</option>
+            </select>
+          </div>
+        </div>
+        <div class="col">
+          <div class="form-group">
+            <select id="inputState" class="form-control">
+              <option selected="">Distrito</option>
+              <option>...</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Domicilio">
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col col-sm-4">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Telefono/Celular">
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Email">
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Empresa">
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="exampleFormControlTextarea1">Detalle</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+      </div>
+
+      <div class="row">
+        <div class="col col-sm-5">
+          <div class="form-group">
+            <img src="https://placehold.it/200x100/fff/000?text=x9Azxf" alt="" class="border mb-3">
+            <input type="text" class="form-control" placeholder="Ingresa el código que aparece en la imágen">
+            <!-- <div class="g-recaptcha" data-sitekey="6LcUsG4UAAAAAMyoY8MRP24rX2TvjdvOftY_O1OZ"></div> -->
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <div class="col-sm-10">
+          <button type="submit" class="btn btn-primary">Enviar</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
