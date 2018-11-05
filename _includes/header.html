@@ -64,7 +64,7 @@
             <a class="dropdown-item" href="{% link adm-puntos-atencion.html %}">Administración de Puntos de Atención</a>
             <a class="dropdown-item" href="{% link adm-locales-agencias.html %}">Administración de Locales y Agencias</a>
             <a class="dropdown-item" href="{% link atencion-reclamos-requerimientos.html %}">Atención comercial y atención de reclamos y requerimientos</a>
-            <a class="dropdown-item" href="{% link pagos-moviles.html%}">Pagos Móviles</a>
+            <a class="dropdown-item" href="{% link pagos-moviles.html %}">Pagos Móviles</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -72,10 +72,10 @@
           <div class="dropdown-menu dropdown-small-font d-md-none">
             <a class="dropdown-item dropdown-toggle" href="#">Servicio Integral de Mensajería Corporativa</a>
             <div class="dropdown-menu dropdown-small-font">
-              <a class="dropdown-item text-white" href="#">Distribución Nacional</a>
-              <a class="dropdown-item text-white" href="#">Distribución Local</a>
-              <a class="dropdown-item text-white" href="#">Mensajería Interna</a>
-              <a class="dropdown-item text-white" href="#">E-commerce</a>
+              <a class="dropdown-item text-white" href="{% link distribucion-nacional.html %}">Distribución Nacional</a>
+              <a class="dropdown-item text-white" href="{% link distribucion-local.html %}">Distribución Local</a>
+              <a class="dropdown-item text-white" href="{% link mensajeria-interna.html %}">Mensajería Interna</a>
+              
             </div>
             <a class="dropdown-item dropdown-toggle" href="#">Planta de Procesamiento de Documentos (BPO)</a>
             <div class="dropdown-menu dropdown-small-font">
@@ -199,16 +199,13 @@
       <hr class="nav-divider mt-1 mb-2 ml-0">
       <ul class="list-group list-group-flush">
         <li class="list-group-item list-group-cozy">
-          <a href="#">Distribución Nacional</a>
+          <a href="{% link distribucion-nacional.html %}">Distribución Nacional</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Distribución Local</a>
+          <a href="{% link distribucion-local.html %}">Distribución Local</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Mensajería Interna</a>
-        </li>
-        <li class="list-group-item list-group-cozy">
-          <a href="#">E-commerce</a>
+          <a href="{% link mensajeria-interna.html %}">Mensajería Interna</a>
         </li>
       </ul>
     </div>

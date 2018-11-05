@@ -1,0 +1,47 @@
+---
+layout: home
+title: Mensajería Interna
+---
+
+<div id="mainSection">
+  <!-- aqui cambiamos los slides, por la data del yml. -->
+  {% include carousel.html slides=site.data.carousel.traslado %}
+  
+  {% include form-flotante.html titulo="Logística de valores<br>para el sector minero" %}
+
+  <div class="container mt-4">
+    <h4 class="hermes-heading">Mensajería Interna</h4>
+    <p>Recibimos, registramos y distribuimos los documentos y paquetes recibidos entre los distintos puntos al interior de una sede, garantizando la atención permanente y entrega en los tiempos establecidos.</p>
+    <ul class="nav nav-pills nav-pills-hermes flex-column flex-md-row mb-2 mb-md-auto" id="myTab">
+      <li class="nav-item">
+        <a class="nav-link active" id="caracteristicas-tab-header" data-toggle="tab" href="#caracteristicas-tab">
+          Características
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="caracteristicas-tab-header" data-toggle="tab" href="#beneficios-tab">
+          Beneficios
+        </a>
+      </li>
+    </ul>
+    <!-- Tab panes-->
+    <div class="tab-content">
+      <div class="tab-pane active" id="caracteristicas-tab" role="tabpanel"> 
+        <hr>
+        <ul>
+          <li>Personal capacitado en atención al cliente</li>
+          <li>Servicio personalizado, hecho en base a los requerimientos y volúmenes de documentos solicitados por el cliente</li>
+          <li>Software de seguimiento de documentos (SIM Web) para registro y control</li>
+          <li>Certificación ISO 9001:2015</li>
+        </ul>
+      </div>
+      <div class="tab-pane" id="beneficios-tab" role="tabpanel">
+        <hr>
+        <ul>
+          <li>Conocimiento de la ubicación de los documentos y paquetes al interior de la sede</li>
+          <li>El cliente puede dedicar tiempo y esfuerzo a la actividad principal de su negocio</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
