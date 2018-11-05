@@ -26,7 +26,7 @@
         </form>
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="productos.html">Atención al Cliente</a>
+            <a class="nav-link" href="#productos.html">Atención al Cliente</a>
           </li>
         </ul>
         <span class="navbar-text">617-4004</span>
@@ -46,16 +46,15 @@
               <a class="dropdown-item text-white" href="{% link traslado-valores.html %}">Traslado de valores</a>
               <a class="dropdown-item text-white" href="{% link procesamiento-billetes-monedas.html%}">Procesamiento de Billetes y Monedas</a>
               <a class="dropdown-item text-white" href="{% link custodia-billetes.html %}">Custodia de Billetes</a>
-              <a class="dropdown-item text-white" href="#">Hermeticase</a>
+              <a class="dropdown-item text-white" href="{% link hermeticase.html %}">Hermeticase</a>
               <a class="dropdown-item text-white" href="{% link atencion-cajeros-automaticos.html %}">Atención integral de cajeros automaticos</a>
             </div>
             <a class="dropdown-item dropdown-toggle" href="#">Sector Minero</a>
             <div class="dropdown-menu dropdown-small-font">
-              <a class="dropdown-item text-white" href="#">Traslado y custodia de metales</a>
-              <a class="dropdown-item text-white" href="#">Exportación de Metales</a>
-              <a class="dropdown-item text-white" href="#">Gestión de Bóveda</a>
-              <a class="dropdown-item text-white" href="#">Servicios Especializados</a>
-              <a class="dropdown-item text-white" href="#">Acopio Minero</a>
+              <a class="dropdown-item text-white" href="{% link traslado-y-custodia-de-metales.html %}">Traslado y custodia de metales</a>
+              <a class="dropdown-item text-white" href="{% link exportacion-metales.html %}">Exportación de Metales</a>
+              <a class="dropdown-item text-white" href="{% link gestion-boveda.html %}">Gestión de Bóveda</a>
+              <a class="dropdown-item text-white" href="{% link servicios-especializados.html %}">Servicios Especializados</a>
             </div>
           </div>
         </li>
@@ -145,7 +144,7 @@
           <a href="{% link custodia-billetes.html %}">Custodia de Billetes </a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Hermeticase </a>
+          <a href="{% link hermeticase.html %}">Hermeticase </a>
         </li>
         <li class="list-group-item list-group-cozy">
           <a href="{% link atencion-cajeros-automaticos.html %}">Atención integral de cajeros automaticos </a>
@@ -158,16 +157,16 @@
       <hr class="nav-divider mt-1 mb-2 ml-0">
       <ul class="list-group list-group-flush px-1">
         <li class="list-group-item list-group-cozy">
-          <a href="#">Traslado y custodia de metales</a>
+          <a href="{% link traslado-y-custodia-de-metales.html %}">Traslado y custodia de metales</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Exportación de Metales</a>
+          <a href="{% link exportacion-metales.html %}">Exportación de Metales</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Gestión de Bóveda</a>
+          <a href="{% link gestion-boveda.html %}">Gestión de Bóveda</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Servicios Especializados</a>
+          <a href="{% link gestion-boveda.html %}">Servicios Especializados</a>
         </li>
         <li class="list-group-item list-group-cozy">
           <a href="#">Acopio Minero</a>
