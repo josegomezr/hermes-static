@@ -1,0 +1,51 @@
+---
+layout: home
+---
+
+<div id="mainSection">
+  <!-- aqui cambiamos los slides, por la data del yml. -->
+  {% include carousel.html slides=site.data.carousel.traslado %}
+  
+  {% include form-flotante.html titulo="Logística de valores<br>para el sector minero" %}
+
+  <div class="container mt-4">
+    <h4 class="hermes-heading">Atención Integral de Cajeros Automáticos</h4>
+    <h4 class="hermes-heading">Predicción</h4>
+    <p>
+      Determinamos el momento óptimo de abastecimiento de los cajeros Automáticos (ATM’s)
+    </p>
+
+    <ul class="nav nav-pills nav-pills-hermes flex-column flex-md-row mb-2 mb-md-auto" id="myTab">
+      <li class="nav-item">
+        <a class="nav-link active" id="caracteristicas-tab-header" data-toggle="tab" href="#caracteristicas-tab">
+          Características
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="caracteristicas-tab-header" data-toggle="tab" href="#beneficios-tab">
+          Beneficios
+        </a>
+      </li>
+    </ul>
+    <!-- Tab panes-->
+    <div class="tab-content">
+      <div class="tab-pane active" id="caracteristicas-tab" role="tabpanel"> 
+        <hr>
+        <ul>
+          <li>Contamos con un software de análisis de predicción desarrollado internamente, adaptado al mercado peruano</li>
+          <li>Coordinamos el ingreso y salida del dinero de las bóvedas</li>
+          <li>Estamos certificados con el ISO 9001:2015</li>
+        </ul>
+      </div>
+      <div class="tab-pane" id="beneficios-tab" role="tabpanel">
+        <hr>
+        <ul>
+          <li>Mejoramiento del up time de ATM’s</li>
+          <li>Reducción de los cash out</li>
+          <li>Reporte diario de saldos de cierre por ATM</li>
+          <li>Generación de eficiencias al no tener altos remanentes</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
