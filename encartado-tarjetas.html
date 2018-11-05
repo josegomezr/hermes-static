@@ -1,0 +1,46 @@
+---
+layout: home
+title: Encartado de Tarjetas
+---
+
+<div id="mainSection">
+  <!-- aqui cambiamos los slides, por la data del yml. -->
+  {% include carousel.html slides=site.data.carousel.traslado %}
+  
+  {% include form-flotante.html titulo="Logística de valores<br>para el sector minero" %}
+
+  <div class="container mt-4">
+    <h4 class="hermes-heading">Encartado de Tarjetas</h4>
+    <p>Encartamos las tarjetas de crédito a solicitud de nuestro cliente.</p>
+    <ul class="nav nav-pills nav-pills-hermes flex-column flex-md-row mb-2 mb-md-auto" id="myTab">
+      <li class="nav-item">
+        <a class="nav-link active" id="caracteristicas-tab-header" data-toggle="tab" href="#caracteristicas-tab">
+          Características
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="caracteristicas-tab-header" data-toggle="tab" href="#beneficios-tab">
+          Beneficios
+        </a>
+      </li>
+    </ul>
+    <!-- Tab panes-->
+    <div class="tab-content">
+      <div class="tab-pane active" id="caracteristicas-tab" role="tabpanel"> 
+        <hr>
+        <ul>
+          <li>Circuito cerrado de televisión con grabación digital de audio y video a color</li>
+          <li>Personal especializado en encartado de sobres</li>
+          <li>Certificación ISO 9001:2008</li>
+        </ul>
+      </div>
+      <div class="tab-pane" id="beneficios-tab" role="tabpanel">
+        <hr>
+        <ul>
+          <li>El cliente puede dedicar tiempo y esfuerzo a la actividad principal de su negocio</li>
+          <li>Atención 24/7</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

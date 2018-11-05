@@ -75,50 +75,51 @@
               <a class="dropdown-item text-white" href="{% link distribucion-nacional.html %}">Distribución Nacional</a>
               <a class="dropdown-item text-white" href="{% link distribucion-local.html %}">Distribución Local</a>
               <a class="dropdown-item text-white" href="{% link mensajeria-interna.html %}">Mensajería Interna</a>
+              <a class="dropdown-item text-white" href="{% link custodia-documentos-backup.html %}">Custodia de Documentos y Back ups</a>
               
             </div>
             <a class="dropdown-item dropdown-toggle" href="#">Planta de Procesamiento de Documentos (BPO)</a>
             <div class="dropdown-menu dropdown-small-font">
-              <a class="dropdown-item text-white" href="#">Digitación</a>
-              <a class="dropdown-item text-white" href="#">Digitalización</a>
-              <a class="dropdown-item text-white" href="#">Verificación</a>
-              <a class="dropdown-item text-white" href="#">Validación</a>
-              <a class="dropdown-item text-white" href="#">Atención de requerimientos comerciales</a>
-              <a class="dropdown-item text-white" href="#">Rgistro y análisis Contable de Facturas</a>
-              <a class="dropdown-item text-white" href="#">Encartado de Tarjetas</a>
-              <a class="dropdown-item text-white" href="#">Custodia de Documentos Valorados</a>
+              <a class="dropdown-item text-white" href="{% link digitacion-digitalizacion.html %}">Digitación</a>
+              <a class="dropdown-item text-white" href="{% link digitacion-digitalizacion.html %}">Digitalización</a>
+              <a class="dropdown-item text-white" href="{% link verificacion-validacion.html %}">Verificación</a>
+              <a class="dropdown-item text-white" href="{% link verificacion-validacion.html %}">Validación</a>
+              <a class="dropdown-item text-white" href="{% link atencion-requerimientos-comerciales.html %}">Atención de requerimientos comerciales</a>
+              <a class="dropdown-item text-white" href="{% link registro-facturas.html %}">Rgistro y análisis Contable de Facturas</a>
+              <a class="dropdown-item text-white" href="{% link encartado-tarjetas.html %}">Encartado de Tarjetas</a>
             </div>
           </div>
         </li>
         <li class="nav-item">
-          <a class="px-2 text-left nav-link" href="#">Smart Security</a>
+          <a class="px-2 text-left nav-link" href="{% link smart-security.html %}">Smart Security</a>
         </li>
         <li class="nav-item">
           <a class="px-2 text-left nav-link popover-main-hermes" href="#" role="button" data-popover-target="#acerca-hermes-popover" data-toggle="dropdown">Acerca de Hermes</a>
           <div class="dropdown-menu dropdown-small-font d-md-none">
             <a class="font-weight-bold dropdown-item" href="#">Información Corporativa</a>
-            <a class="dropdown-item" href="#">Visión, Misión, Pilares</a>
-            <a class="dropdown-item" href="#">Nuestra Historia</a>
-            <a class="dropdown-item" href="#">Infraestructura y Recrusos </a>
-            <a class="dropdown-item" href="#">¿Por qué HERMES?</a>
-            <a class="dropdown-item" href="#">Certificaciones</a>
+            <a class="dropdown-item" href="{% link mision-vision-pilares.html %}">Visión, Misión, Pilares</a>
+            <a class="dropdown-item" href="{% link nuestra-historia.html %}">Nuestra Historia</a>
+            <a class="dropdown-item" href="{% link infraestructura-recursos.html %}">Infraestructura y Recursos</a>
+            <a class="dropdown-item" href="{% link cobertura.html %}">Cobertura</a>
+            <a class="dropdown-item" href="{% link por-que-hermes.html %}">¿Por qué HERMES?</a>
+            <a class="dropdown-item" href="{% link certificaciones.html %}">Certificaciones</a>
             <a class="font-weight-bold dropdown-item" href="#">Buen Gobierno Coporativo</a>
-            <a class="dropdown-item" href="#">Prevención de Lavado de Activos</a>
-            <a class="dropdown-item" href="#">Prevención y Anticorrupción</a>
-            <a class="dropdown-item" href="#">Sobornos</a>
-            <a class="dropdown-item" href="#">Línea de Denuncias</a>
-            <a class="font-weight-bold dropdown-item" href="#">Trabaja en Hermes</a>
-            <a class="dropdown-item" href="#">Línea de Carrera</a>
-            <a class="dropdown-item" href="#">Beneficios</a>
-            <a class="dropdown-item" href="#">Ofertas Laborales</a>
+            <a class="dropdown-item" href="{% link prevencion-lavado-activos.html %}">Prevención de Lavado de Activos</a>
+            <a class="dropdown-item" href="{% link prevencion-anticorrupcion.html %}">Prevención y Anticorrupción</a>
+            <a class="dropdown-item" href="{% link sobornos.html %}">Sobornos</a>
+            <a class="dropdown-item" href="{% link linea-denuncias.html %}">Línea de Denuncias</a>
+            <a class="font-weight-bold dropdown-item" href="{% link trabaja-hermes.html %}">Trabaja en Hermes</a>
+            <a class="dropdown-item" href="{% link linea-carrera.html %}">Línea de Carrera</a>
+            <a class="dropdown-item" href="{% link beneficios.html %}">Beneficios</a>
+            <a class="dropdown-item" href="{% link ofertas-laborales.html %}">Ofertas Laborales</a>
           </div>
         </li>
         <li class="nav-item dropdown">
           <a class="px-2 hermes-red text-center text-white text-left nav-link popover-main-hermes" href="#" role="button" data-popover-target="#zona-clientes-popover" data-toggle="dropdown">Zona de Clientes</a>
           <div class="dropdown-menu dropdown-small-font d-md-none">
-            <a class="dropdown-item" href="#online">Hermes Online</a>
-            <a class="dropdown-item" href="#web">Sim Web</a>
-            <a class="dropdown-item" href="#fact">Facturación</a>
+            <a class="dropdown-item" href="https://srvoas1.hermes.com.pe:4446/controlAcceso/login.html">Hermes Online</a>
+            <a class="dropdown-item" href="https://srvoas1.hermes.com.pe:4446/vtgpwa1/ingreso/ingreso.jsp">Sim Web</a>
+            <a class="dropdown-item" href="https://srvoas1.hermes.com.pe/controlAccesoWeb/login.html">Facturación</a>
           </div>
         </li>
       </ul>
@@ -207,6 +208,9 @@
         <li class="list-group-item list-group-cozy">
           <a href="{% link mensajeria-interna.html %}">Mensajería Interna</a>
         </li>
+        <li class="list-group-item list-group-cozy">
+          <a href="{% link custodia-documentos-backup.html %}">Custodia de Documentos y Backups</a>
+        </li>
       </ul>
     </div>
     <div class="col-6">
@@ -215,28 +219,25 @@
       <hr class="nav-divider mt-1 mb-2 ml-0">
       <ul class="list-group list-group-flush">
         <li class="list-group-item list-group-cozy">
-          <a href="#">Digitación</a>
+          <a href="{% link digitacion-digitalizacion.html %}">Digitación</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Digitalización</a>
+          <a href="{% link digitacion-digitalizacion.html %}">Digitalización</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Verificación</a>
+          <a href="{% link verificacion-validacion.html %}">Verificación</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Validación</a>
+          <a href="{% link verificacion-validacion.html %}">Validación</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Atención de requerimientos comerciales</a>
+          <a href="{% link atencion-requerimientos-comerciales.html %}">Atención de requerimientos comerciales</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Rgistro y análisis Contable de Facturas</a>
+          <a href="{% link registro-facturas.html %}">Registro y análisis Contable de Facturas</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Encartado de Tarjetas</a>
-        </li>
-        <li class="list-group-item list-group-cozy">
-          <a href="#">Custodia de Documentos Valorados</a>
+          <a href="{% link encartado-tarjetas.html %}">Encartado de Tarjetas</a>
         </li>
       </ul>
     </div>
@@ -250,19 +251,22 @@
       <hr class="nav-divider mt-1 mb-2 ml-0">
       <ul class="list-group list-group-flush">
         <li class="list-group-item list-group-cozy">
-          <a href="#">Visión, Misión, Pilares</a>
+          <a href="{% link mision-vision-pilares.html %}">Visión, Misión, Pilares</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Nuestra Historia</a>
+          <a href="{% link nuestra-historia.html %}">Nuestra Historia</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Infraestructura y Recrusos </a>
+          <a href="{% link infraestructura-recursos.html %}">Infraestructura y Recursos</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">¿Por qué HERMES?</a>
+          <a href="{% link cobertura.html %}">Cobertura</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Certificaciones</a>
+          <a href="{% link por-que-hermes.html %}">¿Por qué HERMES?</a>
+        </li>
+        <li class="list-group-item list-group-cozy">
+          <a href="{% link certificaciones.html %}">Certificaciones</a>
         </li>
       </ul>
     </div>
@@ -272,16 +276,16 @@
       <hr class="nav-divider mt-1 mb-2 ml-0">
       <ul class="list-group list-group-flush px-1">
         <li class="list-group-item list-group-cozy">
-          <a href="#">Prevención de Lavado de Activos</a>
+          <a href="{% link prevencion-lavado-activos.html %}">Prevención de Lavado de Activos</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Prevención y Anticorrupción</a>
+          <a href="{% link prevencion-anticorrupcion.html %}">Prevención y Anticorrupción</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Sobornos</a>
+          <a href="{% link sobornos.html %}">Sobornos</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Línea de Denuncias</a>
+          <a href="{% link linea-denuncias.html %}">Línea de Denuncias</a>
         </li>
       </ul>
     </div>
@@ -291,13 +295,13 @@
       <hr class="nav-divider mt-1 mb-2 ml-0">
       <ul class="list-group list-group-flush px-1">
         <li class="list-group-item list-group-cozy">
-          <a href="#">Línea de Carrera</a>
+          <a href="{% link linea-carrera.html %}">Línea de Carrera</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Beneficios</a>
+          <a href="{% link beneficios.html %}">Beneficios</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="#">Ofertas Laborales</a>
+          <a href="{% link ofertas-laborales.html %}">Ofertas Laborales</a>
         </li>
       </ul>
     </div>
@@ -309,13 +313,13 @@
   <hr class="nav-divider mt-1 mb-2 ml-0">
   <ul class="list-group list-group-flush">
     <li class="list-group-item list-group-cozy">
-      <a href="#">Hermes Online</a>
+      <a href="https://srvoas1.hermes.com.pe:4446/controlAcceso/login.html">Hermes Online</a>
     </li>
     <li class="list-group-item list-group-cozy">
-      <a href="#">Sim Web</a>
+      <a href="https://srvoas1.hermes.com.pe:4446/vtgpwa1/ingreso/ingreso.jsp">Sim Web</a>
     </li>
     <li class="list-group-item list-group-cozy">
-      <a href="#">Facturación</a>
+      <a href="https://srvoas1.hermes.com.pe/controlAccesoWeb/login.html">Facturación</a>
     </li>
   </ul>
 </div>
