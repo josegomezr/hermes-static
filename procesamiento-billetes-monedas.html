@@ -1,0 +1,70 @@
+---
+layout: home
+---
+
+<div id="mainSection">
+  <!-- aqui cambiamos los slides, por la data del yml. -->
+  {% include carousel.html slides=site.data.carousel.traslado %}
+  
+  {% include form-flotante.html titulo="Logística de valores<br>para el sector minero" %}
+
+  <div class="container mt-4">
+    <h4 class="hermes-heading">Procesamiento de Billetes y Monedas</h4>
+    <p>
+      Realizamos el recuento, autenticación y clasificación de billetes, monedas y otros formatos valorados, responsabilizándonos por el 100% de los valores entregados.
+    </p>
+
+    <p>
+      Nuestro proceso se efectúa siguiendo las normas y procedimientos diseñados para acreditar de manera inequívoca el contenido de cada envase, asegurando la trazabilidad de cada paquete de efectivo.
+    </p>
+
+    <ul class="nav nav-pills nav-pills-hermes flex-column flex-md-row mb-2 mb-md-auto" id="myTab">
+      <li class="nav-item">
+        <a class="nav-link active" id="caracteristicas-tab-header" data-toggle="tab" href="#caracteristicas-tab">
+          Características
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="caracteristicas-tab-header" data-toggle="tab" href="#beneficios-tab">
+          Beneficios
+        </a>
+      </li>
+    </ul>
+    <!-- Tab panes-->
+    <div class="tab-content">
+      <div class="tab-pane active" id="caracteristicas-tab" role="tabpanel"> 
+        <hr>
+        <ul>
+          <li>Contamos con la sala de procesamiento de billetes más moderna de América Latina:
+            <ul>
+              <li>Cabinas unipersonales</li>
+              <li>Circuito cerrado de televisión con grabación digital de audio y video a color</li>
+            </ul>
+          </li>
+          <li>Tenemos una sala de procesamiento de monedas con estaciones independientes y máquinas recontadoras y enconadoras de monedas de última generación
+          </li>
+          <li>Contamos con sistemas operativos integrados que registran el movimiento del efectivo.
+          </li>
+          <li>Nuestras cabinas de recuento están equipadas con máquinas de última generación, recuento, autentificación y clasificación de soles, dólares y euros
+          </li>
+          <li>Nuestro personal se encuentra altamente capacitado para realizar el servicio
+          </li>
+        </ul>
+
+      </div>
+      <div class="tab-pane" id="beneficios-tab" role="tabpanel">
+        <hr>
+        <ul>
+          <li>Evita riesgos innecesarios para la empresa</li>
+          <li>Confianza y seguridad del manejo adecuado del dinero</li>
+          <li>Sistemas Operativos Integrados como SHAC Y AC</li>
+          <li>Solicitudes y consultas en línea a través del sistema Hermetic Web</li>
+          <li>Videos de la grabación de apertura de remesas</li>
+          <li>Conocimiento total de los montos procesados</li>
+          <li>El cliente puede dedicar tiempo y esfuerzo a la actividad principal de su negocio</li>
+          <li>Atención 24/7</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
