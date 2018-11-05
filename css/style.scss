@@ -237,7 +237,7 @@ hr.red-line{
 
 .carousel-item[data-background-image]{
   background-position: center;
-  background-size: cover !important;
+  background-size: contain !important;
 
   img {
     display: block;

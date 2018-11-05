@@ -125,7 +125,7 @@ $(".carousel-item[data-background-image]").each(function () {
 
   $el.css('backgroundImage', 'url(' + bgImg + ')');
   $el.css('backgroundPosition', 'center');
-  $el.css('backgroundSize', 'cover')
+  $el.css('backgroundSize', 'contain')
   $el.css('backgroundRepeat', 'no-repeat');
 
   $el.addClass('holderjs');
