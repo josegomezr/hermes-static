@@ -1,0 +1,64 @@
+---
+layout: home
+---
+
+<div id="mainSection">
+  <!-- aqui cambiamos los slides, por la data del yml. -->
+  {% include carousel.html slides=site.data.carousel.traslado %}
+  
+  {% include form-flotante.html titulo="Logística de valores<br>para el sector minero" %}
+
+  <div class="container mt-4">
+    <h4 class="hermes-heading">Custodia de Billetes</h4>
+    <p>
+      Protegemos, custodiamos y controlamos con exactitud y precisión los valores, resguardando el dinero en bóvedas ubicadas en zonas de alta seguridad dentro de nuestras instalaciones, las mismas que cuentan con altos estándares de seguridad física y electrónica;  siendo responsables por el íntegro de los valores custodiados.
+    </p>
+
+    <ul class="nav nav-pills nav-pills-hermes flex-column flex-md-row mb-2 mb-md-auto" id="myTab">
+      <li class="nav-item">
+        <a class="nav-link active" id="caracteristicas-tab-header" data-toggle="tab" href="#caracteristicas-tab">
+          Características
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="caracteristicas-tab-header" data-toggle="tab" href="#beneficios-tab">
+          Beneficios
+        </a>
+      </li>
+    </ul>
+    <!-- Tab panes-->
+    <div class="tab-content">
+      <div class="tab-pane active" id="caracteristicas-tab" role="tabpanel"> 
+        <hr>
+        <ul>
+          <li>Contamos con  un Área de Contraloría conformada por un equipo de profesionales que registran y validan los movimientos de dinero realizados</li>
+          <li>Tenemos bóvedas de los principales Bancos y entidades del sistema financiero, lo cual permite a nuestros clientes realizar encajes interbancarios</li>
+          <li>Contamos con HERMETIC Web, una plataforma en línea desarrollada inhouse con tecnología avanzada y  bajo altos estándares de seguridad de información, que permite lo siguiente:
+            <ul>
+              <li>Consultar el estado y composición de saldos</li>
+              <li>Enviar instrucciones y/o programar operaciones</li>
+              <li>Consultar y generar reportes de ingresos y salidas del día</li>
+              <li>Operar con las interfaces de nuestros clientes</li>
+              <li>Administrar niveles de autorización a solicitud</li>
+            </ul>
+          </li>
+          <li>Todas nuestras bóvedas ubicadas en zona de alta seguridad cuentan con altos parámetros de control</li>
+          <li>Amplia cobertura geográfica: bóvedas ubicadas en nuestras 18 sucursales a nivel nacional</li>
+          <li>Contamos con una Póliza de seguro con cobertura total sobre los valores ingresados<br>
+          Nuestras bóvedas cuentan con Certificación ISO 9001:2015</li>
+        </ul>
+
+      </div>
+      <div class="tab-pane" id="beneficios-tab" role="tabpanel">
+        <hr>
+        <ul>
+          <li>Evita riesgos innecesarios para la empresa</li>
+          <li>Generación de eficiencias en los gastos de la empresa al realizar encajes entre sus bóvedas y las del BCR</li>
+          <li>Posibilidad de realizar arqueos de bóveda en el momento que el cliente lo solicite</li>
+          <li>Solicitudes y consultas en línea a través del sistema Hermetic Web</li>
+          <li>Atención 24/7</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
