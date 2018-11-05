@@ -2,9 +2,56 @@ index:
   - image: /assets/slider-pics/index-01.jpg
   - image: /assets/slider-pics/index-02.jpg
   - image: /assets/slider-pics/index-03.jpg
+  - image: /assets/slider-pics/index-04.jpg
 
 traslado:
   - image: /assets/slider-pics/traslado-01.jpg
 
 cobertura:
   - image: /assets/slider-pics/cobertura-01.png
+
+hermeticase:
+  - image: /assets/slider-pics/hermeticase-01.png
+
+atencion_integral_atm:
+  - image: /assets/slider-pics/atencion-integral-atm-01.jpg
+
+custodia_billetes:
+  - image: /assets/slider-pics/custodia-billetes-01.jpg
+
+custodia_metales:
+  - image: /assets/slider-pics/custodia-metales-01.jpg
+
+exportacion_metales:
+  - image: /assets/slider-pics/exportacion-metales-01.jpg
+
+gestion_boveda:
+  - image: /assets/slider-pics/gestion-boveda-01.jpg
+
+procesamiento_billetes_monedas:
+  - image: /assets/slider-pics/procesamiento-01.jpg
+
+servicios_especializados:
+  - image: /assets/slider-pics/servicios-especializados-01.jpg
+
+adm_atencion:
+  - image: /assets/slider-pics/adm-atencion-01.jpg
+
+locales_agencias:
+  - image: /assets/slider-pics/locales-agencias-01.jpg
+
+pagos_moviles:
+  - image: /assets/slider-pics/pagos-moviles-01.jpg
+
+distribucion_nacional:
+  - image: /assets/slider-pics/distribucion-nacional-01.jpg
+
+distribucion_local:
+  - image: /assets/slider-pics/distribucion-local-01.jpg
+
+mensajeria:
+  - image: /assets/slider-pics/mensajeria-01.jpg
+
+docs_backup:
+  - image: /assets/slider-pics/docs-backup-01.jpg
+
