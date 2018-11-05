@@ -61,10 +61,10 @@
         <li class="nav-item dropdown">
           <a class="px-2 text-left nav-link popover-main-hermes" href="#" role="button" data-popover-target="#canales-popover" data-toggle="dropdown">Logistica de Canales</a>
           <div class="dropdown-menu dropdown-small-font d-md-none">
-            <a class="dropdown-item" href="#">Administración de Puntos de Atención</a>
-            <a class="dropdown-item" href="#">Administración de Locales y Agencias</a>
-            <a class="dropdown-item" href="#">Atención comercial y atención de reclamos y requerimientos</a>
-            <a class="dropdown-item" href="#">Pagos Móviles</a>
+            <a class="dropdown-item" href="{% link adm-puntos-atencion.html %}">Administración de Puntos de Atención</a>
+            <a class="dropdown-item" href="{% link adm-locales-agencias.html %}">Administración de Locales y Agencias</a>
+            <a class="dropdown-item" href="{% link atencion-reclamos-requerimientos.html %}">Atención comercial y atención de reclamos y requerimientos</a>
+            <a class="dropdown-item" href="{% link pagos-moviles.html%}">Pagos Móviles</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -178,13 +178,16 @@
   <hr class="nav-divider mt-1 mb-2 ml-0">
   <ul class="list-group list-group-flush">
     <li class="list-group-item list-group-cozy">
-      <a href="#">Administración de Locales y Agencias</a>
+      <a href="{% link adm-puntos-atencion.html %}">Administración de Puntos de Atención</a>
     </li>
     <li class="list-group-item list-group-cozy">
-      <a href="#">Atención comercial y atención de<br>reclamos y requerimientos</a>
+      <a href="{% link adm-locales-agencias.html %}">Administración de Locales y Agencias</a>
     </li>
     <li class="list-group-item list-group-cozy">
-      <a href="#">Pagos Móviles</a>
+      <a href="{% link atencion-reclamos-requerimientos.html %}">Atención comercial y atención de<br>reclamos y requerimientos</a>
+    </li>
+    <li class="list-group-item list-group-cozy">
+      <a href="{% link pagos-moviles.html %}">Pagos Móviles</a>
     </li>
   </ul>
 </div>

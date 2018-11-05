@@ -1,0 +1,48 @@
+---
+layout: home
+title: Pagos Móviles
+---
+
+<div id="mainSection">
+  <!-- aqui cambiamos los slides, por la data del yml. -->
+  {% include carousel.html slides=site.data.carousel.traslado %}
+  
+  {% include form-flotante.html titulo="Logística de valores<br>para el sector minero" %}
+
+  <div class="container mt-4">
+    <h4 class="hermes-heading">Pagos Móviles</h4>
+    <p>Implementación de ventanillas móviles para realizar pagos en efectivo, asumiendo la responsabilidad de todo el proceso: desde la preparación y traslado del efectivo hasta llevar a cabo el pago correspondiente.</p>
+    <ul class="nav nav-pills nav-pills-hermes flex-column flex-md-row mb-2 mb-md-auto" id="myTab">
+      <li class="nav-item">
+        <a class="nav-link active" id="caracteristicas-tab-header" data-toggle="tab" href="#caracteristicas-tab">
+          Características
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="caracteristicas-tab-header" data-toggle="tab" href="#beneficios-tab">
+          Beneficios
+        </a>
+      </li>
+    </ul>
+    <!-- Tab panes-->
+    <div class="tab-content">
+      <div class="tab-pane active" id="caracteristicas-tab" role="tabpanel"> 
+        <hr>
+        <ul>
+          <li>Personal capacitado y calificado en el manejo de efectivo e identificación de personas</li>
+          <li>Preparamos y trasladamos el dinero, asumiendo la responsabilidad del proceso</li>
+          <li>Llegamos a puntos de difícil acceso en cualquier lugar del país</li>
+          <li>Cuadre y liquidación de caja</li>
+          <li>Amplia cobertura geográfica: 18 sucursales a nivel nacional</li>
+        </ul>
+      </div>
+      <div class="tab-pane" id="beneficios-tab" role="tabpanel">
+        <hr>
+        <ul>
+          <li>Reducción de riesgos ante posibles robos, asaltos y deshonestidad del personal</li>
+          <li>El cliente puede dedicar tiempo y esfuerzo a la actividad principal de su negocio</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
