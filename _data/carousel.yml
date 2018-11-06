@@ -58,3 +58,23 @@ mensajeria:
 docs_backup:
   - image: /assets/slider-pics/docs-backup-01.jpg
 
+certificaciones:
+  - image: /assets/slider-pics/certificaciones-01.jpg
+
+digitalizacion:
+  - image: /assets/slider-pics/digitacion-digitalizacion-01.jpg
+
+encartado:
+  - image: /assets/slider-pics/encartado-01.jpg
+
+infraestructura:
+  - image: /assets/slider-pics/infraestructura-01.jpg
+
+por_que_hermes:
+  - image: /assets/slider-pics/por-que-hermes-01.jpg
+
+smart_security:
+  - image: /assets/slider-pics/smart-security-01.jpg
+
+verificacion_validacion:
+  - image: /assets/slider-pics/verificacion-validacion-01.jpg
