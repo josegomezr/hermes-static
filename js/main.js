@@ -124,9 +124,9 @@ $(".carousel-item[data-background-image]").each(function () {
   }
 
   $el.css('backgroundImage', 'url(' + bgImg + ')');
-  $el.css('backgroundPosition', 'center');
-  $el.css('backgroundSize', '100% 100%')
-  $el.css('backgroundRepeat', 'no-repeat');
+  // $el.css('backgroundPosition', 'center');
+  // $el.css('backgroundSize', '100% 100%')
+  // $el.css('backgroundRepeat', 'no-repeat');
 
   $el.addClass('holderjs');
 });
