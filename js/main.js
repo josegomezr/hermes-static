@@ -89,10 +89,10 @@ $('.dropdown-menu a.dropdown-toggle').on('click', function (e) {
 
 $('.popover-main-hermes').popoverHermes({
   // container: $("#here")[0],
-  boundary: $("#here-2")[0],
+  boundary: $("#here")[0],
   offset: 100,
   placement: "bottom",
-  // fallbackPlacement: 'counterclockwise',
+  // fallbackPlacement: 'flip',
   html: true,
   trigger: 'manual',
   template: '<div class="popover popover-fullwidth popover-adjust" role="tooltip"><div class="arrow"></div><h3 class="popover-header"></h3><div class="popover-body"></div></div>'
