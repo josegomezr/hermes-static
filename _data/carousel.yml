@@ -11,10 +11,10 @@ contacto:
   - image: /assets/slider-pics/contacto-01.jpg
 
 ubicanos:
-  - image: /assets/slider-pics/cobertura-01.png
+  - image: /assets/slider-pics/cobertura-01.jpg
 
 hermeticase:
-  - image: /assets/slider-pics/hermeticase-01.png
+  - image: /assets/slider-pics/hermeticase-01.jpg
 
 atencion_integral_atm:
   - image: /assets/slider-pics/atencion-integral-atm-01.jpg
