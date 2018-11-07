@@ -38,7 +38,7 @@ servicios_especializados:
   - image: /assets/slider-pics/servicios-especializados-01.jpg
 
 adm_atencion:
-  - image: /assets/slider-pics/adm-atencion-01.jpg
+  - image: /assets/slider-pics/adm-atencion-01.png
 
 locales_agencias:
   - image: /assets/slider-pics/locales-agencias-01.jpg
