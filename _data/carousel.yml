@@ -1,8 +1,12 @@
 index:
   - image: /assets/slider-pics/index-01.jpg
+    form_text: NOS COMUNICAREMOS CONTIGO 1
   - image: /assets/slider-pics/index-02.jpg
+    form_text: NOS COMUNICAREMOS CONTIGO 2
   - image: /assets/slider-pics/index-03.jpg
+    form_text: NOS COMUNICAREMOS CONTIGO 3
   - image: /assets/slider-pics/index-04.jpg
+    form_text: NOS COMUNICAREMOS CONTIGO 4
 
 traslado:
   - image: /assets/slider-pics/traslado-01.jpg

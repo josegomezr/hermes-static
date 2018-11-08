@@ -24,7 +24,7 @@ markdown: kramdown
 sass:
   sass_dir: _sass
 
-base_url: /
+base_url: ''
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

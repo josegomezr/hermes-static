@@ -148,3 +148,17 @@ $(".hide-search-bar").on('click', function(e){
   $(selector).toggleClass('d-none');
   $(".show-search-bar").toggleClass('d-none');
 })
+
+function cambiarTituloForm(title) {
+  if(!title){
+    title = $('#titulo-cambiante').attr('data-default-title');
+  }
+
+  $('#titulo-cambiante').text(title);
+}
+
+$('#carouselPrincipal').on('slide.bs.carousel', function (e) {
+  cambiarTituloForm($(e.relatedTarget).attr('data-title'))
+})
+
+cambiarTituloForm($(".carousel-item").first().attr('data-title'));
