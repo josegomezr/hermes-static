@@ -10,7 +10,7 @@
   {% endif %}
   <div class="carousel-inner h-100">
     {% for slide in include.slides %}
-    <div class="carousel-item h-100 {% if forloop.first == true %}active{% endif %}" data-background-image="">
+    <div class="carousel-item h-100 {% if forloop.first == true %}active{% endif %}" data-background-image="" data-title="{{ slide.form_text }}">
       <img class="w-100" src="{{ slide.image }}" alt="slide">
     </div>
     {% endfor %}
