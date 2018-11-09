@@ -1,84 +1,114 @@
 index:
-  - image: /assets/slider-pics/index-01.jpg
-    form_text: NOS COMUNICAREMOS CONTIGO 1
-  - image: /assets/slider-pics/index-02.jpg
-    form_text: NOS COMUNICAREMOS CONTIGO 2
-  - image: /assets/slider-pics/index-03.jpg
-    form_text: NOS COMUNICAREMOS CONTIGO 3
-  - image: /assets/slider-pics/index-04.jpg
-    form_text: NOS COMUNICAREMOS CONTIGO 4
+  mobile:
+    - image: http://placehold.it/320x480?text=slide%201
+    - image: http://placehold.it/320x480?text=slide%202
+
+  desktop:
+    - image: /assets/slider-pics/index-01.jpg
+      form_text: NOS COMUNICAREMOS CONTIGO 1
+    - image: /assets/slider-pics/index-02.jpg
+      form_text: NOS COMUNICAREMOS CONTIGO 2
+    - image: /assets/slider-pics/index-03.jpg
+      form_text: NOS COMUNICAREMOS CONTIGO 3
+    - image: /assets/slider-pics/index-04.jpg
+      form_text: NOS COMUNICAREMOS CONTIGO 4
 
 traslado:
-  - image: /assets/slider-pics/traslado-01.jpg
+  desktop:
+    - image: /assets/slider-pics/traslado-01.jpg
 
 contacto:
-  - image: /assets/slider-pics/contacto-01.jpg
+  desktop:
+    - image: /assets/slider-pics/contacto-01.jpg
 
 ubicanos:
-  - image: /assets/slider-pics/cobertura-01.jpg
+  desktop:
+    - image: /assets/slider-pics/cobertura-01.jpg
 
 hermeticase:
-  - image: /assets/slider-pics/hermeticase-01.jpg
+  desktop:
+    - image: /assets/slider-pics/hermeticase-01.jpg
 
 atencion_integral_atm:
-  - image: /assets/slider-pics/atencion-integral-atm-01.jpg
+  desktop:
+    - image: /assets/slider-pics/atencion-integral-atm-01.jpg
 
 custodia_billetes:
-  - image: /assets/slider-pics/custodia-billetes-01.jpg
+  desktop:
+    - image: /assets/slider-pics/custodia-billetes-01.jpg
 
 custodia_metales:
-  - image: /assets/slider-pics/custodia-metales-01.jpg
+  desktop:
+    - image: /assets/slider-pics/custodia-metales-01.jpg
 
 exportacion_metales:
-  - image: /assets/slider-pics/exportacion-metales-01.jpg
+  desktop:
+    - image: /assets/slider-pics/exportacion-metales-01.jpg
 
 gestion_boveda:
-  - image: /assets/slider-pics/gestion-boveda-01.jpg
+  desktop:
+    - image: /assets/slider-pics/gestion-boveda-01.jpg
 
 procesamiento_billetes_monedas:
-  - image: /assets/slider-pics/procesamiento-01.jpg
+  desktop:
+    - image: /assets/slider-pics/procesamiento-01.jpg
 
 servicios_especializados:
-  - image: /assets/slider-pics/servicios-especializados-01.jpg
+  desktop:
+    - image: /assets/slider-pics/servicios-especializados-01.jpg
 
 adm_atencion:
-  - image: /assets/slider-pics/adm-atencion-01.png
+  desktop:
+    - image: /assets/slider-pics/adm-atencion-01.png
 
 locales_agencias:
-  - image: /assets/slider-pics/locales-agencias-01.jpg
+  desktop:
+    - image: /assets/slider-pics/locales-agencias-01.jpg
 
 pagos_moviles:
-  - image: /assets/slider-pics/pagos-moviles-01.jpg
+  desktop:
+    - image: /assets/slider-pics/pagos-moviles-01.jpg
 
 distribucion_nacional:
-  - image: /assets/slider-pics/distribucion-nacional-01.jpg
+  desktop:
+    - image: /assets/slider-pics/distribucion-nacional-01.jpg
 
 distribucion_local:
-  - image: /assets/slider-pics/distribucion-local-01.jpg
+  desktop:
+    - image: /assets/slider-pics/distribucion-local-01.jpg
 
 mensajeria:
-  - image: /assets/slider-pics/mensajeria-01.jpg
+  desktop:
+    - image: /assets/slider-pics/mensajeria-01.jpg
 
 docs_backup:
-  - image: /assets/slider-pics/docs-backup-01.jpg
+  desktop:
+    - image: /assets/slider-pics/docs-backup-01.jpg
 
 certificaciones:
-  - image: /assets/slider-pics/certificaciones-01.jpg
+  desktop:
+    - image: /assets/slider-pics/certificaciones-01.jpg
 
 digitalizacion:
-  - image: /assets/slider-pics/digitacion-digitalizacion-01.jpg
+  desktop:
+    - image: /assets/slider-pics/digitacion-digitalizacion-01.jpg
 
 encartado:
-  - image: /assets/slider-pics/encartado-01.jpg
+  desktop:
+    - image: /assets/slider-pics/encartado-01.jpg
 
 infraestructura:
-  - image: /assets/slider-pics/infraestructura-01.jpg
+  desktop:
+    - image: /assets/slider-pics/infraestructura-01.jpg
 
 por_que_hermes:
-  - image: /assets/slider-pics/por-que-hermes-01.jpg
+  desktop:
+    - image: /assets/slider-pics/por-que-hermes-01.jpg
 
 smart_security:
-  - image: /assets/slider-pics/smart-security-01.jpg
+  desktop:
+    - image: /assets/slider-pics/smart-security-01.jpg
 
 verificacion_validacion:
-  - image: /assets/slider-pics/verificacion-validacion-01.jpg
+  desktop:
+    - image: /assets/slider-pics/verificacion-validacion-01.jpg

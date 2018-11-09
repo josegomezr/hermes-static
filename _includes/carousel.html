@@ -1,19 +1,36 @@
-{% if include.slides %}
-  <div class="carousel carousel-indicator-circle slide" id="carouselPrincipal" data-ride="carousel">
-  {% if include.slides.size > 1 %}
-  <ol class="carousel-indicators">
-    {% for slide in include.slides %}
-    <li {% if forloop.first == true %}class="active"{% endif %} 
-      data-target="#carouselPrincipal" data-slide-to="{{ forloop.index0 }}"></li>
-    {% endfor %}
-  </ol>
-  {% endif %}
-  <div class="carousel-inner h-100">
-    {% for slide in include.slides %}
-    <div class="carousel-item h-100 {% if forloop.first == true %}active{% endif %}" data-background-image="" data-title="{{ slide.form_text }}">
-      <img class="w-100" src="{{ slide.image }}" alt="slide">
+{% if include.slides.desktop or include.slides.mobile %}
+  <div class="carousel carousel-indicator-circle slide d-none d-sm-block" id="carouselPrincipal" data-ride="carousel">
+    {% if include.slides.desktop.size > 1 %}
+    <ol class="carousel-indicators">
+      {% for slide in include.slides.desktop %}
+      <li {% if forloop.first == true %}class="active"{% endif %} 
+        data-target="#carouselPrincipal" data-slide-to="{{ forloop.index0 }}"></li>
+      {% endfor %}
+    </ol>
+    {% endif %}
+    <div class="carousel-inner h-100">
+      {% for slide in include.slides.desktop %}
+      <div class="carousel-item h-100 {% if forloop.first == true %}active{% endif %}" data-background-image="" data-title="{{ slide.form_text }}">
+        <img class="w-100" src="{{ slide.image }}" alt="slide">
+      </div>
+      {% endfor %}
     </div>
-    {% endfor %}
   </div>
-</div>
+  <div class="carousel carousel-indicator-circle slide d-sm-none" id="carouselSecondary" data-ride="carousel">
+    {% if include.slides.mobile.size > 1 %}
+    <ol class="carousel-indicators">
+      {% for slide in include.slides.mobile %}
+      <li {% if forloop.first == true %}class="active"{% endif %} 
+        data-target="#carouselSecondary" data-slide-to="{{ forloop.index0 }}"></li>
+      {% endfor %}
+    </ol>
+    {% endif %}
+    <div class="carousel-inner h-100">
+      {% for slide in include.slides.mobile %}
+      <div class="carousel-item h-100 {% if forloop.first == true %}active{% endif %}" data-background-image="" data-title="{{ slide.form_text }}">
+        <img class="w-100" src="{{ slide.image }}" alt="slide">
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 {% endif %}
