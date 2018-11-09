@@ -287,12 +287,28 @@ hr.red-line{
 .widget-interes-overlay{
   padding-top: 0.5rem !important; 
   @extend .bg-plomo;
-  position: absolute;
-  bottom: 0;
+  /*position: absolute;
+  bottom: 0;*/
+  // font-family: monospace;
 }
 
+$fsize: 1rem;
+$lineHeight: $fsize * .85 * 1.5;
+
 .widget-interes-picture{
-  padding-bottom: 75px;
+  height: 300px;
+  width: 100%;
+  // padding-bottom: 75px;
+}
+
+.widget-interes-title{
+  height: $lineHeight*2;
+  overflow: hidden;
+}
+
+.widget-interes-description{
+  height: $lineHeight*3;
+  overflow: hidden;
 }
 
 .nav-divider{
