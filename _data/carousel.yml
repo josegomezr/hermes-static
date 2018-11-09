@@ -14,101 +14,126 @@ index:
       form_text: NOS COMUNICAREMOS CONTIGO 4
 
 traslado:
+  mobile:
   desktop:
     - image: /assets/slider-pics/traslado-01.jpg
 
 contacto:
+  mobile:
   desktop:
     - image: /assets/slider-pics/contacto-01.jpg
 
 ubicanos:
+  mobile:
   desktop:
     - image: /assets/slider-pics/cobertura-01.jpg
 
 hermeticase:
+  mobile:
   desktop:
     - image: /assets/slider-pics/hermeticase-01.jpg
 
 atencion_integral_atm:
+  mobile:
   desktop:
     - image: /assets/slider-pics/atencion-integral-atm-01.jpg
 
 custodia_billetes:
+  mobile:
   desktop:
     - image: /assets/slider-pics/custodia-billetes-01.jpg
 
 custodia_metales:
+  mobile:
   desktop:
     - image: /assets/slider-pics/custodia-metales-01.jpg
 
 exportacion_metales:
+  mobile:
   desktop:
     - image: /assets/slider-pics/exportacion-metales-01.jpg
 
 gestion_boveda:
+  mobile:
   desktop:
     - image: /assets/slider-pics/gestion-boveda-01.jpg
 
 procesamiento_billetes_monedas:
+  mobile:
   desktop:
     - image: /assets/slider-pics/procesamiento-01.jpg
 
 servicios_especializados:
+  mobile:
   desktop:
     - image: /assets/slider-pics/servicios-especializados-01.jpg
 
 adm_atencion:
+  mobile:
   desktop:
     - image: /assets/slider-pics/adm-atencion-01.png
 
 locales_agencias:
+  mobile:
   desktop:
     - image: /assets/slider-pics/locales-agencias-01.jpg
 
 pagos_moviles:
+  mobile:
   desktop:
     - image: /assets/slider-pics/pagos-moviles-01.jpg
 
 distribucion_nacional:
+  mobile:
   desktop:
     - image: /assets/slider-pics/distribucion-nacional-01.jpg
 
 distribucion_local:
+  mobile:
   desktop:
     - image: /assets/slider-pics/distribucion-local-01.jpg
 
 mensajeria:
+  mobile:
   desktop:
     - image: /assets/slider-pics/mensajeria-01.jpg
 
 docs_backup:
+  mobile:
   desktop:
     - image: /assets/slider-pics/docs-backup-01.jpg
 
 certificaciones:
+  mobile:
   desktop:
     - image: /assets/slider-pics/certificaciones-01.jpg
 
 digitalizacion:
+  mobile:
   desktop:
     - image: /assets/slider-pics/digitacion-digitalizacion-01.jpg
 
 encartado:
+  mobile:
   desktop:
     - image: /assets/slider-pics/encartado-01.jpg
 
 infraestructura:
+  mobile:
   desktop:
     - image: /assets/slider-pics/infraestructura-01.jpg
 
 por_que_hermes:
+  mobile:
   desktop:
     - image: /assets/slider-pics/por-que-hermes-01.jpg
 
 smart_security:
+  mobile:
   desktop:
     - image: /assets/slider-pics/smart-security-01.jpg
 
 verificacion_validacion:
+  mobile:
   desktop:
     - image: /assets/slider-pics/verificacion-validacion-01.jpg
