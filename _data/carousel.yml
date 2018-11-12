@@ -5,13 +5,17 @@ index:
 
   desktop:
     - image: /assets/slider-pics/index-01.jpg
-      form_text: NOS COMUNICAREMOS CONTIGO 1
+      form_text: Logística de valores <br>para el sector minero 1
+      form_direction: left
     - image: /assets/slider-pics/index-02.jpg
-      form_text: NOS COMUNICAREMOS CONTIGO 2
+      form_text: Logística de valores <br>para el sector minero 2
+      form_direction: right
     - image: /assets/slider-pics/index-03.jpg
-      form_text: NOS COMUNICAREMOS CONTIGO 3
+      form_text: Logística de valores <br>para el sector minero 3
+      form_direction: left
     - image: /assets/slider-pics/index-04.jpg
-      form_text: NOS COMUNICAREMOS CONTIGO 4
+      form_text: Logística de valores <br>para el sector minero 4
+      form_direction: right
 
 traslado:
   mobile:

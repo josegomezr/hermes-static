@@ -154,11 +154,34 @@ function cambiarTituloForm(title) {
     title = $('#titulo-cambiante').attr('data-default-title');
   }
 
-  $('#titulo-cambiante').text(title);
+  $('#titulo-cambiante').html(title);
+}
+
+function cambiarDireccionForm(direccion) {
+  if(!direccion){
+    direccion = 'right'
+  }
+
+  var classname = 'justify-content-end'
+
+  if (direccion != 'right') {
+    classname = 'justify-content-start'
+  }
+
+  $("#floatingFormContainer > .d-flex")
+    .removeClass('justify-content-start justify-content-end')
+    .addClass(classname);
 }
 
 $('#carouselPrincipal').on('slide.bs.carousel', function (e) {
-  cambiarTituloForm($(e.relatedTarget).attr('data-title'))
+  var $slide = $(e.relatedTarget);
+
+  cambiarTituloForm($slide.find('[data-is-form-title]').html())
+  cambiarDireccionForm($slide.attr('data-form-direction'))
 })
 
-cambiarTituloForm($(".carousel-item").first().attr('data-title'));
+var $slide = $(".carousel-item").first();
+cambiarTituloForm($slide.find('[data-is-form-title]').html());
+cambiarDireccionForm($slide.attr('data-form-direction'))
+
+$('#carouselPrincipal').carousel('pause');

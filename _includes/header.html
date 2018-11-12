@@ -39,7 +39,7 @@
     <div class="collapse navbar-collapse hermes-navbar-dropdown collapse" id="navbarNavDropdown">
       <ul class="navbar-nav nav-fill full-width-sm navbar-menu-hermes">
         <li class="nav-item dropdown">
-          <a class="px-2 text-left nav-link popover-main-hermes" href="#" role="button" data-popover-target="#valores-popover" data-toggle="dropdown">Logística de Valores</a>
+          <a class="text-left nav-link popover-main-hermes pl-1 pr-2" href="#" role="button" data-popover-target="#valores-popover" data-toggle="dropdown">Logística de Valores</a>
           <div class="dropdown-menu dropdown-small-font d-md-none">
             <a class="dropdown-item dropdown-toggle" href="#">Sector Financiero y Comercial</a>
             <div class="dropdown-menu dropdown-small-font">
@@ -126,14 +126,16 @@
 </nav>
 
 <div class="position-absolute w-100">
-  <div class="container" id="here"></div>
+  <div class="container px-0">
+    <div class="row" id="here"></div>
+  </div>
 </div>
 
 <div class="d-none py-3 px-2 popover-blue-links" id="valores-popover">
   <div class="row clearfix">
     <div class="col-6">
       <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/traslado-valores.png">
-      <strong class="d-block">Sector Financiero y Comercial</strong>
+      <strong class="d-block popover-heading">Sector Financiero y Comercial</strong>
       <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
       <ul class="list-group list-group-flush">
         <li class="list-group-item list-group-cozy">
@@ -155,9 +157,9 @@
     </div>
     <div class="col-6">
       <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/traslado-custodia-metales.png">
-      <strong class="d-block">Sector Minero</strong>
+      <strong class="d-block popover-heading">Sector Minero</strong>
       <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
-      <ul class="list-group list-group-flush px-1">
+      <ul class="list-group list-group-flush">
         <li class="list-group-item list-group-cozy">
           <a href="{% link traslado-y-custodia-de-metales.html %}">Traslado y Custodia de Metales</a>
         </li>
@@ -176,7 +178,7 @@
 </div>
 <div class="d-none py-3 px-2 popover-blue-links" id="canales-popover">
   <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/locales.svg" width="40">
-  <strong class="d-block">Administración de Puntos de Atención</strong>
+  <strong class="d-block popover-heading">Administración de Puntos de Atención</strong>
   <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
   <ul class="list-group list-group-flush">
     <li class="list-group-item list-group-cozy">
@@ -195,7 +197,7 @@
   <div class="row clearfix">
     <div class="col-6">
       <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/distribucion-nacional.png">
-      <strong class="d-block">Servicio Integral de Mensajería Corporativa</strong>
+      <strong class="d-block popover-heading">Servicio Integral de Mensajería Corporativa</strong>
       <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
       <ul class="list-group list-group-flush">
         <li class="list-group-item list-group-cozy">
@@ -214,7 +216,7 @@
     </div>
     <div class="col-6">
       <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/proceso-documentos.png" height="40">
-      <strong class="d-block">Procesamiento de Documentos (BPO)</strong>
+      <strong class="d-block popover-heading">Procesamiento de Documentos (BPO)</strong>
       <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
       <ul class="list-group list-group-flush">
         <li class="list-group-item list-group-cozy">
@@ -240,7 +242,7 @@
   <div class="row clearfix">
     <div class="col-4">
       <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/hermes-1.png">
-      <strong class="d-block">Información Corporativa</strong>
+      <strong class="d-block popover-heading">Información Corporativa</strong>
       <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
       <ul class="list-group list-group-flush">
         <li class="list-group-item list-group-cozy">
@@ -265,9 +267,9 @@
     </div>
     <div class="col-4">
       <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/hermes-2.png">
-      <strong class="d-block">Buen Gobierno Corporativo</strong>
+      <strong class="d-block popover-heading">Buen Gobierno Corporativo</strong>
       <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
-      <ul class="list-group list-group-flush px-1">
+      <ul class="list-group list-group-flush">
         <li class="list-group-item list-group-cozy">
           <a href="{% link prevencion-lavado-activos.html %}">Prevención de Lavado de Activos</a>
         </li>
@@ -284,9 +286,9 @@
     </div>
     <div class="col-4">
       <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/hermes-3.png">
-      <strong class="d-block">Trabaja en Hermes</strong>
+      <strong class="d-block popover-heading">Trabaja en Hermes</strong>
       <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
-      <ul class="list-group list-group-flush px-1">
+      <ul class="list-group list-group-flush">
         <li class="list-group-item list-group-cozy">
           <a href="{% link linea-carrera.html %}">Línea de Carrera</a>
         </li>
@@ -302,7 +304,7 @@
 </div>
 <div class="d-none py-3 px-2 popover-blue-links" id="zona-clientes-popover">
   <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/hermes-linea.png">
-  <strong class="d-block">Soluciones en línea</strong>
+  <strong class="d-block popover-heading">Soluciones en línea</strong>
   <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
   <ul class="list-group list-group-flush">
     <li class="list-group-item list-group-cozy">

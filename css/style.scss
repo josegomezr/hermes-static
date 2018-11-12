@@ -113,11 +113,17 @@ body{
   }
 }
 
-#floatingForm{
+#floatingFormContainer{
   top: 0;
   height: 480px;
 }
 
+#floatingForm{
+  max-width: 100%;
+  @media(min-width: 768px){
+    max-width: 420px;
+  }
+}
 
 hr.red-line{
   border-top-color: rgba(255,0,0, .5);
@@ -183,6 +189,10 @@ hr.red-line{
 .popover-fullwidth {
   margin-top: 1em;
   max-width: initial;
+  border: none;
+  .arrow::before{
+    border-bottom: none;
+  }
 }
 
 
@@ -299,8 +309,8 @@ hr.red-line{
   // font-family: monospace;
 }
 
-$fsize: 1rem;
-$lineHeight: $fsize * .85 * 1.5;
+$title_fsize: 13px;
+$par_fsize: 11px;
 
 .widget-interes-picture{
   height: 300px;
@@ -309,13 +319,15 @@ $lineHeight: $fsize * .85 * 1.5;
 }
 
 .widget-interes-title{
-  height: $lineHeight*2;
+  height: ($title_fsize * 1.5)*2;
   overflow: hidden;
+  font-size: $title_fsize;
 }
 
 .widget-interes-description{
-  height: $lineHeight*3;
+  height: ($par_fsize * 1.5)*3;
   overflow: hidden;
+  font-size: $par_fsize;
 }
 
 .nav-divider{
@@ -353,4 +365,26 @@ $lineHeight: $fsize * .85 * 1.5;
 
 #here{
   height: 320px;
+}
+
+
+.hermes-checkbox{
+  margin: 0;
+  position: static;
+  margin-left: -1.25em;
+}
+
+.popover-heading{
+  margin-bottom: 1em;
+}
+
+.tab-pane ul{
+  list-style-type: none;
+  
+  li::before {
+    content: "■"; 
+    color: #112f60;
+    margin-left: -1.25em;
+    padding-right: 0.5em;
+  }
 }
