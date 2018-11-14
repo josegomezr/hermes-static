@@ -121,7 +121,7 @@ body{
 #floatingForm{
   max-width: 100%;
   @media(min-width: 768px){
-    max-width: 420px;
+    max-width: 360px;
   }
 }
 
@@ -369,23 +369,28 @@ $par_fsize: 11px;
 
 
 .hermes-checkbox{
-  margin: 0;
-  position: static;
-  margin-left: -1.25em;
+  @media(min-width: 576px){
+    margin: 0;
+    position: static;
+    margin-left: -1.25em;
+  }
 }
 
 .popover-heading{
   margin-bottom: 1em;
 }
 
-.tab-pane ul{
+ul.hermes-list{
   list-style-type: none;
   
   li::before {
     content: "■"; 
     color: #112f60;
-    margin-left: -1.25em;
+    margin-left: -1.5em;
     padding-right: 0.5em;
+    font-size: 12px;
+    position: absolute;
+    margin-top: 4px;
   }
 }
 

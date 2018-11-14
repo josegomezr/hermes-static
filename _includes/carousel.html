@@ -1,4 +1,5 @@
 {% if include.slides.desktop or include.slides.mobile %}
+  {% if include.slides.desktop %}
   <div class="carousel carousel-indicator-circle slide d-none d-sm-block" id="carouselPrincipal" data-ride="carousel">
     {% if include.slides.desktop.size > 1 %}
     <ol class="carousel-indicators">
@@ -17,6 +18,8 @@
       {% endfor %}
     </div>
   </div>
+  {% endif %}
+  {% if include.slides.mobile %}
   <div class="carousel carousel-indicator-circle slide d-sm-none" id="carouselSecondary" data-ride="carousel">
     {% if include.slides.mobile.size > 1 %}
     <ol class="carousel-indicators">
@@ -34,4 +37,5 @@
       {% endfor %}
     </div>
   </div>
+  {% endif %}
 {% endif %}

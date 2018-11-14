@@ -183,3 +183,5 @@ $('#carouselPrincipal').on('slide.bs.carousel', function (e) {
 var $slide = $(".carousel-item").first();
 cambiarTituloForm($slide.find('[data-is-form-title]').html());
 cambiarDireccionForm($slide.attr('data-form-direction'))
+
+$('#carouselPrincipal').carousel('pause');
