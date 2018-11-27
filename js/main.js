@@ -28,6 +28,7 @@ function throttle(callback, wait, context) {
   }
 }
 
+
 $.fn.popoverHermes = function (config) {
   config.trigger = 'manual';
 
@@ -38,7 +39,7 @@ $.fn.popoverHermes = function (config) {
     var target = $(i).attr('data-popover-target');
     var $el = $(target).first().clone(true);
     $el.removeClass('d-none');
-    var currconfig = Object.assign({}, config, {
+    var currconfig = $.extend({}, config, {
       content: config.content || $el,
     })
     $(this).popover(currconfig);
