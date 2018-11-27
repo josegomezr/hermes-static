@@ -243,3 +243,27 @@ $('[data-popover-target="#valores-popover"]').on('click', function(){
     $("#patcher-styles").text(patchedcss);
   }
 })
+$('[data-popover-target="#canales-popover"]').on('click', function(){
+  if(jQuery.browser.msie){
+    var patchedcss = $('#style-fix-canales-popover').text();
+    $("#patcher-styles").text(patchedcss);
+  }
+})
+$('[data-popover-target="#documentos-popover"]').on('click', function(){
+  if(jQuery.browser.msie){
+    var patchedcss = $('#style-fix-documentos-popover').text();
+    $("#patcher-styles").text(patchedcss);
+  }
+})
+$('[data-popover-target="#acerca-hermes-popover"]').on('click', function(){
+  if(jQuery.browser.msie){
+    var patchedcss = $('#style-fix-acerca-hermes-popover').text();
+    $("#patcher-styles").text(patchedcss);
+  }
+})
+$('[data-popover-target="#zona-clientes-popover"]').on('click', function(){
+  if(jQuery.browser.msie){
+    var patchedcss = $('#style-fix-zona-clientes-popover').text();
+    $("#patcher-styles").text(patchedcss);
+  }
+})
