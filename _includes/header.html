@@ -26,7 +26,7 @@
         </form>
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="#productos.html">Atención al Cliente</a>
+            <a class="nav-link" href="{% link consulta-sugerencias.html %}">Atención al Cliente</a>
           </li>
         </ul>
         <span class="navbar-text">617-4004</span>
@@ -104,12 +104,9 @@
             <a class="font-weight-bold dropdown-item" href="#">Buen Gobierno Coporativo</a>
             <a class="dropdown-item" href="{% link prevencion-lavado-activos.html %}">Prevención de Lavado de Activos</a>
             <a class="dropdown-item" href="{% link prevencion-anticorrupcion.html %}">Prevención y Anticorrupción</a>
-            <a class="dropdown-item" href="{% link sobornos.html %}">Sobornos</a>
             <a class="dropdown-item" href="{% link linea-denuncias.html %}">Línea de Denuncias</a>
-            <a class="font-weight-bold dropdown-item" href="{% link trabaja-hermes.html %}">Trabaja En Hermes</a>
-            <a class="dropdown-item" href="{% link linea-carrera.html %}">Línea de Carrera</a>
-            <a class="dropdown-item" href="{% link beneficios.html %}">Beneficios</a>
-            <a class="dropdown-item" href="{% link ofertas-laborales.html %}">Ofertas Laborales</a>
+            <a class="font-weight-bold dropdown-item" href="https://www.facebook.com/hermesperu/">Trabaja En Hermes</a>
+            </a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -277,28 +274,16 @@
           <a href="{% link prevencion-anticorrupcion.html %}">Prevención y Anticorrupción</a>
         </li>
         <li class="list-group-item list-group-cozy">
-          <a href="{% link sobornos.html %}">Sobornos</a>
-        </li>
-        <li class="list-group-item list-group-cozy">
           <a href="{% link linea-denuncias.html %}">Línea de Denuncias</a>
         </li>
       </ul>
     </div>
     <div class="col-4">
       <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/hermes-3.png">
-      <strong class="d-block popover-heading">Trabaja en Hermes</strong>
+      <a href="https://www.facebook.com/hermesperu/">
+        <strong class="d-block popover-heading">Trabaja en Hermes</strong>
+      </a>
       <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
-      <ul class="list-group list-group-flush">
-        <li class="list-group-item list-group-cozy">
-          <a href="{% link linea-carrera.html %}">Línea de Carrera</a>
-        </li>
-        <li class="list-group-item list-group-cozy">
-          <a href="{% link beneficios.html %}">Beneficios</a>
-        </li>
-        <li class="list-group-item list-group-cozy">
-          <a href="{% link ofertas-laborales.html %}">Ofertas Laborales</a>
-        </li>
-      </ul>
     </div>
   </div>
 </div>
