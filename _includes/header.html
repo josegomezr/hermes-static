@@ -63,8 +63,10 @@
           <div class="dropdown-menu dropdown-small-font d-md-none">
             <a class="dropdown-item" href="{% link adm-puntos-atencion.html %}">Administración de Puntos de Atención</a>
             <a class="dropdown-item" href="{% link adm-locales-agencias.html %}">Administración de Locales y Agencias</a>
-            <a class="dropdown-item" href="{% link atencion-reclamos-requerimientos.html %}">Atención Comercial y Atención de Reclamos y Requerimientos</a>
-            
+            <a class="dropdown-item" href="{% link pagos-moviles.html %}">Pagos Moviles</a>
+            {% comment %}
+            <a class="dropdown-item" href="{% link atencion-reclamos-requerimientos.html %}">Atención Comercial y Atención de Reclamos y Requerimientos</a> 
+            {% endcomment %}
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -185,8 +187,13 @@
       <a href="{% link adm-locales-agencias.html %}">Administración de Locales y Agencias</a>
     </li>
     <li class="list-group-item list-group-cozy">
+      <a href="{% link pagos-moviles.html %}">Pagos Moviles</a>
+    </li>
+    {% comment %}
+    <li class="list-group-item list-group-cozy">
       <a href="{% link atencion-reclamos-requerimientos.html %}">Atención Comercial y Atención De<br>reclamos y Requerimientos</a>
     </li>
+    {% endcomment %}
 
   </ul>
 </div>
