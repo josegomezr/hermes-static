@@ -23,7 +23,7 @@
     matched = jQuery.uaMatch( navigator.userAgent );
     browser = {};
 
-    if (UAString.indexOf("Trident") !== -1 && UAString.indexOf("rv:11") !== -1)
+    if (navigator.userAgent.indexOf("Trident") !== -1 && navigator.userAgent.indexOf("rv:11") !== -1)
     {
         matched.browser = 'msie';
         matched.version = 11
