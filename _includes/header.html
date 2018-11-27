@@ -64,9 +64,6 @@
             <a class="dropdown-item" href="{% link adm-puntos-atencion.html %}">Administración de Puntos de Atención</a>
             <a class="dropdown-item" href="{% link adm-locales-agencias.html %}">Administración de Locales y Agencias</a>
             <a class="dropdown-item" href="{% link pagos-moviles.html %}">Pagos Moviles</a>
-            {% comment %}
-            <a class="dropdown-item" href="{% link atencion-reclamos-requerimientos.html %}">Atención Comercial y Atención de Reclamos y Requerimientos</a> 
-            {% endcomment %}
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -130,7 +127,7 @@
   </div>
 </div>
 
-<div class="d-none py-3 px-2 popover-blue-links" id="valores-popover">
+<div class="d-none py-3 px-2 popover-blue-links popover-fix-width" id="valores-popover">
   <div class="row clearfix">
     <div class="col-6">
       <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/traslado-valores.png">
@@ -175,7 +172,7 @@
     </div>
   </div>
 </div>
-<div class="d-none py-3 px-2 popover-blue-links" id="canales-popover">
+<div class="d-none py-3 px-2 popover-blue-links popover-fix-width" id="canales-popover">
   <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/locales.svg" width="40">
   <strong class="d-block popover-heading">Administración de Puntos de Atención</strong>
   <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
@@ -189,15 +186,9 @@
     <li class="list-group-item list-group-cozy">
       <a href="{% link pagos-moviles.html %}">Pagos Moviles</a>
     </li>
-    {% comment %}
-    <li class="list-group-item list-group-cozy">
-      <a href="{% link atencion-reclamos-requerimientos.html %}">Atención Comercial y Atención De<br>reclamos y Requerimientos</a>
-    </li>
-    {% endcomment %}
-
   </ul>
 </div>
-<div class="d-none py-3 px-2 popover-blue-links" id="documentos-popover">
+<div class="d-none py-3 px-2 popover-blue-links popover-fix-width" id="documentos-popover">
   <div class="row clearfix">
     <div class="col-6">
       <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/distribucion-nacional.png">
@@ -242,7 +233,7 @@
     </div>
   </div>
 </div>
-<div class="d-none py-3 px-2 popover-blue-links" id="acerca-hermes-popover">
+<div class="d-none py-3 px-2 popover-blue-links popover-fix-width" id="acerca-hermes-popover">
   <div class="row clearfix">
     <div class="col-4">
       <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/hermes-1.png">
@@ -294,7 +285,7 @@
     </div>
   </div>
 </div>
-<div class="d-none py-3 px-2 popover-blue-links" id="zona-clientes-popover">
+<div class="d-none py-3 px-2 popover-blue-links popover-fix-width" id="zona-clientes-popover">
   <img class="mr-1 d-none d-md-inline mb-2" src="{{ site.base_url }}assets/icons/hermes-linea.png">
   <strong class="d-block popover-heading">Soluciones en línea</strong>
   <!-- <hr class="nav-divider mt-1 mb-2 ml-0"> -->
@@ -309,4 +300,59 @@
       <a href="https://srvoas1.hermes.com.pe/controlAccesoWeb/login.html">Facturación</a>
     </li>
   </ul>
+</div>
+
+<!-- UGLY UGLY UGLY HACK FOR IE -->
+
+<style type="text/css" id="patcher-styles"></style>
+
+<div class="d-none" id="style-fix-valores-popover">
+  .popover-fix-width{
+    width: 100%;
+  }
+
+  .popover-fullwidth{
+    max-width: 960px;
+    width: 610px;
+  }
+</div>
+<div class="d-none" id="style-fix-canales-popover">
+  .popover-fix-width{
+    width: 100%;
+  }
+  
+  .popover-fullwidth{
+    max-width: 960px;
+    width: 320px;
+  }
+</div>
+<div class="d-none" id="style-fix-documentos-popover">
+  .popover-fix-width{
+    width: 100%;
+  }
+  
+  .popover-fullwidth{
+    max-width: 960px;
+    width: 720px;
+  }
+</div>
+<div class="d-none" id="style-fix-acerca-hermes-popover">
+  .popover-fix-width{
+    width: 100%;
+  }
+  
+  .popover-fullwidth{
+    max-width: 960px;
+    width: 720px;
+  }
+</div>
+<div class="d-none" id="style-fix-zona-clientes-popover">
+  .popover-fix-width{
+    width: 100%;
+  }
+  
+  .popover-fullwidth{
+    max-width: 960px;
+    width: 260px;
+  }
 </div>
