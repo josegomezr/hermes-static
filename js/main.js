@@ -51,8 +51,8 @@ function isSM() {
 
 function throttle(callback, wait, context) {
   context = context || this;
-  let timeout = null;
-  let callbackArgs = null;
+  var timeout = null;
+  var callbackArgs = null;
 
   const later = function () {
     callback.apply(context, callbackArgs);
