@@ -54,7 +54,7 @@ function throttle(callback, wait, context) {
   var timeout = null;
   var callbackArgs = null;
 
-  const later = function () {
+  var later = function () {
     callback.apply(context, callbackArgs);
     timeout = null;
   };
