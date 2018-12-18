@@ -245,3 +245,106 @@ $('[data-popover-target="#zona-clientes-popover"]').on('click', function () {
     $("#patcher-styles").text(patchedcss);
   }
 });
+
+if ($.validator) {
+  $.validator.messages.required = 'Verifique';
+  var ValidatorDefaults = {
+    highlight: function(element) {
+      $(element).closest('.form-control').addClass('is-invalid');
+    },
+    unhighlight: function(element) {
+      $(element).closest('.form-control').removeClass('is-invalid');
+    },
+    errorElement: 'div',
+    errorClass: 'help-block text-danger',
+    errorPlacement: function(error, element) {
+      // $form.addClass('was-validated')
+      if (element.parent('.input-group').length) {
+        error.insertAfter(element.parent());
+      } else {
+        error.insertAfter(element);
+      }
+    },
+  }
+
+  var formCFG = $.extend({}, ValidatorDefaults, {
+    rules:{
+      tipo_doc: {
+        required: true,
+      },
+      documento: {
+        required: true,
+      },
+      nombres: {
+        required: true,
+      },
+      apellido_paterno: {
+        required: true,
+      },
+      apellido_materno: {
+        required: true,
+      },
+      departamento: {
+        required: true,
+      },
+      provincia: {
+        required: true,
+      },
+      distrito: {
+        required: true,
+      },
+      domicilio: {
+        required: true,
+      },
+      telefono: {
+        required: true,
+      },
+      email: {
+        required: true,
+      },
+      empresa: {
+        required: true,
+      },
+      detalle: {
+        required: true,
+      }
+    },
+    submitHandler: function(){
+      grecaptcha.execute();
+    }
+  })
+
+  $("#form-consulta-sugerencia").validate(formCFG);
+}
+
+$("#provincia").slaveSelect({
+  fetchUrl: "/assets/provincias.json",
+  dependsOn: $('#departamento').eq(0),
+  mapRow: function(row){
+    return {
+      pk: row.prov_id,
+      label: row.provincia
+    }
+  },
+  filterRow: function(row){
+    return $("#departamento").val() == row.dep_id;
+  }
+})
+
+$("#distrito").slaveSelect({
+  fetchUrl: "/assets/distritos.json",
+  dependsOn: $('#provincia').eq(0),
+  mapRow: function(row){
+    return {
+      pk: row.prov_id,
+      label: row.distrito
+    }
+  },
+  filterRow: function(row){
+    return $("#provincia").val() == row.prov_id;
+  }
+})
+
+function onAfterSugerenciasSubmit() {
+  $("#form-consulta-sugerencia")[0].submit();
+}

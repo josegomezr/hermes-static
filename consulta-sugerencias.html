@@ -9,7 +9,7 @@ title: Consultas y Sugerencias
   
   <div class="container mt-4">
     <h3 class="hermes-heading hermes-page-header mb-4">Consultas y Sugerencias</h3>
-    <form action="{% link form-exito.html %}">
+    <form action="{% link form-exito.html %}" id="form-consulta-sugerencia" method="post">
       <fieldset class="form-group">
         <div class="row">
           <legend class="col-form-label col-sm-3 pt-0">Usted Desea realizar una: </legend>
@@ -45,19 +45,19 @@ title: Consultas y Sugerencias
       <div class="row">
         <div class="col">
           <div class="form-group">
-            <input type="text" class="form-control" placeholder="Nombres">
+            <input type="text" class="form-control" name="nombres" placeholder="Nombres">
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col">
           <div class="form-group">
-            <input type="text" class="form-control" placeholder="Apellido Paterno">
+            <input type="text" class="form-control" name="apellido_paterno" placeholder="Apellido Paterno">
           </div>
         </div>
         <div class="col">
           <div class="form-group">
-            <input type="text" class="form-control" placeholder="Apellido Materno">
+            <input type="text" class="form-control" name="apellido_materno" placeholder="Apellido Materno">
           </div>
         </div>
       </div>
@@ -65,23 +65,47 @@ title: Consultas y Sugerencias
       <div class="row">
         <div class="col">
           <div class="form-group">
-            <select id="inputState" class="form-control">
-              <option selected="">Departamento</option>
-              <option>...</option>
+            <select class="form-control" name="departamento" id="departamento">
+              <option value="" selected="">Departamento</option>
+              <option value="01">AMAZONAS</option>
+              <option value="02">ÁNCASH</option>
+              <option value="03">APURÍMAC</option>
+              <option value="04">AREQUIPA</option>
+              <option value="05">AYACUCHO</option>
+              <option value="06">CAJAMARCA</option>
+              <option value="07">CALLAO</option>
+              <option value="08">CUSCO</option>
+              <option value="09">HUANCAVELICA</option>
+              <option value="10">HUÁNUCO</option>
+              <option value="11">ICA</option>
+              <option value="12">JUNÍN</option>
+              <option value="13">LA LIBERTAD</option>
+              <option value="14">LAMBAYEQUE</option>
+              <option value="15">LIMA</option>
+              <option value="16">LORETO</option>
+              <option value="17">MADRE DE DIOS</option>
+              <option value="18">MOQUEGUA</option>
+              <option value="19">PASCO</option>
+              <option value="20">PIURA</option>
+              <option value="21">PUNO</option>
+              <option value="22">SAN MARTÍN</option>
+              <option value="23">TACNA</option>
+              <option value="24">TUMBES</option>
+              <option value="25">UCAYALI</option>
+
             </select>
           </div>
         </div>
         <div class="col">
           <div class="form-group">
-            <select id="inputState" class="form-control">
+            <select class="form-control" name="provincia" id="provincia">
               <option selected="">Provincia</option>
-              <option>...</option>
             </select>
           </div>
         </div>
         <div class="col">
           <div class="form-group">
-            <select id="inputState" class="form-control">
+            <select class="form-control" name="distrito" id="distrito">
               <option selected="">Distrito</option>
               <option>...</option>
             </select>
@@ -92,21 +116,21 @@ title: Consultas y Sugerencias
       <div class="row">
         <div class="col">
           <div class="form-group">
-            <input type="text" class="form-control" placeholder="Domicilio">
+            <input type="text" class="form-control" placeholder="Domicilio" name="domicilio">
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col col-sm-4">
           <div class="form-group">
-            <input type="text" class="form-control" placeholder="Telefono/Celular">
+            <input type="text" class="form-control" placeholder="Telefono/Celular" name="telefono">
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col">
           <div class="form-group">
-            <input type="text" class="form-control" placeholder="Email">
+            <input type="text" class="form-control" placeholder="Email" name="email">
           </div>
         </div>
       </div>
@@ -114,31 +138,32 @@ title: Consultas y Sugerencias
       <div class="row">
         <div class="col">
           <div class="form-group">
-            <input type="text" class="form-control" placeholder="Empresa">
+            <input type="text" class="form-control" placeholder="Empresa" name="empresa">
           </div>
         </div>
       </div>
 
       <div class="form-group">
         <label for="exampleFormControlTextarea1">Detalle</label>
-        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        <textarea name="detalle" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
       </div>
 
-      <div class="row">
-        <div class="col col-sm-5">
-          <div class="form-group">
-            <img src="https://placehold.it/200x100/fff/000?text=x9Azxf" alt="" class="border mb-3">
-            <input type="text" class="form-control" placeholder="Ingresa el código que aparece en la imágen">
-            <!-- <div class="g-recaptcha" data-sitekey="6LcUsG4UAAAAAMyoY8MRP24rX2TvjdvOftY_O1OZ"></div> -->
-          </div>
-        </div>
-      </div>
+      
 
       <div class="form-group row">
         <div class="col-sm-10">
           <button type="submit" class="btn btn-primary">Enviar</button>
         </div>
       </div>
+
+      <div class="g-recaptcha"
+          data-sitekey="6Ld4roIUAAAAAEJek9NS0vCiBN4QpAyFlCHw9uju"
+          data-callback="onAfterSugerenciasSubmit"
+          data-size="invisible"></div>
+
     </form>
   </div>
 </div>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+

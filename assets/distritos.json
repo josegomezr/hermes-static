@@ -1,0 +1,9337 @@
+[
+  {
+    "dist_id": "010101",
+    "distrito": "CHACHAPOYAS",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010102",
+    "distrito": "ASUNCIÓN",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010103",
+    "distrito": "BALSAS",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010104",
+    "distrito": "CHETO",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010105",
+    "distrito": "CHILIQUIN",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010106",
+    "distrito": "CHUQUIBAMBA",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010107",
+    "distrito": "GRANADA",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010108",
+    "distrito": "HUANCAS",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010109",
+    "distrito": "LA JALCA",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010110",
+    "distrito": "LEIMEBAMBA",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010111",
+    "distrito": "LEVANTO",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010112",
+    "distrito": "MAGDALENA",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010113",
+    "distrito": "MARISCAL CASTILLA",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010114",
+    "distrito": "MOLINOPAMPA",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010115",
+    "distrito": "MONTEVIDEO",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010116",
+    "distrito": "OLLEROS",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010117",
+    "distrito": "QUINJALCA",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010118",
+    "distrito": "SAN FRANCISCO DE DAGUAS",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010119",
+    "distrito": "SAN ISIDRO DE MAINO",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010120",
+    "distrito": "SOLOCO",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010121",
+    "distrito": "SONCHE",
+    "prov_id": "0101"
+  },
+  {
+    "dist_id": "010201",
+    "distrito": "BAGUA",
+    "prov_id": "0102"
+  },
+  {
+    "dist_id": "010202",
+    "distrito": "ARAMANGO",
+    "prov_id": "0102"
+  },
+  {
+    "dist_id": "010203",
+    "distrito": "COPALLIN",
+    "prov_id": "0102"
+  },
+  {
+    "dist_id": "010204",
+    "distrito": "EL PARCO",
+    "prov_id": "0102"
+  },
+  {
+    "dist_id": "010205",
+    "distrito": "IMAZA",
+    "prov_id": "0102"
+  },
+  {
+    "dist_id": "010206",
+    "distrito": "LA PECA",
+    "prov_id": "0102"
+  },
+  {
+    "dist_id": "010301",
+    "distrito": "JUMBILLA",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010302",
+    "distrito": "CHISQUILLA",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010303",
+    "distrito": "CHURUJA",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010304",
+    "distrito": "COROSHA",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010305",
+    "distrito": "CUISPES",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010306",
+    "distrito": "FLORIDA",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010307",
+    "distrito": "JAZAN",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010308",
+    "distrito": "RECTA",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010309",
+    "distrito": "SAN CARLOS",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010310",
+    "distrito": "SHIPASBAMBA",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010311",
+    "distrito": "VALERA",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010312",
+    "distrito": "YAMBRASBAMBA",
+    "prov_id": "0103"
+  },
+  {
+    "dist_id": "010401",
+    "distrito": "NIEVA",
+    "prov_id": "0104"
+  },
+  {
+    "dist_id": "010402",
+    "distrito": "EL CENEPA",
+    "prov_id": "0104"
+  },
+  {
+    "dist_id": "010403",
+    "distrito": "RÍO SANTIAGO",
+    "prov_id": "0104"
+  },
+  {
+    "dist_id": "010501",
+    "distrito": "LAMUD",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010502",
+    "distrito": "CAMPORREDONDO",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010503",
+    "distrito": "COCABAMBA",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010504",
+    "distrito": "COLCAMAR",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010505",
+    "distrito": "CONILA",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010506",
+    "distrito": "INGUILPATA",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010507",
+    "distrito": "LONGUITA",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010508",
+    "distrito": "LONYA CHICO",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010509",
+    "distrito": "LUYA",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010510",
+    "distrito": "LUYA VIEJO",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010511",
+    "distrito": "MARÍA",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010512",
+    "distrito": "OCALLI",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010513",
+    "distrito": "OCUMAL",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010514",
+    "distrito": "PISUQUIA",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010515",
+    "distrito": "PROVIDENCIA",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010516",
+    "distrito": "SAN CRISTÓBAL",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010517",
+    "distrito": "SAN FRANCISCO DE YESO",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010518",
+    "distrito": "SAN JERÓNIMO",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010519",
+    "distrito": "SAN JUAN DE LOPECANCHA",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010520",
+    "distrito": "SANTA CATALINA",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010521",
+    "distrito": "SANTO TOMAS",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010522",
+    "distrito": "TINGO",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010523",
+    "distrito": "TRITA",
+    "prov_id": "0105"
+  },
+  {
+    "dist_id": "010601",
+    "distrito": "SAN NICOLÁS",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010602",
+    "distrito": "CHIRIMOTO",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010603",
+    "distrito": "COCHAMAL",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010604",
+    "distrito": "HUAMBO",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010605",
+    "distrito": "LIMABAMBA",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010606",
+    "distrito": "LONGAR",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010607",
+    "distrito": "MARISCAL BENAVIDES",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010608",
+    "distrito": "MILPUC",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010609",
+    "distrito": "OMIA",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010610",
+    "distrito": "SANTA ROSA",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010611",
+    "distrito": "TOTORA",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010612",
+    "distrito": "VISTA ALEGRE",
+    "prov_id": "0106"
+  },
+  {
+    "dist_id": "010701",
+    "distrito": "BAGUA GRANDE",
+    "prov_id": "0107"
+  },
+  {
+    "dist_id": "010702",
+    "distrito": "CAJARURO",
+    "prov_id": "0107"
+  },
+  {
+    "dist_id": "010703",
+    "distrito": "CUMBA",
+    "prov_id": "0107"
+  },
+  {
+    "dist_id": "010704",
+    "distrito": "EL MILAGRO",
+    "prov_id": "0107"
+  },
+  {
+    "dist_id": "010705",
+    "distrito": "JAMALCA",
+    "prov_id": "0107"
+  },
+  {
+    "dist_id": "010706",
+    "distrito": "LONYA GRANDE",
+    "prov_id": "0107"
+  },
+  {
+    "dist_id": "010707",
+    "distrito": "YAMON",
+    "prov_id": "0107"
+  },
+  {
+    "dist_id": "020101",
+    "distrito": "HUARAZ",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020102",
+    "distrito": "COCHABAMBA",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020103",
+    "distrito": "COLCABAMBA",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020104",
+    "distrito": "HUANCHAY",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020105",
+    "distrito": "INDEPENDENCIA",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020106",
+    "distrito": "JANGAS",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020107",
+    "distrito": "LA LIBERTAD",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020108",
+    "distrito": "OLLEROS",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020109",
+    "distrito": "PAMPAS GRANDE",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020110",
+    "distrito": "PARIACOTO",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020111",
+    "distrito": "PIRA",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020112",
+    "distrito": "TARICA",
+    "prov_id": "0201"
+  },
+  {
+    "dist_id": "020201",
+    "distrito": "AIJA",
+    "prov_id": "0202"
+  },
+  {
+    "dist_id": "020202",
+    "distrito": "CORIS",
+    "prov_id": "0202"
+  },
+  {
+    "dist_id": "020203",
+    "distrito": "HUACLLAN",
+    "prov_id": "0202"
+  },
+  {
+    "dist_id": "020204",
+    "distrito": "LA MERCED",
+    "prov_id": "0202"
+  },
+  {
+    "dist_id": "020205",
+    "distrito": "SUCCHA",
+    "prov_id": "0202"
+  },
+  {
+    "dist_id": "020301",
+    "distrito": "LLAMELLIN",
+    "prov_id": "0203"
+  },
+  {
+    "dist_id": "020302",
+    "distrito": "ACZO",
+    "prov_id": "0203"
+  },
+  {
+    "dist_id": "020303",
+    "distrito": "CHACCHO",
+    "prov_id": "0203"
+  },
+  {
+    "dist_id": "020304",
+    "distrito": "CHINGAS",
+    "prov_id": "0203"
+  },
+  {
+    "dist_id": "020305",
+    "distrito": "MIRGAS",
+    "prov_id": "0203"
+  },
+  {
+    "dist_id": "020306",
+    "distrito": "SAN JUAN DE RONTOY",
+    "prov_id": "0203"
+  },
+  {
+    "dist_id": "020401",
+    "distrito": "CHACAS",
+    "prov_id": "0204"
+  },
+  {
+    "dist_id": "020402",
+    "distrito": "ACOCHACA",
+    "prov_id": "0204"
+  },
+  {
+    "dist_id": "020501",
+    "distrito": "CHIQUIAN",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020502",
+    "distrito": "ABELARDO PARDO LEZAMETA",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020503",
+    "distrito": "ANTONIO RAYMONDI",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020504",
+    "distrito": "AQUIA",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020505",
+    "distrito": "CAJACAY",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020506",
+    "distrito": "CANIS",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020507",
+    "distrito": "COLQUIOC",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020508",
+    "distrito": "HUALLANCA",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020509",
+    "distrito": "HUASTA",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020510",
+    "distrito": "HUAYLLACAYAN",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020511",
+    "distrito": "LA PRIMAVERA",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020512",
+    "distrito": "MANGAS",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020513",
+    "distrito": "PACLLON",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020514",
+    "distrito": "SAN MIGUEL DE CORPANQUI",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020515",
+    "distrito": "TICLLOS",
+    "prov_id": "0205"
+  },
+  {
+    "dist_id": "020601",
+    "distrito": "CARHUAZ",
+    "prov_id": "0206"
+  },
+  {
+    "dist_id": "020602",
+    "distrito": "ACOPAMPA",
+    "prov_id": "0206"
+  },
+  {
+    "dist_id": "020603",
+    "distrito": "AMASHCA",
+    "prov_id": "0206"
+  },
+  {
+    "dist_id": "020604",
+    "distrito": "ANTA",
+    "prov_id": "0206"
+  },
+  {
+    "dist_id": "020605",
+    "distrito": "ATAQUERO",
+    "prov_id": "0206"
+  },
+  {
+    "dist_id": "020606",
+    "distrito": "MARCARA",
+    "prov_id": "0206"
+  },
+  {
+    "dist_id": "020607",
+    "distrito": "PARIAHUANCA",
+    "prov_id": "0206"
+  },
+  {
+    "dist_id": "020608",
+    "distrito": "SAN MIGUEL DE ACO",
+    "prov_id": "0206"
+  },
+  {
+    "dist_id": "020609",
+    "distrito": "SHILLA",
+    "prov_id": "0206"
+  },
+  {
+    "dist_id": "020610",
+    "distrito": "TINCO",
+    "prov_id": "0206"
+  },
+  {
+    "dist_id": "020611",
+    "distrito": "YUNGAR",
+    "prov_id": "0206"
+  },
+  {
+    "dist_id": "020701",
+    "distrito": "SAN LUIS",
+    "prov_id": "0207"
+  },
+  {
+    "dist_id": "020702",
+    "distrito": "SAN NICOLÁS",
+    "prov_id": "0207"
+  },
+  {
+    "dist_id": "020703",
+    "distrito": "YAUYA",
+    "prov_id": "0207"
+  },
+  {
+    "dist_id": "020801",
+    "distrito": "CASMA",
+    "prov_id": "0208"
+  },
+  {
+    "dist_id": "020802",
+    "distrito": "BUENA VISTA ALTA",
+    "prov_id": "0208"
+  },
+  {
+    "dist_id": "020803",
+    "distrito": "COMANDANTE NOEL",
+    "prov_id": "0208"
+  },
+  {
+    "dist_id": "020804",
+    "distrito": "YAUTAN",
+    "prov_id": "0208"
+  },
+  {
+    "dist_id": "020901",
+    "distrito": "CORONGO",
+    "prov_id": "0209"
+  },
+  {
+    "dist_id": "020902",
+    "distrito": "ACO",
+    "prov_id": "0209"
+  },
+  {
+    "dist_id": "020903",
+    "distrito": "BAMBAS",
+    "prov_id": "0209"
+  },
+  {
+    "dist_id": "020904",
+    "distrito": "CUSCA",
+    "prov_id": "0209"
+  },
+  {
+    "dist_id": "020905",
+    "distrito": "LA PAMPA",
+    "prov_id": "0209"
+  },
+  {
+    "dist_id": "020906",
+    "distrito": "YANAC",
+    "prov_id": "0209"
+  },
+  {
+    "dist_id": "020907",
+    "distrito": "YUPAN",
+    "prov_id": "0209"
+  },
+  {
+    "dist_id": "021001",
+    "distrito": "HUARI",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021002",
+    "distrito": "ANRA",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021003",
+    "distrito": "CAJAY",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021004",
+    "distrito": "CHAVIN DE HUANTAR",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021005",
+    "distrito": "HUACACHI",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021006",
+    "distrito": "HUACCHIS",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021007",
+    "distrito": "HUACHIS",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021008",
+    "distrito": "HUANTAR",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021009",
+    "distrito": "MASIN",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021010",
+    "distrito": "PAUCAS",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021011",
+    "distrito": "PONTO",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021012",
+    "distrito": "RAHUAPAMPA",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021013",
+    "distrito": "RAPAYAN",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021014",
+    "distrito": "SAN MARCOS",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021015",
+    "distrito": "SAN PEDRO DE CHANA",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021016",
+    "distrito": "UCO",
+    "prov_id": "0210"
+  },
+  {
+    "dist_id": "021101",
+    "distrito": "HUARMEY",
+    "prov_id": "0211"
+  },
+  {
+    "dist_id": "021102",
+    "distrito": "COCHAPETI",
+    "prov_id": "0211"
+  },
+  {
+    "dist_id": "021103",
+    "distrito": "CULEBRAS",
+    "prov_id": "0211"
+  },
+  {
+    "dist_id": "021104",
+    "distrito": "HUAYAN",
+    "prov_id": "0211"
+  },
+  {
+    "dist_id": "021105",
+    "distrito": "MALVAS",
+    "prov_id": "0211"
+  },
+  {
+    "dist_id": "021201",
+    "distrito": "CARAZ",
+    "prov_id": "0212"
+  },
+  {
+    "dist_id": "021202",
+    "distrito": "HUALLANCA",
+    "prov_id": "0212"
+  },
+  {
+    "dist_id": "021203",
+    "distrito": "HUATA",
+    "prov_id": "0212"
+  },
+  {
+    "dist_id": "021204",
+    "distrito": "HUAYLAS",
+    "prov_id": "0212"
+  },
+  {
+    "dist_id": "021205",
+    "distrito": "MATO",
+    "prov_id": "0212"
+  },
+  {
+    "dist_id": "021206",
+    "distrito": "PAMPAROMAS",
+    "prov_id": "0212"
+  },
+  {
+    "dist_id": "021207",
+    "distrito": "PUEBLO LIBRE",
+    "prov_id": "0212"
+  },
+  {
+    "dist_id": "021208",
+    "distrito": "SANTA CRUZ",
+    "prov_id": "0212"
+  },
+  {
+    "dist_id": "021209",
+    "distrito": "SANTO TORIBIO",
+    "prov_id": "0212"
+  },
+  {
+    "dist_id": "021210",
+    "distrito": "YURACMARCA",
+    "prov_id": "0212"
+  },
+  {
+    "dist_id": "021301",
+    "distrito": "PISCOBAMBA",
+    "prov_id": "0213"
+  },
+  {
+    "dist_id": "021302",
+    "distrito": "CASCA",
+    "prov_id": "0213"
+  },
+  {
+    "dist_id": "021303",
+    "distrito": "ELEAZAR GUZMÁN BARRON",
+    "prov_id": "0213"
+  },
+  {
+    "dist_id": "021304",
+    "distrito": "FIDEL OLIVAS ESCUDERO",
+    "prov_id": "0213"
+  },
+  {
+    "dist_id": "021305",
+    "distrito": "LLAMA",
+    "prov_id": "0213"
+  },
+  {
+    "dist_id": "021306",
+    "distrito": "LLUMPA",
+    "prov_id": "0213"
+  },
+  {
+    "dist_id": "021307",
+    "distrito": "LUCMA",
+    "prov_id": "0213"
+  },
+  {
+    "dist_id": "021308",
+    "distrito": "MUSGA",
+    "prov_id": "0213"
+  },
+  {
+    "dist_id": "021401",
+    "distrito": "OCROS",
+    "prov_id": "0214"
+  },
+  {
+    "dist_id": "021402",
+    "distrito": "ACAS",
+    "prov_id": "0214"
+  },
+  {
+    "dist_id": "021403",
+    "distrito": "CAJAMARQUILLA",
+    "prov_id": "0214"
+  },
+  {
+    "dist_id": "021404",
+    "distrito": "CARHUAPAMPA",
+    "prov_id": "0214"
+  },
+  {
+    "dist_id": "021405",
+    "distrito": "COCHAS",
+    "prov_id": "0214"
+  },
+  {
+    "dist_id": "021406",
+    "distrito": "CONGAS",
+    "prov_id": "0214"
+  },
+  {
+    "dist_id": "021407",
+    "distrito": "LLIPA",
+    "prov_id": "0214"
+  },
+  {
+    "dist_id": "021408",
+    "distrito": "SAN CRISTÓBAL DE RAJAN",
+    "prov_id": "0214"
+  },
+  {
+    "dist_id": "021409",
+    "distrito": "SAN PEDRO",
+    "prov_id": "0214"
+  },
+  {
+    "dist_id": "021410",
+    "distrito": "SANTIAGO DE CHILCAS",
+    "prov_id": "0214"
+  },
+  {
+    "dist_id": "021501",
+    "distrito": "CABANA",
+    "prov_id": "0215"
+  },
+  {
+    "dist_id": "021502",
+    "distrito": "BOLOGNESI",
+    "prov_id": "0215"
+  },
+  {
+    "dist_id": "021503",
+    "distrito": "CONCHUCOS",
+    "prov_id": "0215"
+  },
+  {
+    "dist_id": "021504",
+    "distrito": "HUACASCHUQUE",
+    "prov_id": "0215"
+  },
+  {
+    "dist_id": "021505",
+    "distrito": "HUANDOVAL",
+    "prov_id": "0215"
+  },
+  {
+    "dist_id": "021506",
+    "distrito": "LACABAMBA",
+    "prov_id": "0215"
+  },
+  {
+    "dist_id": "021507",
+    "distrito": "LLAPO",
+    "prov_id": "0215"
+  },
+  {
+    "dist_id": "021508",
+    "distrito": "PALLASCA",
+    "prov_id": "0215"
+  },
+  {
+    "dist_id": "021509",
+    "distrito": "PAMPAS",
+    "prov_id": "0215"
+  },
+  {
+    "dist_id": "021510",
+    "distrito": "SANTA ROSA",
+    "prov_id": "0215"
+  },
+  {
+    "dist_id": "021511",
+    "distrito": "TAUCA",
+    "prov_id": "0215"
+  },
+  {
+    "dist_id": "021601",
+    "distrito": "POMABAMBA",
+    "prov_id": "0216"
+  },
+  {
+    "dist_id": "021602",
+    "distrito": "HUAYLLAN",
+    "prov_id": "0216"
+  },
+  {
+    "dist_id": "021603",
+    "distrito": "PAROBAMBA",
+    "prov_id": "0216"
+  },
+  {
+    "dist_id": "021604",
+    "distrito": "QUINUABAMBA",
+    "prov_id": "0216"
+  },
+  {
+    "dist_id": "021701",
+    "distrito": "RECUAY",
+    "prov_id": "0217"
+  },
+  {
+    "dist_id": "021702",
+    "distrito": "CATAC",
+    "prov_id": "0217"
+  },
+  {
+    "dist_id": "021703",
+    "distrito": "COTAPARACO",
+    "prov_id": "0217"
+  },
+  {
+    "dist_id": "021704",
+    "distrito": "HUAYLLAPAMPA",
+    "prov_id": "0217"
+  },
+  {
+    "dist_id": "021705",
+    "distrito": "LLACLLIN",
+    "prov_id": "0217"
+  },
+  {
+    "dist_id": "021706",
+    "distrito": "MARCA",
+    "prov_id": "0217"
+  },
+  {
+    "dist_id": "021707",
+    "distrito": "PAMPAS CHICO",
+    "prov_id": "0217"
+  },
+  {
+    "dist_id": "021708",
+    "distrito": "PARARIN",
+    "prov_id": "0217"
+  },
+  {
+    "dist_id": "021709",
+    "distrito": "TAPACOCHA",
+    "prov_id": "0217"
+  },
+  {
+    "dist_id": "021710",
+    "distrito": "TICAPAMPA",
+    "prov_id": "0217"
+  },
+  {
+    "dist_id": "021801",
+    "distrito": "CHIMBOTE",
+    "prov_id": "0218"
+  },
+  {
+    "dist_id": "021802",
+    "distrito": "CÁCERES DEL PERÚ",
+    "prov_id": "0218"
+  },
+  {
+    "dist_id": "021803",
+    "distrito": "COISHCO",
+    "prov_id": "0218"
+  },
+  {
+    "dist_id": "021804",
+    "distrito": "MACATE",
+    "prov_id": "0218"
+  },
+  {
+    "dist_id": "021805",
+    "distrito": "MORO",
+    "prov_id": "0218"
+  },
+  {
+    "dist_id": "021806",
+    "distrito": "NEPEÑA",
+    "prov_id": "0218"
+  },
+  {
+    "dist_id": "021807",
+    "distrito": "SAMANCO",
+    "prov_id": "0218"
+  },
+  {
+    "dist_id": "021808",
+    "distrito": "SANTA",
+    "prov_id": "0218"
+  },
+  {
+    "dist_id": "021809",
+    "distrito": "NUEVO CHIMBOTE",
+    "prov_id": "0218"
+  },
+  {
+    "dist_id": "021901",
+    "distrito": "SIHUAS",
+    "prov_id": "0219"
+  },
+  {
+    "dist_id": "021902",
+    "distrito": "ACOBAMBA",
+    "prov_id": "0219"
+  },
+  {
+    "dist_id": "021903",
+    "distrito": "ALFONSO UGARTE",
+    "prov_id": "0219"
+  },
+  {
+    "dist_id": "021904",
+    "distrito": "CASHAPAMPA",
+    "prov_id": "0219"
+  },
+  {
+    "dist_id": "021905",
+    "distrito": "CHINGALPO",
+    "prov_id": "0219"
+  },
+  {
+    "dist_id": "021906",
+    "distrito": "HUAYLLABAMBA",
+    "prov_id": "0219"
+  },
+  {
+    "dist_id": "021907",
+    "distrito": "QUICHES",
+    "prov_id": "0219"
+  },
+  {
+    "dist_id": "021908",
+    "distrito": "RAGASH",
+    "prov_id": "0219"
+  },
+  {
+    "dist_id": "021909",
+    "distrito": "SAN JUAN",
+    "prov_id": "0219"
+  },
+  {
+    "dist_id": "021910",
+    "distrito": "SICSIBAMBA",
+    "prov_id": "0219"
+  },
+  {
+    "dist_id": "022001",
+    "distrito": "YUNGAY",
+    "prov_id": "0220"
+  },
+  {
+    "dist_id": "022002",
+    "distrito": "CASCAPARA",
+    "prov_id": "0220"
+  },
+  {
+    "dist_id": "022003",
+    "distrito": "MANCOS",
+    "prov_id": "0220"
+  },
+  {
+    "dist_id": "022004",
+    "distrito": "MATACOTO",
+    "prov_id": "0220"
+  },
+  {
+    "dist_id": "022005",
+    "distrito": "QUILLO",
+    "prov_id": "0220"
+  },
+  {
+    "dist_id": "022006",
+    "distrito": "RANRAHIRCA",
+    "prov_id": "0220"
+  },
+  {
+    "dist_id": "022007",
+    "distrito": "SHUPLUY",
+    "prov_id": "0220"
+  },
+  {
+    "dist_id": "022008",
+    "distrito": "YANAMA",
+    "prov_id": "0220"
+  },
+  {
+    "dist_id": "030101",
+    "distrito": "ABANCAY",
+    "prov_id": "0301"
+  },
+  {
+    "dist_id": "030102",
+    "distrito": "CHACOCHE",
+    "prov_id": "0301"
+  },
+  {
+    "dist_id": "030103",
+    "distrito": "CIRCA",
+    "prov_id": "0301"
+  },
+  {
+    "dist_id": "030104",
+    "distrito": "CURAHUASI",
+    "prov_id": "0301"
+  },
+  {
+    "dist_id": "030105",
+    "distrito": "HUANIPACA",
+    "prov_id": "0301"
+  },
+  {
+    "dist_id": "030106",
+    "distrito": "LAMBRAMA",
+    "prov_id": "0301"
+  },
+  {
+    "dist_id": "030107",
+    "distrito": "PICHIRHUA",
+    "prov_id": "0301"
+  },
+  {
+    "dist_id": "030108",
+    "distrito": "SAN PEDRO DE CACHORA",
+    "prov_id": "0301"
+  },
+  {
+    "dist_id": "030109",
+    "distrito": "TAMBURCO",
+    "prov_id": "0301"
+  },
+  {
+    "dist_id": "030201",
+    "distrito": "ANDAHUAYLAS",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030202",
+    "distrito": "ANDARAPA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030203",
+    "distrito": "CHIARA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030204",
+    "distrito": "HUANCARAMA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030205",
+    "distrito": "HUANCARAY",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030206",
+    "distrito": "HUAYANA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030207",
+    "distrito": "KISHUARA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030208",
+    "distrito": "PACOBAMBA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030209",
+    "distrito": "PACUCHA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030210",
+    "distrito": "PAMPACHIRI",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030211",
+    "distrito": "POMACOCHA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030212",
+    "distrito": "SAN ANTONIO DE CACHI",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030213",
+    "distrito": "SAN JERÓNIMO",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030214",
+    "distrito": "SAN MIGUEL DE CHACCRAMPA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030215",
+    "distrito": "SANTA MARÍA DE CHICMO",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030216",
+    "distrito": "TALAVERA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030217",
+    "distrito": "TUMAY HUARACA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030218",
+    "distrito": "TURPO",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030219",
+    "distrito": "KAQUIABAMBA",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030220",
+    "distrito": "JOSÉ MARÍA ARGUEDAS",
+    "prov_id": "0302"
+  },
+  {
+    "dist_id": "030301",
+    "distrito": "ANTABAMBA",
+    "prov_id": "0303"
+  },
+  {
+    "dist_id": "030302",
+    "distrito": "EL ORO",
+    "prov_id": "0303"
+  },
+  {
+    "dist_id": "030303",
+    "distrito": "HUAQUIRCA",
+    "prov_id": "0303"
+  },
+  {
+    "dist_id": "030304",
+    "distrito": "JUAN ESPINOZA MEDRANO",
+    "prov_id": "0303"
+  },
+  {
+    "dist_id": "030305",
+    "distrito": "OROPESA",
+    "prov_id": "0303"
+  },
+  {
+    "dist_id": "030306",
+    "distrito": "PACHACONAS",
+    "prov_id": "0303"
+  },
+  {
+    "dist_id": "030307",
+    "distrito": "SABAINO",
+    "prov_id": "0303"
+  },
+  {
+    "dist_id": "030401",
+    "distrito": "CHALHUANCA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030402",
+    "distrito": "CAPAYA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030403",
+    "distrito": "CARAYBAMBA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030404",
+    "distrito": "CHAPIMARCA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030405",
+    "distrito": "COLCABAMBA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030406",
+    "distrito": "COTARUSE",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030407",
+    "distrito": "IHUAYLLO",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030408",
+    "distrito": "JUSTO APU SAHUARAURA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030409",
+    "distrito": "LUCRE",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030410",
+    "distrito": "POCOHUANCA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030411",
+    "distrito": "SAN JUAN DE CHACÑA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030412",
+    "distrito": "SAÑAYCA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030413",
+    "distrito": "SORAYA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030414",
+    "distrito": "TAPAIRIHUA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030415",
+    "distrito": "TINTAY",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030416",
+    "distrito": "TORAYA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030417",
+    "distrito": "YANACA",
+    "prov_id": "0304"
+  },
+  {
+    "dist_id": "030501",
+    "distrito": "TAMBOBAMBA",
+    "prov_id": "0305"
+  },
+  {
+    "dist_id": "030502",
+    "distrito": "COTABAMBAS",
+    "prov_id": "0305"
+  },
+  {
+    "dist_id": "030503",
+    "distrito": "COYLLURQUI",
+    "prov_id": "0305"
+  },
+  {
+    "dist_id": "030504",
+    "distrito": "HAQUIRA",
+    "prov_id": "0305"
+  },
+  {
+    "dist_id": "030505",
+    "distrito": "MARA",
+    "prov_id": "0305"
+  },
+  {
+    "dist_id": "030506",
+    "distrito": "CHALLHUAHUACHO",
+    "prov_id": "0305"
+  },
+  {
+    "dist_id": "030601",
+    "distrito": "CHINCHEROS",
+    "prov_id": "0306"
+  },
+  {
+    "dist_id": "030602",
+    "distrito": "ANCO_HUALLO",
+    "prov_id": "0306"
+  },
+  {
+    "dist_id": "030603",
+    "distrito": "COCHARCAS",
+    "prov_id": "0306"
+  },
+  {
+    "dist_id": "030604",
+    "distrito": "HUACCANA",
+    "prov_id": "0306"
+  },
+  {
+    "dist_id": "030605",
+    "distrito": "OCOBAMBA",
+    "prov_id": "0306"
+  },
+  {
+    "dist_id": "030606",
+    "distrito": "ONGOY",
+    "prov_id": "0306"
+  },
+  {
+    "dist_id": "030607",
+    "distrito": "URANMARCA",
+    "prov_id": "0306"
+  },
+  {
+    "dist_id": "030608",
+    "distrito": "RANRACANCHA",
+    "prov_id": "0306"
+  },
+  {
+    "dist_id": "030609",
+    "distrito": "ROCCHACC",
+    "prov_id": "0306"
+  },
+  {
+    "dist_id": "030610",
+    "distrito": "EL PORVENIR",
+    "prov_id": "0306"
+  },
+  {
+    "dist_id": "030701",
+    "distrito": "CHUQUIBAMBILLA",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030702",
+    "distrito": "CURPAHUASI",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030703",
+    "distrito": "GAMARRA",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030704",
+    "distrito": "HUAYLLATI",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030705",
+    "distrito": "MAMARA",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030706",
+    "distrito": "MICAELA BASTIDAS",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030707",
+    "distrito": "PATAYPAMPA",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030708",
+    "distrito": "PROGRESO",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030709",
+    "distrito": "SAN ANTONIO",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030710",
+    "distrito": "SANTA ROSA",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030711",
+    "distrito": "TURPAY",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030712",
+    "distrito": "VILCABAMBA",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030713",
+    "distrito": "VIRUNDO",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "030714",
+    "distrito": "CURASCO",
+    "prov_id": "0307"
+  },
+  {
+    "dist_id": "040101",
+    "distrito": "AREQUIPA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040102",
+    "distrito": "ALTO SELVA ALEGRE",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040103",
+    "distrito": "CAYMA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040104",
+    "distrito": "CERRO COLORADO",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040105",
+    "distrito": "CHARACATO",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040106",
+    "distrito": "CHIGUATA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040107",
+    "distrito": "JACOBO HUNTER",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040108",
+    "distrito": "LA JOYA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040109",
+    "distrito": "MARIANO MELGAR",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040110",
+    "distrito": "MIRAFLORES",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040111",
+    "distrito": "MOLLEBAYA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040112",
+    "distrito": "PAUCARPATA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040113",
+    "distrito": "POCSI",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040114",
+    "distrito": "POLOBAYA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040115",
+    "distrito": "QUEQUEÑA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040116",
+    "distrito": "SABANDIA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040117",
+    "distrito": "SACHACA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040118",
+    "distrito": "SAN JUAN DE SIGUAS",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040119",
+    "distrito": "SAN JUAN DE TARUCANI",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040120",
+    "distrito": "SANTA ISABEL DE SIGUAS",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040121",
+    "distrito": "SANTA RITA DE SIGUAS",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040122",
+    "distrito": "SOCABAYA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040123",
+    "distrito": "TIABAYA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040124",
+    "distrito": "UCHUMAYO",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040125",
+    "distrito": "VITOR",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040126",
+    "distrito": "YANAHUARA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040127",
+    "distrito": "YARABAMBA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040128",
+    "distrito": "YURA",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040129",
+    "distrito": "JOSÉ LUIS BUSTAMANTE Y RIVERO",
+    "prov_id": "0401"
+  },
+  {
+    "dist_id": "040201",
+    "distrito": "CAMANÁ",
+    "prov_id": "0402"
+  },
+  {
+    "dist_id": "040202",
+    "distrito": "JOSÉ MARÍA QUIMPER",
+    "prov_id": "0402"
+  },
+  {
+    "dist_id": "040203",
+    "distrito": "MARIANO NICOLÁS VALCÁRCEL",
+    "prov_id": "0402"
+  },
+  {
+    "dist_id": "040204",
+    "distrito": "MARISCAL CÁCERES",
+    "prov_id": "0402"
+  },
+  {
+    "dist_id": "040205",
+    "distrito": "NICOLÁS DE PIEROLA",
+    "prov_id": "0402"
+  },
+  {
+    "dist_id": "040206",
+    "distrito": "OCOÑA",
+    "prov_id": "0402"
+  },
+  {
+    "dist_id": "040207",
+    "distrito": "QUILCA",
+    "prov_id": "0402"
+  },
+  {
+    "dist_id": "040208",
+    "distrito": "SAMUEL PASTOR",
+    "prov_id": "0402"
+  },
+  {
+    "dist_id": "040301",
+    "distrito": "CARAVELÍ",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040302",
+    "distrito": "ACARÍ",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040303",
+    "distrito": "ATICO",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040304",
+    "distrito": "ATIQUIPA",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040305",
+    "distrito": "BELLA UNIÓN",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040306",
+    "distrito": "CAHUACHO",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040307",
+    "distrito": "CHALA",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040308",
+    "distrito": "CHAPARRA",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040309",
+    "distrito": "HUANUHUANU",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040310",
+    "distrito": "JAQUI",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040311",
+    "distrito": "LOMAS",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040312",
+    "distrito": "QUICACHA",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040313",
+    "distrito": "YAUCA",
+    "prov_id": "0403"
+  },
+  {
+    "dist_id": "040401",
+    "distrito": "APLAO",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040402",
+    "distrito": "ANDAGUA",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040403",
+    "distrito": "AYO",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040404",
+    "distrito": "CHACHAS",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040405",
+    "distrito": "CHILCAYMARCA",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040406",
+    "distrito": "CHOCO",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040407",
+    "distrito": "HUANCARQUI",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040408",
+    "distrito": "MACHAGUAY",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040409",
+    "distrito": "ORCOPAMPA",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040410",
+    "distrito": "PAMPACOLCA",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040411",
+    "distrito": "TIPAN",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040412",
+    "distrito": "UÑON",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040413",
+    "distrito": "URACA",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040414",
+    "distrito": "VIRACO",
+    "prov_id": "0404"
+  },
+  {
+    "dist_id": "040501",
+    "distrito": "CHIVAY",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040502",
+    "distrito": "ACHOMA",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040503",
+    "distrito": "CABANACONDE",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040504",
+    "distrito": "CALLALLI",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040505",
+    "distrito": "CAYLLOMA",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040506",
+    "distrito": "COPORAQUE",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040507",
+    "distrito": "HUAMBO",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040508",
+    "distrito": "HUANCA",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040509",
+    "distrito": "ICHUPAMPA",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040510",
+    "distrito": "LARI",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040511",
+    "distrito": "LLUTA",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040512",
+    "distrito": "MACA",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040513",
+    "distrito": "MADRIGAL",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040514",
+    "distrito": "SAN ANTONIO DE CHUCA",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040515",
+    "distrito": "SIBAYO",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040516",
+    "distrito": "TAPAY",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040517",
+    "distrito": "TISCO",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040518",
+    "distrito": "TUTI",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040519",
+    "distrito": "YANQUE",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040520",
+    "distrito": "MAJES",
+    "prov_id": "0405"
+  },
+  {
+    "dist_id": "040601",
+    "distrito": "CHUQUIBAMBA",
+    "prov_id": "0406"
+  },
+  {
+    "dist_id": "040602",
+    "distrito": "ANDARAY",
+    "prov_id": "0406"
+  },
+  {
+    "dist_id": "040603",
+    "distrito": "CAYARANI",
+    "prov_id": "0406"
+  },
+  {
+    "dist_id": "040604",
+    "distrito": "CHICHAS",
+    "prov_id": "0406"
+  },
+  {
+    "dist_id": "040605",
+    "distrito": "IRAY",
+    "prov_id": "0406"
+  },
+  {
+    "dist_id": "040606",
+    "distrito": "RÍO GRANDE",
+    "prov_id": "0406"
+  },
+  {
+    "dist_id": "040607",
+    "distrito": "SALAMANCA",
+    "prov_id": "0406"
+  },
+  {
+    "dist_id": "040608",
+    "distrito": "YANAQUIHUA",
+    "prov_id": "0406"
+  },
+  {
+    "dist_id": "040701",
+    "distrito": "MOLLENDO",
+    "prov_id": "0407"
+  },
+  {
+    "dist_id": "040702",
+    "distrito": "COCACHACRA",
+    "prov_id": "0407"
+  },
+  {
+    "dist_id": "040703",
+    "distrito": "DEAN VALDIVIA",
+    "prov_id": "0407"
+  },
+  {
+    "dist_id": "040704",
+    "distrito": "ISLAY",
+    "prov_id": "0407"
+  },
+  {
+    "dist_id": "040705",
+    "distrito": "MEJIA",
+    "prov_id": "0407"
+  },
+  {
+    "dist_id": "040706",
+    "distrito": "PUNTA DE BOMBÓN",
+    "prov_id": "0407"
+  },
+  {
+    "dist_id": "040801",
+    "distrito": "COTAHUASI",
+    "prov_id": "0408"
+  },
+  {
+    "dist_id": "040802",
+    "distrito": "ALCA",
+    "prov_id": "0408"
+  },
+  {
+    "dist_id": "040803",
+    "distrito": "CHARCANA",
+    "prov_id": "0408"
+  },
+  {
+    "dist_id": "040804",
+    "distrito": "HUAYNACOTAS",
+    "prov_id": "0408"
+  },
+  {
+    "dist_id": "040805",
+    "distrito": "PAMPAMARCA",
+    "prov_id": "0408"
+  },
+  {
+    "dist_id": "040806",
+    "distrito": "PUYCA",
+    "prov_id": "0408"
+  },
+  {
+    "dist_id": "040807",
+    "distrito": "QUECHUALLA",
+    "prov_id": "0408"
+  },
+  {
+    "dist_id": "040808",
+    "distrito": "SAYLA",
+    "prov_id": "0408"
+  },
+  {
+    "dist_id": "040809",
+    "distrito": "TAURIA",
+    "prov_id": "0408"
+  },
+  {
+    "dist_id": "040810",
+    "distrito": "TOMEPAMPA",
+    "prov_id": "0408"
+  },
+  {
+    "dist_id": "040811",
+    "distrito": "TORO",
+    "prov_id": "0408"
+  },
+  {
+    "dist_id": "050101",
+    "distrito": "AYACUCHO",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050102",
+    "distrito": "ACOCRO",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050103",
+    "distrito": "ACOS VINCHOS",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050104",
+    "distrito": "CARMEN ALTO",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050105",
+    "distrito": "CHIARA",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050106",
+    "distrito": "OCROS",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050107",
+    "distrito": "PACAYCASA",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050108",
+    "distrito": "QUINUA",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050109",
+    "distrito": "SAN JOSÉ DE TICLLAS",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050110",
+    "distrito": "SAN JUAN BAUTISTA",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050111",
+    "distrito": "SANTIAGO DE PISCHA",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050112",
+    "distrito": "SOCOS",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050113",
+    "distrito": "TAMBILLO",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050114",
+    "distrito": "VINCHOS",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050115",
+    "distrito": "JESÚS NAZARENO",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050116",
+    "distrito": "ANDRÉS AVELINO CÁCERES DORREGARAY",
+    "prov_id": "0501"
+  },
+  {
+    "dist_id": "050201",
+    "distrito": "CANGALLO",
+    "prov_id": "0502"
+  },
+  {
+    "dist_id": "050202",
+    "distrito": "CHUSCHI",
+    "prov_id": "0502"
+  },
+  {
+    "dist_id": "050203",
+    "distrito": "LOS MOROCHUCOS",
+    "prov_id": "0502"
+  },
+  {
+    "dist_id": "050204",
+    "distrito": "MARÍA PARADO DE BELLIDO",
+    "prov_id": "0502"
+  },
+  {
+    "dist_id": "050205",
+    "distrito": "PARAS",
+    "prov_id": "0502"
+  },
+  {
+    "dist_id": "050206",
+    "distrito": "TOTOS",
+    "prov_id": "0502"
+  },
+  {
+    "dist_id": "050301",
+    "distrito": "SANCOS",
+    "prov_id": "0503"
+  },
+  {
+    "dist_id": "050302",
+    "distrito": "CARAPO",
+    "prov_id": "0503"
+  },
+  {
+    "dist_id": "050303",
+    "distrito": "SACSAMARCA",
+    "prov_id": "0503"
+  },
+  {
+    "dist_id": "050304",
+    "distrito": "SANTIAGO DE LUCANAMARCA",
+    "prov_id": "0503"
+  },
+  {
+    "dist_id": "050401",
+    "distrito": "HUANTA",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050402",
+    "distrito": "AYAHUANCO",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050403",
+    "distrito": "HUAMANGUILLA",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050404",
+    "distrito": "IGUAIN",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050405",
+    "distrito": "LURICOCHA",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050406",
+    "distrito": "SANTILLANA",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050407",
+    "distrito": "SIVIA",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050408",
+    "distrito": "LLOCHEGUA",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050409",
+    "distrito": "CANAYRE",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050410",
+    "distrito": "UCHURACCAY",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050411",
+    "distrito": "PUCACOLPA",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050412",
+    "distrito": "CHACA",
+    "prov_id": "0504"
+  },
+  {
+    "dist_id": "050501",
+    "distrito": "SAN MIGUEL",
+    "prov_id": "0505"
+  },
+  {
+    "dist_id": "050502",
+    "distrito": "ANCO",
+    "prov_id": "0505"
+  },
+  {
+    "dist_id": "050503",
+    "distrito": "AYNA",
+    "prov_id": "0505"
+  },
+  {
+    "dist_id": "050504",
+    "distrito": "CHILCAS",
+    "prov_id": "0505"
+  },
+  {
+    "dist_id": "050505",
+    "distrito": "CHUNGUI",
+    "prov_id": "0505"
+  },
+  {
+    "dist_id": "050506",
+    "distrito": "LUIS CARRANZA",
+    "prov_id": "0505"
+  },
+  {
+    "dist_id": "050507",
+    "distrito": "SANTA ROSA",
+    "prov_id": "0505"
+  },
+  {
+    "dist_id": "050508",
+    "distrito": "TAMBO",
+    "prov_id": "0505"
+  },
+  {
+    "dist_id": "050509",
+    "distrito": "SAMUGARI",
+    "prov_id": "0505"
+  },
+  {
+    "dist_id": "050510",
+    "distrito": "ANCHIHUAY",
+    "prov_id": "0505"
+  },
+  {
+    "dist_id": "050601",
+    "distrito": "PUQUIO",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050602",
+    "distrito": "AUCARA",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050603",
+    "distrito": "CABANA",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050604",
+    "distrito": "CARMEN SALCEDO",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050605",
+    "distrito": "CHAVIÑA",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050606",
+    "distrito": "CHIPAO",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050607",
+    "distrito": "HUAC-HUAS",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050608",
+    "distrito": "LARAMATE",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050609",
+    "distrito": "LEONCIO PRADO",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050610",
+    "distrito": "LLAUTA",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050611",
+    "distrito": "LUCANAS",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050612",
+    "distrito": "OCAÑA",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050613",
+    "distrito": "OTOCA",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050614",
+    "distrito": "SAISA",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050615",
+    "distrito": "SAN CRISTÓBAL",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050616",
+    "distrito": "SAN JUAN",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050617",
+    "distrito": "SAN PEDRO",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050618",
+    "distrito": "SAN PEDRO DE PALCO",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050619",
+    "distrito": "SANCOS",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050620",
+    "distrito": "SANTA ANA DE HUAYCAHUACHO",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050621",
+    "distrito": "SANTA LUCIA",
+    "prov_id": "0506"
+  },
+  {
+    "dist_id": "050701",
+    "distrito": "CORACORA",
+    "prov_id": "0507"
+  },
+  {
+    "dist_id": "050702",
+    "distrito": "CHUMPI",
+    "prov_id": "0507"
+  },
+  {
+    "dist_id": "050703",
+    "distrito": "CORONEL CASTAÑEDA",
+    "prov_id": "0507"
+  },
+  {
+    "dist_id": "050704",
+    "distrito": "PACAPAUSA",
+    "prov_id": "0507"
+  },
+  {
+    "dist_id": "050705",
+    "distrito": "PULLO",
+    "prov_id": "0507"
+  },
+  {
+    "dist_id": "050706",
+    "distrito": "PUYUSCA",
+    "prov_id": "0507"
+  },
+  {
+    "dist_id": "050707",
+    "distrito": "SAN FRANCISCO DE RAVACAYCO",
+    "prov_id": "0507"
+  },
+  {
+    "dist_id": "050708",
+    "distrito": "UPAHUACHO",
+    "prov_id": "0507"
+  },
+  {
+    "dist_id": "050801",
+    "distrito": "PAUSA",
+    "prov_id": "0508"
+  },
+  {
+    "dist_id": "050802",
+    "distrito": "COLTA",
+    "prov_id": "0508"
+  },
+  {
+    "dist_id": "050803",
+    "distrito": "CORCULLA",
+    "prov_id": "0508"
+  },
+  {
+    "dist_id": "050804",
+    "distrito": "LAMPA",
+    "prov_id": "0508"
+  },
+  {
+    "dist_id": "050805",
+    "distrito": "MARCABAMBA",
+    "prov_id": "0508"
+  },
+  {
+    "dist_id": "050806",
+    "distrito": "OYOLO",
+    "prov_id": "0508"
+  },
+  {
+    "dist_id": "050807",
+    "distrito": "PARARCA",
+    "prov_id": "0508"
+  },
+  {
+    "dist_id": "050808",
+    "distrito": "SAN JAVIER DE ALPABAMBA",
+    "prov_id": "0508"
+  },
+  {
+    "dist_id": "050809",
+    "distrito": "SAN JOSÉ DE USHUA",
+    "prov_id": "0508"
+  },
+  {
+    "dist_id": "050810",
+    "distrito": "SARA SARA",
+    "prov_id": "0508"
+  },
+  {
+    "dist_id": "050901",
+    "distrito": "QUEROBAMBA",
+    "prov_id": "0509"
+  },
+  {
+    "dist_id": "050902",
+    "distrito": "BELÉN",
+    "prov_id": "0509"
+  },
+  {
+    "dist_id": "050903",
+    "distrito": "CHALCOS",
+    "prov_id": "0509"
+  },
+  {
+    "dist_id": "050904",
+    "distrito": "CHILCAYOC",
+    "prov_id": "0509"
+  },
+  {
+    "dist_id": "050905",
+    "distrito": "HUACAÑA",
+    "prov_id": "0509"
+  },
+  {
+    "dist_id": "050906",
+    "distrito": "MORCOLLA",
+    "prov_id": "0509"
+  },
+  {
+    "dist_id": "050907",
+    "distrito": "PAICO",
+    "prov_id": "0509"
+  },
+  {
+    "dist_id": "050908",
+    "distrito": "SAN PEDRO DE LARCAY",
+    "prov_id": "0509"
+  },
+  {
+    "dist_id": "050909",
+    "distrito": "SAN SALVADOR DE QUIJE",
+    "prov_id": "0509"
+  },
+  {
+    "dist_id": "050910",
+    "distrito": "SANTIAGO DE PAUCARAY",
+    "prov_id": "0509"
+  },
+  {
+    "dist_id": "050911",
+    "distrito": "SORAS",
+    "prov_id": "0509"
+  },
+  {
+    "dist_id": "051001",
+    "distrito": "HUANCAPI",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051002",
+    "distrito": "ALCAMENCA",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051003",
+    "distrito": "APONGO",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051004",
+    "distrito": "ASQUIPATA",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051005",
+    "distrito": "CANARIA",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051006",
+    "distrito": "CAYARA",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051007",
+    "distrito": "COLCA",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051008",
+    "distrito": "HUAMANQUIQUIA",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051009",
+    "distrito": "HUANCARAYLLA",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051010",
+    "distrito": "HUAYA",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051011",
+    "distrito": "SARHUA",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051012",
+    "distrito": "VILCANCHOS",
+    "prov_id": "0510"
+  },
+  {
+    "dist_id": "051101",
+    "distrito": "VILCAS HUAMAN",
+    "prov_id": "0511"
+  },
+  {
+    "dist_id": "051102",
+    "distrito": "ACCOMARCA",
+    "prov_id": "0511"
+  },
+  {
+    "dist_id": "051103",
+    "distrito": "CARHUANCA",
+    "prov_id": "0511"
+  },
+  {
+    "dist_id": "051104",
+    "distrito": "CONCEPCIÓN",
+    "prov_id": "0511"
+  },
+  {
+    "dist_id": "051105",
+    "distrito": "HUAMBALPA",
+    "prov_id": "0511"
+  },
+  {
+    "dist_id": "051106",
+    "distrito": "INDEPENDENCIA",
+    "prov_id": "0511"
+  },
+  {
+    "dist_id": "051107",
+    "distrito": "SAURAMA",
+    "prov_id": "0511"
+  },
+  {
+    "dist_id": "051108",
+    "distrito": "VISCHONGO",
+    "prov_id": "0511"
+  },
+  {
+    "dist_id": "060101",
+    "distrito": "CAJAMARCA",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060102",
+    "distrito": "ASUNCIÓN",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060103",
+    "distrito": "CHETILLA",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060104",
+    "distrito": "COSPAN",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060105",
+    "distrito": "ENCAÑADA",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060106",
+    "distrito": "JESÚS",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060107",
+    "distrito": "LLACANORA",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060108",
+    "distrito": "LOS BAÑOS DEL INCA",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060109",
+    "distrito": "MAGDALENA",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060110",
+    "distrito": "MATARA",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060111",
+    "distrito": "NAMORA",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060112",
+    "distrito": "SAN JUAN",
+    "prov_id": "0601"
+  },
+  {
+    "dist_id": "060201",
+    "distrito": "CAJABAMBA",
+    "prov_id": "0602"
+  },
+  {
+    "dist_id": "060202",
+    "distrito": "CACHACHI",
+    "prov_id": "0602"
+  },
+  {
+    "dist_id": "060203",
+    "distrito": "CONDEBAMBA",
+    "prov_id": "0602"
+  },
+  {
+    "dist_id": "060204",
+    "distrito": "SITACOCHA",
+    "prov_id": "0602"
+  },
+  {
+    "dist_id": "060301",
+    "distrito": "CELENDÍN",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060302",
+    "distrito": "CHUMUCH",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060303",
+    "distrito": "CORTEGANA",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060304",
+    "distrito": "HUASMIN",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060305",
+    "distrito": "JORGE CHÁVEZ",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060306",
+    "distrito": "JOSÉ GÁLVEZ",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060307",
+    "distrito": "MIGUEL IGLESIAS",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060308",
+    "distrito": "OXAMARCA",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060309",
+    "distrito": "SOROCHUCO",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060310",
+    "distrito": "SUCRE",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060311",
+    "distrito": "UTCO",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060312",
+    "distrito": "LA LIBERTAD DE PALLAN",
+    "prov_id": "0603"
+  },
+  {
+    "dist_id": "060401",
+    "distrito": "CHOTA",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060402",
+    "distrito": "ANGUIA",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060403",
+    "distrito": "CHADIN",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060404",
+    "distrito": "CHIGUIRIP",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060405",
+    "distrito": "CHIMBAN",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060406",
+    "distrito": "CHOROPAMPA",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060407",
+    "distrito": "COCHABAMBA",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060408",
+    "distrito": "CONCHAN",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060409",
+    "distrito": "HUAMBOS",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060410",
+    "distrito": "LAJAS",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060411",
+    "distrito": "LLAMA",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060412",
+    "distrito": "MIRACOSTA",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060413",
+    "distrito": "PACCHA",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060414",
+    "distrito": "PION",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060415",
+    "distrito": "QUEROCOTO",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060416",
+    "distrito": "SAN JUAN DE LICUPIS",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060417",
+    "distrito": "TACABAMBA",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060418",
+    "distrito": "TOCMOCHE",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060419",
+    "distrito": "CHALAMARCA",
+    "prov_id": "0604"
+  },
+  {
+    "dist_id": "060501",
+    "distrito": "CONTUMAZA",
+    "prov_id": "0605"
+  },
+  {
+    "dist_id": "060502",
+    "distrito": "CHILETE",
+    "prov_id": "0605"
+  },
+  {
+    "dist_id": "060503",
+    "distrito": "CUPISNIQUE",
+    "prov_id": "0605"
+  },
+  {
+    "dist_id": "060504",
+    "distrito": "GUZMANGO",
+    "prov_id": "0605"
+  },
+  {
+    "dist_id": "060505",
+    "distrito": "SAN BENITO",
+    "prov_id": "0605"
+  },
+  {
+    "dist_id": "060506",
+    "distrito": "SANTA CRUZ DE TOLEDO",
+    "prov_id": "0605"
+  },
+  {
+    "dist_id": "060507",
+    "distrito": "TANTARICA",
+    "prov_id": "0605"
+  },
+  {
+    "dist_id": "060508",
+    "distrito": "YONAN",
+    "prov_id": "0605"
+  },
+  {
+    "dist_id": "060601",
+    "distrito": "CUTERVO",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060602",
+    "distrito": "CALLAYUC",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060603",
+    "distrito": "CHOROS",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060604",
+    "distrito": "CUJILLO",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060605",
+    "distrito": "LA RAMADA",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060606",
+    "distrito": "PIMPINGOS",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060607",
+    "distrito": "QUEROCOTILLO",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060608",
+    "distrito": "SAN ANDRÉS DE CUTERVO",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060609",
+    "distrito": "SAN JUAN DE CUTERVO",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060610",
+    "distrito": "SAN LUIS DE LUCMA",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060611",
+    "distrito": "SANTA CRUZ",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060612",
+    "distrito": "SANTO DOMINGO DE LA CAPILLA",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060613",
+    "distrito": "SANTO TOMAS",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060614",
+    "distrito": "SOCOTA",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060615",
+    "distrito": "TORIBIO CASANOVA",
+    "prov_id": "0606"
+  },
+  {
+    "dist_id": "060701",
+    "distrito": "BAMBAMARCA",
+    "prov_id": "0607"
+  },
+  {
+    "dist_id": "060702",
+    "distrito": "CHUGUR",
+    "prov_id": "0607"
+  },
+  {
+    "dist_id": "060703",
+    "distrito": "HUALGAYOC",
+    "prov_id": "0607"
+  },
+  {
+    "dist_id": "060801",
+    "distrito": "JAÉN",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060802",
+    "distrito": "BELLAVISTA",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060803",
+    "distrito": "CHONTALI",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060804",
+    "distrito": "COLASAY",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060805",
+    "distrito": "HUABAL",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060806",
+    "distrito": "LAS PIRIAS",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060807",
+    "distrito": "POMAHUACA",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060808",
+    "distrito": "PUCARA",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060809",
+    "distrito": "SALLIQUE",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060810",
+    "distrito": "SAN FELIPE",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060811",
+    "distrito": "SAN JOSÉ DEL ALTO",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060812",
+    "distrito": "SANTA ROSA",
+    "prov_id": "0608"
+  },
+  {
+    "dist_id": "060901",
+    "distrito": "SAN IGNACIO",
+    "prov_id": "0609"
+  },
+  {
+    "dist_id": "060902",
+    "distrito": "CHIRINOS",
+    "prov_id": "0609"
+  },
+  {
+    "dist_id": "060903",
+    "distrito": "HUARANGO",
+    "prov_id": "0609"
+  },
+  {
+    "dist_id": "060904",
+    "distrito": "LA COIPA",
+    "prov_id": "0609"
+  },
+  {
+    "dist_id": "060905",
+    "distrito": "NAMBALLE",
+    "prov_id": "0609"
+  },
+  {
+    "dist_id": "060906",
+    "distrito": "SAN JOSÉ DE LOURDES",
+    "prov_id": "0609"
+  },
+  {
+    "dist_id": "060907",
+    "distrito": "TABACONAS",
+    "prov_id": "0609"
+  },
+  {
+    "dist_id": "061001",
+    "distrito": "PEDRO GÁLVEZ",
+    "prov_id": "0610"
+  },
+  {
+    "dist_id": "061002",
+    "distrito": "CHANCAY",
+    "prov_id": "0610"
+  },
+  {
+    "dist_id": "061003",
+    "distrito": "EDUARDO VILLANUEVA",
+    "prov_id": "0610"
+  },
+  {
+    "dist_id": "061004",
+    "distrito": "GREGORIO PITA",
+    "prov_id": "0610"
+  },
+  {
+    "dist_id": "061005",
+    "distrito": "ICHOCAN",
+    "prov_id": "0610"
+  },
+  {
+    "dist_id": "061006",
+    "distrito": "JOSÉ MANUEL QUIROZ",
+    "prov_id": "0610"
+  },
+  {
+    "dist_id": "061007",
+    "distrito": "JOSÉ SABOGAL",
+    "prov_id": "0610"
+  },
+  {
+    "dist_id": "061101",
+    "distrito": "SAN MIGUEL",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061102",
+    "distrito": "BOLÍVAR",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061103",
+    "distrito": "CALQUIS",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061104",
+    "distrito": "CATILLUC",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061105",
+    "distrito": "EL PRADO",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061106",
+    "distrito": "LA FLORIDA",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061107",
+    "distrito": "LLAPA",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061108",
+    "distrito": "NANCHOC",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061109",
+    "distrito": "NIEPOS",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061110",
+    "distrito": "SAN GREGORIO",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061111",
+    "distrito": "SAN SILVESTRE DE COCHAN",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061112",
+    "distrito": "TONGOD",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061113",
+    "distrito": "UNIÓN AGUA BLANCA",
+    "prov_id": "0611"
+  },
+  {
+    "dist_id": "061201",
+    "distrito": "SAN PABLO",
+    "prov_id": "0612"
+  },
+  {
+    "dist_id": "061202",
+    "distrito": "SAN BERNARDINO",
+    "prov_id": "0612"
+  },
+  {
+    "dist_id": "061203",
+    "distrito": "SAN LUIS",
+    "prov_id": "0612"
+  },
+  {
+    "dist_id": "061204",
+    "distrito": "TUMBADEN",
+    "prov_id": "0612"
+  },
+  {
+    "dist_id": "061301",
+    "distrito": "SANTA CRUZ",
+    "prov_id": "0613"
+  },
+  {
+    "dist_id": "061302",
+    "distrito": "ANDABAMBA",
+    "prov_id": "0613"
+  },
+  {
+    "dist_id": "061303",
+    "distrito": "CATACHE",
+    "prov_id": "0613"
+  },
+  {
+    "dist_id": "061304",
+    "distrito": "CHANCAYBAÑOS",
+    "prov_id": "0613"
+  },
+  {
+    "dist_id": "061305",
+    "distrito": "LA ESPERANZA",
+    "prov_id": "0613"
+  },
+  {
+    "dist_id": "061306",
+    "distrito": "NINABAMBA",
+    "prov_id": "0613"
+  },
+  {
+    "dist_id": "061307",
+    "distrito": "PULAN",
+    "prov_id": "0613"
+  },
+  {
+    "dist_id": "061308",
+    "distrito": "SAUCEPAMPA",
+    "prov_id": "0613"
+  },
+  {
+    "dist_id": "061309",
+    "distrito": "SEXI",
+    "prov_id": "0613"
+  },
+  {
+    "dist_id": "061310",
+    "distrito": "UTICYACU",
+    "prov_id": "0613"
+  },
+  {
+    "dist_id": "061311",
+    "distrito": "YAUYUCAN",
+    "prov_id": "0613"
+  },
+  {
+    "dist_id": "070101",
+    "distrito": "CALLAO",
+    "prov_id": "0701"
+  },
+  {
+    "dist_id": "070102",
+    "distrito": "BELLAVISTA",
+    "prov_id": "0701"
+  },
+  {
+    "dist_id": "070103",
+    "distrito": "CARMEN DE LA LEGUA REYNOSO",
+    "prov_id": "0701"
+  },
+  {
+    "dist_id": "070104",
+    "distrito": "LA PERLA",
+    "prov_id": "0701"
+  },
+  {
+    "dist_id": "070105",
+    "distrito": "LA PUNTA",
+    "prov_id": "0701"
+  },
+  {
+    "dist_id": "070106",
+    "distrito": "VENTANILLA",
+    "prov_id": "0701"
+  },
+  {
+    "dist_id": "070107",
+    "distrito": "MI PERÚ",
+    "prov_id": "0701"
+  },
+  {
+    "dist_id": "080101",
+    "distrito": "CUSCO",
+    "prov_id": "0801"
+  },
+  {
+    "dist_id": "080102",
+    "distrito": "CCORCA",
+    "prov_id": "0801"
+  },
+  {
+    "dist_id": "080103",
+    "distrito": "POROY",
+    "prov_id": "0801"
+  },
+  {
+    "dist_id": "080104",
+    "distrito": "SAN JERÓNIMO",
+    "prov_id": "0801"
+  },
+  {
+    "dist_id": "080105",
+    "distrito": "SAN SEBASTIAN",
+    "prov_id": "0801"
+  },
+  {
+    "dist_id": "080106",
+    "distrito": "SANTIAGO",
+    "prov_id": "0801"
+  },
+  {
+    "dist_id": "080107",
+    "distrito": "SAYLLA",
+    "prov_id": "0801"
+  },
+  {
+    "dist_id": "080108",
+    "distrito": "WANCHAQ",
+    "prov_id": "0801"
+  },
+  {
+    "dist_id": "080201",
+    "distrito": "ACOMAYO",
+    "prov_id": "0802"
+  },
+  {
+    "dist_id": "080202",
+    "distrito": "ACOPIA",
+    "prov_id": "0802"
+  },
+  {
+    "dist_id": "080203",
+    "distrito": "ACOS",
+    "prov_id": "0802"
+  },
+  {
+    "dist_id": "080204",
+    "distrito": "MOSOC LLACTA",
+    "prov_id": "0802"
+  },
+  {
+    "dist_id": "080205",
+    "distrito": "POMACANCHI",
+    "prov_id": "0802"
+  },
+  {
+    "dist_id": "080206",
+    "distrito": "RONDOCAN",
+    "prov_id": "0802"
+  },
+  {
+    "dist_id": "080207",
+    "distrito": "SANGARARA",
+    "prov_id": "0802"
+  },
+  {
+    "dist_id": "080301",
+    "distrito": "ANTA",
+    "prov_id": "0803"
+  },
+  {
+    "dist_id": "080302",
+    "distrito": "ANCAHUASI",
+    "prov_id": "0803"
+  },
+  {
+    "dist_id": "080303",
+    "distrito": "CACHIMAYO",
+    "prov_id": "0803"
+  },
+  {
+    "dist_id": "080304",
+    "distrito": "CHINCHAYPUJIO",
+    "prov_id": "0803"
+  },
+  {
+    "dist_id": "080305",
+    "distrito": "HUAROCONDO",
+    "prov_id": "0803"
+  },
+  {
+    "dist_id": "080306",
+    "distrito": "LIMATAMBO",
+    "prov_id": "0803"
+  },
+  {
+    "dist_id": "080307",
+    "distrito": "MOLLEPATA",
+    "prov_id": "0803"
+  },
+  {
+    "dist_id": "080308",
+    "distrito": "PUCYURA",
+    "prov_id": "0803"
+  },
+  {
+    "dist_id": "080309",
+    "distrito": "ZURITE",
+    "prov_id": "0803"
+  },
+  {
+    "dist_id": "080401",
+    "distrito": "CALCA",
+    "prov_id": "0804"
+  },
+  {
+    "dist_id": "080402",
+    "distrito": "COYA",
+    "prov_id": "0804"
+  },
+  {
+    "dist_id": "080403",
+    "distrito": "LAMAY",
+    "prov_id": "0804"
+  },
+  {
+    "dist_id": "080404",
+    "distrito": "LARES",
+    "prov_id": "0804"
+  },
+  {
+    "dist_id": "080405",
+    "distrito": "PISAC",
+    "prov_id": "0804"
+  },
+  {
+    "dist_id": "080406",
+    "distrito": "SAN SALVADOR",
+    "prov_id": "0804"
+  },
+  {
+    "dist_id": "080407",
+    "distrito": "TARAY",
+    "prov_id": "0804"
+  },
+  {
+    "dist_id": "080408",
+    "distrito": "YANATILE",
+    "prov_id": "0804"
+  },
+  {
+    "dist_id": "080501",
+    "distrito": "YANAOCA",
+    "prov_id": "0805"
+  },
+  {
+    "dist_id": "080502",
+    "distrito": "CHECCA",
+    "prov_id": "0805"
+  },
+  {
+    "dist_id": "080503",
+    "distrito": "KUNTURKANKI",
+    "prov_id": "0805"
+  },
+  {
+    "dist_id": "080504",
+    "distrito": "LANGUI",
+    "prov_id": "0805"
+  },
+  {
+    "dist_id": "080505",
+    "distrito": "LAYO",
+    "prov_id": "0805"
+  },
+  {
+    "dist_id": "080506",
+    "distrito": "PAMPAMARCA",
+    "prov_id": "0805"
+  },
+  {
+    "dist_id": "080507",
+    "distrito": "QUEHUE",
+    "prov_id": "0805"
+  },
+  {
+    "dist_id": "080508",
+    "distrito": "TUPAC AMARU",
+    "prov_id": "0805"
+  },
+  {
+    "dist_id": "080601",
+    "distrito": "SICUANI",
+    "prov_id": "0806"
+  },
+  {
+    "dist_id": "080602",
+    "distrito": "CHECACUPE",
+    "prov_id": "0806"
+  },
+  {
+    "dist_id": "080603",
+    "distrito": "COMBAPATA",
+    "prov_id": "0806"
+  },
+  {
+    "dist_id": "080604",
+    "distrito": "MARANGANI",
+    "prov_id": "0806"
+  },
+  {
+    "dist_id": "080605",
+    "distrito": "PITUMARCA",
+    "prov_id": "0806"
+  },
+  {
+    "dist_id": "080606",
+    "distrito": "SAN PABLO",
+    "prov_id": "0806"
+  },
+  {
+    "dist_id": "080607",
+    "distrito": "SAN PEDRO",
+    "prov_id": "0806"
+  },
+  {
+    "dist_id": "080608",
+    "distrito": "TINTA",
+    "prov_id": "0806"
+  },
+  {
+    "dist_id": "080701",
+    "distrito": "SANTO TOMAS",
+    "prov_id": "0807"
+  },
+  {
+    "dist_id": "080702",
+    "distrito": "CAPACMARCA",
+    "prov_id": "0807"
+  },
+  {
+    "dist_id": "080703",
+    "distrito": "CHAMACA",
+    "prov_id": "0807"
+  },
+  {
+    "dist_id": "080704",
+    "distrito": "COLQUEMARCA",
+    "prov_id": "0807"
+  },
+  {
+    "dist_id": "080705",
+    "distrito": "LIVITACA",
+    "prov_id": "0807"
+  },
+  {
+    "dist_id": "080706",
+    "distrito": "LLUSCO",
+    "prov_id": "0807"
+  },
+  {
+    "dist_id": "080707",
+    "distrito": "QUIÑOTA",
+    "prov_id": "0807"
+  },
+  {
+    "dist_id": "080708",
+    "distrito": "VELILLE",
+    "prov_id": "0807"
+  },
+  {
+    "dist_id": "080801",
+    "distrito": "ESPINAR",
+    "prov_id": "0808"
+  },
+  {
+    "dist_id": "080802",
+    "distrito": "CONDOROMA",
+    "prov_id": "0808"
+  },
+  {
+    "dist_id": "080803",
+    "distrito": "COPORAQUE",
+    "prov_id": "0808"
+  },
+  {
+    "dist_id": "080804",
+    "distrito": "OCORURO",
+    "prov_id": "0808"
+  },
+  {
+    "dist_id": "080805",
+    "distrito": "PALLPATA",
+    "prov_id": "0808"
+  },
+  {
+    "dist_id": "080806",
+    "distrito": "PICHIGUA",
+    "prov_id": "0808"
+  },
+  {
+    "dist_id": "080807",
+    "distrito": "SUYCKUTAMBO",
+    "prov_id": "0808"
+  },
+  {
+    "dist_id": "080808",
+    "distrito": "ALTO PICHIGUA",
+    "prov_id": "0808"
+  },
+  {
+    "dist_id": "080901",
+    "distrito": "SANTA ANA",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080902",
+    "distrito": "ECHARATE",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080903",
+    "distrito": "HUAYOPATA",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080904",
+    "distrito": "MARANURA",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080905",
+    "distrito": "OCOBAMBA",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080906",
+    "distrito": "QUELLOUNO",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080907",
+    "distrito": "KIMBIRI",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080908",
+    "distrito": "SANTA TERESA",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080909",
+    "distrito": "VILCABAMBA",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080910",
+    "distrito": "PICHARI",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080911",
+    "distrito": "INKAWASI",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080912",
+    "distrito": "VILLA VIRGEN",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "080913",
+    "distrito": "VILLA KINTIARINA",
+    "prov_id": "0809"
+  },
+  {
+    "dist_id": "081001",
+    "distrito": "PARURO",
+    "prov_id": "0810"
+  },
+  {
+    "dist_id": "081002",
+    "distrito": "ACCHA",
+    "prov_id": "0810"
+  },
+  {
+    "dist_id": "081003",
+    "distrito": "CCAPI",
+    "prov_id": "0810"
+  },
+  {
+    "dist_id": "081004",
+    "distrito": "COLCHA",
+    "prov_id": "0810"
+  },
+  {
+    "dist_id": "081005",
+    "distrito": "HUANOQUITE",
+    "prov_id": "0810"
+  },
+  {
+    "dist_id": "081006",
+    "distrito": "OMACHA",
+    "prov_id": "0810"
+  },
+  {
+    "dist_id": "081007",
+    "distrito": "PACCARITAMBO",
+    "prov_id": "0810"
+  },
+  {
+    "dist_id": "081008",
+    "distrito": "PILLPINTO",
+    "prov_id": "0810"
+  },
+  {
+    "dist_id": "081009",
+    "distrito": "YAURISQUE",
+    "prov_id": "0810"
+  },
+  {
+    "dist_id": "081101",
+    "distrito": "PAUCARTAMBO",
+    "prov_id": "0811"
+  },
+  {
+    "dist_id": "081102",
+    "distrito": "CAICAY",
+    "prov_id": "0811"
+  },
+  {
+    "dist_id": "081103",
+    "distrito": "CHALLABAMBA",
+    "prov_id": "0811"
+  },
+  {
+    "dist_id": "081104",
+    "distrito": "COLQUEPATA",
+    "prov_id": "0811"
+  },
+  {
+    "dist_id": "081105",
+    "distrito": "HUANCARANI",
+    "prov_id": "0811"
+  },
+  {
+    "dist_id": "081106",
+    "distrito": "KOSÑIPATA",
+    "prov_id": "0811"
+  },
+  {
+    "dist_id": "081201",
+    "distrito": "URCOS",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081202",
+    "distrito": "ANDAHUAYLILLAS",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081203",
+    "distrito": "CAMANTI",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081204",
+    "distrito": "CCARHUAYO",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081205",
+    "distrito": "CCATCA",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081206",
+    "distrito": "CUSIPATA",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081207",
+    "distrito": "HUARO",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081208",
+    "distrito": "LUCRE",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081209",
+    "distrito": "MARCAPATA",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081210",
+    "distrito": "OCONGATE",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081211",
+    "distrito": "OROPESA",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081212",
+    "distrito": "QUIQUIJANA",
+    "prov_id": "0812"
+  },
+  {
+    "dist_id": "081301",
+    "distrito": "URUBAMBA",
+    "prov_id": "0813"
+  },
+  {
+    "dist_id": "081302",
+    "distrito": "CHINCHERO",
+    "prov_id": "0813"
+  },
+  {
+    "dist_id": "081303",
+    "distrito": "HUAYLLABAMBA",
+    "prov_id": "0813"
+  },
+  {
+    "dist_id": "081304",
+    "distrito": "MACHUPICCHU",
+    "prov_id": "0813"
+  },
+  {
+    "dist_id": "081305",
+    "distrito": "MARAS",
+    "prov_id": "0813"
+  },
+  {
+    "dist_id": "081306",
+    "distrito": "OLLANTAYTAMBO",
+    "prov_id": "0813"
+  },
+  {
+    "dist_id": "081307",
+    "distrito": "YUCAY",
+    "prov_id": "0813"
+  },
+  {
+    "dist_id": "090101",
+    "distrito": "HUANCAVELICA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090102",
+    "distrito": "ACOBAMBILLA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090103",
+    "distrito": "ACORIA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090104",
+    "distrito": "CONAYCA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090105",
+    "distrito": "CUENCA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090106",
+    "distrito": "HUACHOCOLPA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090107",
+    "distrito": "HUAYLLAHUARA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090108",
+    "distrito": "IZCUCHACA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090109",
+    "distrito": "LARIA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090110",
+    "distrito": "MANTA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090111",
+    "distrito": "MARISCAL CÁCERES",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090112",
+    "distrito": "MOYA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090113",
+    "distrito": "NUEVO OCCORO",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090114",
+    "distrito": "PALCA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090115",
+    "distrito": "PILCHACA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090116",
+    "distrito": "VILCA",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090117",
+    "distrito": "YAULI",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090118",
+    "distrito": "ASCENSIÓN",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090119",
+    "distrito": "HUANDO",
+    "prov_id": "0901"
+  },
+  {
+    "dist_id": "090201",
+    "distrito": "ACOBAMBA",
+    "prov_id": "0902"
+  },
+  {
+    "dist_id": "090202",
+    "distrito": "ANDABAMBA",
+    "prov_id": "0902"
+  },
+  {
+    "dist_id": "090203",
+    "distrito": "ANTA",
+    "prov_id": "0902"
+  },
+  {
+    "dist_id": "090204",
+    "distrito": "CAJA",
+    "prov_id": "0902"
+  },
+  {
+    "dist_id": "090205",
+    "distrito": "MARCAS",
+    "prov_id": "0902"
+  },
+  {
+    "dist_id": "090206",
+    "distrito": "PAUCARA",
+    "prov_id": "0902"
+  },
+  {
+    "dist_id": "090207",
+    "distrito": "POMACOCHA",
+    "prov_id": "0902"
+  },
+  {
+    "dist_id": "090208",
+    "distrito": "ROSARIO",
+    "prov_id": "0902"
+  },
+  {
+    "dist_id": "090301",
+    "distrito": "LIRCAY",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090302",
+    "distrito": "ANCHONGA",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090303",
+    "distrito": "CALLANMARCA",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090304",
+    "distrito": "CCOCHACCASA",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090305",
+    "distrito": "CHINCHO",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090306",
+    "distrito": "CONGALLA",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090307",
+    "distrito": "HUANCA-HUANCA",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090308",
+    "distrito": "HUAYLLAY GRANDE",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090309",
+    "distrito": "JULCAMARCA",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090310",
+    "distrito": "SAN ANTONIO DE ANTAPARCO",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090311",
+    "distrito": "SANTO TOMAS DE PATA",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090312",
+    "distrito": "SECCLLA",
+    "prov_id": "0903"
+  },
+  {
+    "dist_id": "090401",
+    "distrito": "CASTROVIRREYNA",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090402",
+    "distrito": "ARMA",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090403",
+    "distrito": "AURAHUA",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090404",
+    "distrito": "CAPILLAS",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090405",
+    "distrito": "CHUPAMARCA",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090406",
+    "distrito": "COCAS",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090407",
+    "distrito": "HUACHOS",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090408",
+    "distrito": "HUAMATAMBO",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090409",
+    "distrito": "MOLLEPAMPA",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090410",
+    "distrito": "SAN JUAN",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090411",
+    "distrito": "SANTA ANA",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090412",
+    "distrito": "TANTARA",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090413",
+    "distrito": "TICRAPO",
+    "prov_id": "0904"
+  },
+  {
+    "dist_id": "090501",
+    "distrito": "CHURCAMPA",
+    "prov_id": "0905"
+  },
+  {
+    "dist_id": "090502",
+    "distrito": "ANCO",
+    "prov_id": "0905"
+  },
+  {
+    "dist_id": "090503",
+    "distrito": "CHINCHIHUASI",
+    "prov_id": "0905"
+  },
+  {
+    "dist_id": "090504",
+    "distrito": "EL CARMEN",
+    "prov_id": "0905"
+  },
+  {
+    "dist_id": "090505",
+    "distrito": "LA MERCED",
+    "prov_id": "0905"
+  },
+  {
+    "dist_id": "090506",
+    "distrito": "LOCROJA",
+    "prov_id": "0905"
+  },
+  {
+    "dist_id": "090507",
+    "distrito": "PAUCARBAMBA",
+    "prov_id": "0905"
+  },
+  {
+    "dist_id": "090508",
+    "distrito": "SAN MIGUEL DE MAYOCC",
+    "prov_id": "0905"
+  },
+  {
+    "dist_id": "090509",
+    "distrito": "SAN PEDRO DE CORIS",
+    "prov_id": "0905"
+  },
+  {
+    "dist_id": "090510",
+    "distrito": "PACHAMARCA",
+    "prov_id": "0905"
+  },
+  {
+    "dist_id": "090511",
+    "distrito": "COSME",
+    "prov_id": "0905"
+  },
+  {
+    "dist_id": "090601",
+    "distrito": "HUAYTARA",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090602",
+    "distrito": "AYAVI",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090603",
+    "distrito": "CÓRDOVA",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090604",
+    "distrito": "HUAYACUNDO ARMA",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090605",
+    "distrito": "LARAMARCA",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090606",
+    "distrito": "OCOYO",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090607",
+    "distrito": "PILPICHACA",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090608",
+    "distrito": "QUERCO",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090609",
+    "distrito": "QUITO-ARMA",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090610",
+    "distrito": "SAN ANTONIO DE CUSICANCHA",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090611",
+    "distrito": "SAN FRANCISCO DE SANGAYAICO",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090612",
+    "distrito": "SAN ISIDRO",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090613",
+    "distrito": "SANTIAGO DE CHOCORVOS",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090614",
+    "distrito": "SANTIAGO DE QUIRAHUARA",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090615",
+    "distrito": "SANTO DOMINGO DE CAPILLAS",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090616",
+    "distrito": "TAMBO",
+    "prov_id": "0906"
+  },
+  {
+    "dist_id": "090701",
+    "distrito": "PAMPAS",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090702",
+    "distrito": "ACOSTAMBO",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090703",
+    "distrito": "ACRAQUIA",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090704",
+    "distrito": "AHUAYCHA",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090705",
+    "distrito": "COLCABAMBA",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090706",
+    "distrito": "DANIEL HERNÁNDEZ",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090707",
+    "distrito": "HUACHOCOLPA",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090709",
+    "distrito": "HUARIBAMBA",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090710",
+    "distrito": "ÑAHUIMPUQUIO",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090711",
+    "distrito": "PAZOS",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090713",
+    "distrito": "QUISHUAR",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090714",
+    "distrito": "SALCABAMBA",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090715",
+    "distrito": "SALCAHUASI",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090716",
+    "distrito": "SAN MARCOS DE ROCCHAC",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090717",
+    "distrito": "SURCUBAMBA",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090718",
+    "distrito": "TINTAY PUNCU",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090719",
+    "distrito": "QUICHUAS",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090720",
+    "distrito": "ANDAYMARCA",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090721",
+    "distrito": "ROBLE",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "090722",
+    "distrito": "PICHOS",
+    "prov_id": "0907"
+  },
+  {
+    "dist_id": "100101",
+    "distrito": "HUANUCO",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100102",
+    "distrito": "AMARILIS",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100103",
+    "distrito": "CHINCHAO",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100104",
+    "distrito": "CHURUBAMBA",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100105",
+    "distrito": "MARGOS",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100106",
+    "distrito": "QUISQUI (KICHKI)",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100107",
+    "distrito": "SAN FRANCISCO DE CAYRAN",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100108",
+    "distrito": "SAN PEDRO DE CHAULAN",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100109",
+    "distrito": "SANTA MARÍA DEL VALLE",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100110",
+    "distrito": "YARUMAYO",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100111",
+    "distrito": "PILLCO MARCA",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100112",
+    "distrito": "YACUS",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100113",
+    "distrito": "SAN PABLO DE PILLAO",
+    "prov_id": "1001"
+  },
+  {
+    "dist_id": "100201",
+    "distrito": "AMBO",
+    "prov_id": "1002"
+  },
+  {
+    "dist_id": "100202",
+    "distrito": "CAYNA",
+    "prov_id": "1002"
+  },
+  {
+    "dist_id": "100203",
+    "distrito": "COLPAS",
+    "prov_id": "1002"
+  },
+  {
+    "dist_id": "100204",
+    "distrito": "CONCHAMARCA",
+    "prov_id": "1002"
+  },
+  {
+    "dist_id": "100205",
+    "distrito": "HUACAR",
+    "prov_id": "1002"
+  },
+  {
+    "dist_id": "100206",
+    "distrito": "SAN FRANCISCO",
+    "prov_id": "1002"
+  },
+  {
+    "dist_id": "100207",
+    "distrito": "SAN RAFAEL",
+    "prov_id": "1002"
+  },
+  {
+    "dist_id": "100208",
+    "distrito": "TOMAY KICHWA",
+    "prov_id": "1002"
+  },
+  {
+    "dist_id": "100301",
+    "distrito": "LA UNIÓN",
+    "prov_id": "1003"
+  },
+  {
+    "dist_id": "100307",
+    "distrito": "CHUQUIS",
+    "prov_id": "1003"
+  },
+  {
+    "dist_id": "100311",
+    "distrito": "MARÍAS",
+    "prov_id": "1003"
+  },
+  {
+    "dist_id": "100313",
+    "distrito": "PACHAS",
+    "prov_id": "1003"
+  },
+  {
+    "dist_id": "100316",
+    "distrito": "QUIVILLA",
+    "prov_id": "1003"
+  },
+  {
+    "dist_id": "100317",
+    "distrito": "RIPAN",
+    "prov_id": "1003"
+  },
+  {
+    "dist_id": "100321",
+    "distrito": "SHUNQUI",
+    "prov_id": "1003"
+  },
+  {
+    "dist_id": "100322",
+    "distrito": "SILLAPATA",
+    "prov_id": "1003"
+  },
+  {
+    "dist_id": "100323",
+    "distrito": "YANAS",
+    "prov_id": "1003"
+  },
+  {
+    "dist_id": "100401",
+    "distrito": "HUACAYBAMBA",
+    "prov_id": "1004"
+  },
+  {
+    "dist_id": "100402",
+    "distrito": "CANCHABAMBA",
+    "prov_id": "1004"
+  },
+  {
+    "dist_id": "100403",
+    "distrito": "COCHABAMBA",
+    "prov_id": "1004"
+  },
+  {
+    "dist_id": "100404",
+    "distrito": "PINRA",
+    "prov_id": "1004"
+  },
+  {
+    "dist_id": "100501",
+    "distrito": "LLATA",
+    "prov_id": "1005"
+  },
+  {
+    "dist_id": "100502",
+    "distrito": "ARANCAY",
+    "prov_id": "1005"
+  },
+  {
+    "dist_id": "100503",
+    "distrito": "CHAVÍN DE PARIARCA",
+    "prov_id": "1005"
+  },
+  {
+    "dist_id": "100504",
+    "distrito": "JACAS GRANDE",
+    "prov_id": "1005"
+  },
+  {
+    "dist_id": "100505",
+    "distrito": "JIRCAN",
+    "prov_id": "1005"
+  },
+  {
+    "dist_id": "100506",
+    "distrito": "MIRAFLORES",
+    "prov_id": "1005"
+  },
+  {
+    "dist_id": "100507",
+    "distrito": "MONZÓN",
+    "prov_id": "1005"
+  },
+  {
+    "dist_id": "100508",
+    "distrito": "PUNCHAO",
+    "prov_id": "1005"
+  },
+  {
+    "dist_id": "100509",
+    "distrito": "PUÑOS",
+    "prov_id": "1005"
+  },
+  {
+    "dist_id": "100510",
+    "distrito": "SINGA",
+    "prov_id": "1005"
+  },
+  {
+    "dist_id": "100511",
+    "distrito": "TANTAMAYO",
+    "prov_id": "1005"
+  },
+  {
+    "dist_id": "100601",
+    "distrito": "RUPA-RUPA",
+    "prov_id": "1006"
+  },
+  {
+    "dist_id": "100602",
+    "distrito": "DANIEL ALOMÍA ROBLES",
+    "prov_id": "1006"
+  },
+  {
+    "dist_id": "100603",
+    "distrito": "HERMÍLIO VALDIZAN",
+    "prov_id": "1006"
+  },
+  {
+    "dist_id": "100604",
+    "distrito": "JOSÉ CRESPO Y CASTILLO",
+    "prov_id": "1006"
+  },
+  {
+    "dist_id": "100605",
+    "distrito": "LUYANDO",
+    "prov_id": "1006"
+  },
+  {
+    "dist_id": "100606",
+    "distrito": "MARIANO DAMASO BERAUN",
+    "prov_id": "1006"
+  },
+  {
+    "dist_id": "100607",
+    "distrito": "PUCAYACU",
+    "prov_id": "1006"
+  },
+  {
+    "dist_id": "100608",
+    "distrito": "CASTILLO GRANDE",
+    "prov_id": "1006"
+  },
+  {
+    "dist_id": "100701",
+    "distrito": "HUACRACHUCO",
+    "prov_id": "1007"
+  },
+  {
+    "dist_id": "100702",
+    "distrito": "CHOLON",
+    "prov_id": "1007"
+  },
+  {
+    "dist_id": "100703",
+    "distrito": "SAN BUENAVENTURA",
+    "prov_id": "1007"
+  },
+  {
+    "dist_id": "100704",
+    "distrito": "LA MORADA",
+    "prov_id": "1007"
+  },
+  {
+    "dist_id": "100705",
+    "distrito": "SANTA ROSA DE ALTO YANAJANCA",
+    "prov_id": "1007"
+  },
+  {
+    "dist_id": "100801",
+    "distrito": "PANAO",
+    "prov_id": "1008"
+  },
+  {
+    "dist_id": "100802",
+    "distrito": "CHAGLLA",
+    "prov_id": "1008"
+  },
+  {
+    "dist_id": "100803",
+    "distrito": "MOLINO",
+    "prov_id": "1008"
+  },
+  {
+    "dist_id": "100804",
+    "distrito": "UMARI",
+    "prov_id": "1008"
+  },
+  {
+    "dist_id": "100901",
+    "distrito": "PUERTO INCA",
+    "prov_id": "1009"
+  },
+  {
+    "dist_id": "100902",
+    "distrito": "CODO DEL POZUZO",
+    "prov_id": "1009"
+  },
+  {
+    "dist_id": "100903",
+    "distrito": "HONORIA",
+    "prov_id": "1009"
+  },
+  {
+    "dist_id": "100904",
+    "distrito": "TOURNAVISTA",
+    "prov_id": "1009"
+  },
+  {
+    "dist_id": "100905",
+    "distrito": "YUYAPICHIS",
+    "prov_id": "1009"
+  },
+  {
+    "dist_id": "101001",
+    "distrito": "JESÚS",
+    "prov_id": "1010"
+  },
+  {
+    "dist_id": "101002",
+    "distrito": "BAÑOS",
+    "prov_id": "1010"
+  },
+  {
+    "dist_id": "101003",
+    "distrito": "JIVIA",
+    "prov_id": "1010"
+  },
+  {
+    "dist_id": "101004",
+    "distrito": "QUEROPALCA",
+    "prov_id": "1010"
+  },
+  {
+    "dist_id": "101005",
+    "distrito": "RONDOS",
+    "prov_id": "1010"
+  },
+  {
+    "dist_id": "101006",
+    "distrito": "SAN FRANCISCO DE ASÍS",
+    "prov_id": "1010"
+  },
+  {
+    "dist_id": "101007",
+    "distrito": "SAN MIGUEL DE CAURI",
+    "prov_id": "1010"
+  },
+  {
+    "dist_id": "101101",
+    "distrito": "CHAVINILLO",
+    "prov_id": "1011"
+  },
+  {
+    "dist_id": "101102",
+    "distrito": "CAHUAC",
+    "prov_id": "1011"
+  },
+  {
+    "dist_id": "101103",
+    "distrito": "CHACABAMBA",
+    "prov_id": "1011"
+  },
+  {
+    "dist_id": "101104",
+    "distrito": "APARICIO POMARES",
+    "prov_id": "1011"
+  },
+  {
+    "dist_id": "101105",
+    "distrito": "JACAS CHICO",
+    "prov_id": "1011"
+  },
+  {
+    "dist_id": "101106",
+    "distrito": "OBAS",
+    "prov_id": "1011"
+  },
+  {
+    "dist_id": "101107",
+    "distrito": "PAMPAMARCA",
+    "prov_id": "1011"
+  },
+  {
+    "dist_id": "101108",
+    "distrito": "CHORAS",
+    "prov_id": "1011"
+  },
+  {
+    "dist_id": "110101",
+    "distrito": "ICA",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110102",
+    "distrito": "LA TINGUIÑA",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110103",
+    "distrito": "LOS AQUIJES",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110104",
+    "distrito": "OCUCAJE",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110105",
+    "distrito": "PACHACUTEC",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110106",
+    "distrito": "PARCONA",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110107",
+    "distrito": "PUEBLO NUEVO",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110108",
+    "distrito": "SALAS",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110109",
+    "distrito": "SAN JOSÉ DE LOS MOLINOS",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110110",
+    "distrito": "SAN JUAN BAUTISTA",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110111",
+    "distrito": "SANTIAGO",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110112",
+    "distrito": "SUBTANJALLA",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110113",
+    "distrito": "TATE",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110114",
+    "distrito": "YAUCA DEL ROSARIO",
+    "prov_id": "1101"
+  },
+  {
+    "dist_id": "110201",
+    "distrito": "CHINCHA ALTA",
+    "prov_id": "1102"
+  },
+  {
+    "dist_id": "110202",
+    "distrito": "ALTO LARAN",
+    "prov_id": "1102"
+  },
+  {
+    "dist_id": "110203",
+    "distrito": "CHAVIN",
+    "prov_id": "1102"
+  },
+  {
+    "dist_id": "110204",
+    "distrito": "CHINCHA BAJA",
+    "prov_id": "1102"
+  },
+  {
+    "dist_id": "110205",
+    "distrito": "EL CARMEN",
+    "prov_id": "1102"
+  },
+  {
+    "dist_id": "110206",
+    "distrito": "GROCIO PRADO",
+    "prov_id": "1102"
+  },
+  {
+    "dist_id": "110207",
+    "distrito": "PUEBLO NUEVO",
+    "prov_id": "1102"
+  },
+  {
+    "dist_id": "110208",
+    "distrito": "SAN JUAN DE YANAC",
+    "prov_id": "1102"
+  },
+  {
+    "dist_id": "110209",
+    "distrito": "SAN PEDRO DE HUACARPANA",
+    "prov_id": "1102"
+  },
+  {
+    "dist_id": "110210",
+    "distrito": "SUNAMPE",
+    "prov_id": "1102"
+  },
+  {
+    "dist_id": "110211",
+    "distrito": "TAMBO DE MORA",
+    "prov_id": "1102"
+  },
+  {
+    "dist_id": "110301",
+    "distrito": "NASCA",
+    "prov_id": "1103"
+  },
+  {
+    "dist_id": "110302",
+    "distrito": "CHANGUILLO",
+    "prov_id": "1103"
+  },
+  {
+    "dist_id": "110303",
+    "distrito": "EL INGENIO",
+    "prov_id": "1103"
+  },
+  {
+    "dist_id": "110304",
+    "distrito": "MARCONA",
+    "prov_id": "1103"
+  },
+  {
+    "dist_id": "110305",
+    "distrito": "VISTA ALEGRE",
+    "prov_id": "1103"
+  },
+  {
+    "dist_id": "110401",
+    "distrito": "PALPA",
+    "prov_id": "1104"
+  },
+  {
+    "dist_id": "110402",
+    "distrito": "LLIPATA",
+    "prov_id": "1104"
+  },
+  {
+    "dist_id": "110403",
+    "distrito": "RÍO GRANDE",
+    "prov_id": "1104"
+  },
+  {
+    "dist_id": "110404",
+    "distrito": "SANTA CRUZ",
+    "prov_id": "1104"
+  },
+  {
+    "dist_id": "110405",
+    "distrito": "TIBILLO",
+    "prov_id": "1104"
+  },
+  {
+    "dist_id": "110501",
+    "distrito": "PISCO",
+    "prov_id": "1105"
+  },
+  {
+    "dist_id": "110502",
+    "distrito": "HUANCANO",
+    "prov_id": "1105"
+  },
+  {
+    "dist_id": "110503",
+    "distrito": "HUMAY",
+    "prov_id": "1105"
+  },
+  {
+    "dist_id": "110504",
+    "distrito": "INDEPENDENCIA",
+    "prov_id": "1105"
+  },
+  {
+    "dist_id": "110505",
+    "distrito": "PARACAS",
+    "prov_id": "1105"
+  },
+  {
+    "dist_id": "110506",
+    "distrito": "SAN ANDRÉS",
+    "prov_id": "1105"
+  },
+  {
+    "dist_id": "110507",
+    "distrito": "SAN CLEMENTE",
+    "prov_id": "1105"
+  },
+  {
+    "dist_id": "110508",
+    "distrito": "TUPAC AMARU INCA",
+    "prov_id": "1105"
+  },
+  {
+    "dist_id": "120101",
+    "distrito": "HUANCAYO",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120104",
+    "distrito": "CARHUACALLANGA",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120105",
+    "distrito": "CHACAPAMPA",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120106",
+    "distrito": "CHICCHE",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120107",
+    "distrito": "CHILCA",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120108",
+    "distrito": "CHONGOS ALTO",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120111",
+    "distrito": "CHUPURO",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120112",
+    "distrito": "COLCA",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120113",
+    "distrito": "CULLHUAS",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120114",
+    "distrito": "EL TAMBO",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120116",
+    "distrito": "HUACRAPUQUIO",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120117",
+    "distrito": "HUALHUAS",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120119",
+    "distrito": "HUANCAN",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120120",
+    "distrito": "HUASICANCHA",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120121",
+    "distrito": "HUAYUCACHI",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120122",
+    "distrito": "INGENIO",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120124",
+    "distrito": "PARIAHUANCA",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120125",
+    "distrito": "PILCOMAYO",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120126",
+    "distrito": "PUCARA",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120127",
+    "distrito": "QUICHUAY",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120128",
+    "distrito": "QUILCAS",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120129",
+    "distrito": "SAN AGUSTÍN",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120130",
+    "distrito": "SAN JERÓNIMO DE TUNAN",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120132",
+    "distrito": "SAÑO",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120133",
+    "distrito": "SAPALLANGA",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120134",
+    "distrito": "SICAYA",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120135",
+    "distrito": "SANTO DOMINGO DE ACOBAMBA",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120136",
+    "distrito": "VIQUES",
+    "prov_id": "1201"
+  },
+  {
+    "dist_id": "120201",
+    "distrito": "CONCEPCIÓN",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120202",
+    "distrito": "ACO",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120203",
+    "distrito": "ANDAMARCA",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120204",
+    "distrito": "CHAMBARA",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120205",
+    "distrito": "COCHAS",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120206",
+    "distrito": "COMAS",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120207",
+    "distrito": "HEROÍNAS TOLEDO",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120208",
+    "distrito": "MANZANARES",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120209",
+    "distrito": "MARISCAL CASTILLA",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120210",
+    "distrito": "MATAHUASI",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120211",
+    "distrito": "MITO",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120212",
+    "distrito": "NUEVE DE JULIO",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120213",
+    "distrito": "ORCOTUNA",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120214",
+    "distrito": "SAN JOSÉ DE QUERO",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120215",
+    "distrito": "SANTA ROSA DE OCOPA",
+    "prov_id": "1202"
+  },
+  {
+    "dist_id": "120301",
+    "distrito": "CHANCHAMAYO",
+    "prov_id": "1203"
+  },
+  {
+    "dist_id": "120302",
+    "distrito": "PERENE",
+    "prov_id": "1203"
+  },
+  {
+    "dist_id": "120303",
+    "distrito": "PICHANAQUI",
+    "prov_id": "1203"
+  },
+  {
+    "dist_id": "120304",
+    "distrito": "SAN LUIS DE SHUARO",
+    "prov_id": "1203"
+  },
+  {
+    "dist_id": "120305",
+    "distrito": "SAN RAMÓN",
+    "prov_id": "1203"
+  },
+  {
+    "dist_id": "120306",
+    "distrito": "VITOC",
+    "prov_id": "1203"
+  },
+  {
+    "dist_id": "120401",
+    "distrito": "JAUJA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120402",
+    "distrito": "ACOLLA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120403",
+    "distrito": "APATA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120404",
+    "distrito": "ATAURA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120405",
+    "distrito": "CANCHAYLLO",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120406",
+    "distrito": "CURICACA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120407",
+    "distrito": "EL MANTARO",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120408",
+    "distrito": "HUAMALI",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120409",
+    "distrito": "HUARIPAMPA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120410",
+    "distrito": "HUERTAS",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120411",
+    "distrito": "JANJAILLO",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120412",
+    "distrito": "JULCÁN",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120413",
+    "distrito": "LEONOR ORDÓÑEZ",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120414",
+    "distrito": "LLOCLLAPAMPA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120415",
+    "distrito": "MARCO",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120416",
+    "distrito": "MASMA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120417",
+    "distrito": "MASMA CHICCHE",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120418",
+    "distrito": "MOLINOS",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120419",
+    "distrito": "MONOBAMBA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120420",
+    "distrito": "MUQUI",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120421",
+    "distrito": "MUQUIYAUYO",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120422",
+    "distrito": "PACA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120423",
+    "distrito": "PACCHA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120424",
+    "distrito": "PANCAN",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120425",
+    "distrito": "PARCO",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120426",
+    "distrito": "POMACANCHA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120427",
+    "distrito": "RICRAN",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120428",
+    "distrito": "SAN LORENZO",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120429",
+    "distrito": "SAN PEDRO DE CHUNAN",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120430",
+    "distrito": "SAUSA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120431",
+    "distrito": "SINCOS",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120432",
+    "distrito": "TUNAN MARCA",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120433",
+    "distrito": "YAULI",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120434",
+    "distrito": "YAUYOS",
+    "prov_id": "1204"
+  },
+  {
+    "dist_id": "120501",
+    "distrito": "JUNIN",
+    "prov_id": "1205"
+  },
+  {
+    "dist_id": "120502",
+    "distrito": "CARHUAMAYO",
+    "prov_id": "1205"
+  },
+  {
+    "dist_id": "120503",
+    "distrito": "ONDORES",
+    "prov_id": "1205"
+  },
+  {
+    "dist_id": "120504",
+    "distrito": "ULCUMAYO",
+    "prov_id": "1205"
+  },
+  {
+    "dist_id": "120601",
+    "distrito": "SATIPO",
+    "prov_id": "1206"
+  },
+  {
+    "dist_id": "120602",
+    "distrito": "COVIRIALI",
+    "prov_id": "1206"
+  },
+  {
+    "dist_id": "120603",
+    "distrito": "LLAYLLA",
+    "prov_id": "1206"
+  },
+  {
+    "dist_id": "120604",
+    "distrito": "MAZAMARI",
+    "prov_id": "1206"
+  },
+  {
+    "dist_id": "120605",
+    "distrito": "PAMPA HERMOSA",
+    "prov_id": "1206"
+  },
+  {
+    "dist_id": "120606",
+    "distrito": "PANGOA",
+    "prov_id": "1206"
+  },
+  {
+    "dist_id": "120607",
+    "distrito": "RÍO NEGRO",
+    "prov_id": "1206"
+  },
+  {
+    "dist_id": "120608",
+    "distrito": "RÍO TAMBO",
+    "prov_id": "1206"
+  },
+  {
+    "dist_id": "120609",
+    "distrito": "VIZCATAN DEL ENE",
+    "prov_id": "1206"
+  },
+  {
+    "dist_id": "120701",
+    "distrito": "TARMA",
+    "prov_id": "1207"
+  },
+  {
+    "dist_id": "120702",
+    "distrito": "ACOBAMBA",
+    "prov_id": "1207"
+  },
+  {
+    "dist_id": "120703",
+    "distrito": "HUARICOLCA",
+    "prov_id": "1207"
+  },
+  {
+    "dist_id": "120704",
+    "distrito": "HUASAHUASI",
+    "prov_id": "1207"
+  },
+  {
+    "dist_id": "120705",
+    "distrito": "LA UNIÓN",
+    "prov_id": "1207"
+  },
+  {
+    "dist_id": "120706",
+    "distrito": "PALCA",
+    "prov_id": "1207"
+  },
+  {
+    "dist_id": "120707",
+    "distrito": "PALCAMAYO",
+    "prov_id": "1207"
+  },
+  {
+    "dist_id": "120708",
+    "distrito": "SAN PEDRO DE CAJAS",
+    "prov_id": "1207"
+  },
+  {
+    "dist_id": "120709",
+    "distrito": "TAPO",
+    "prov_id": "1207"
+  },
+  {
+    "dist_id": "120801",
+    "distrito": "LA OROYA",
+    "prov_id": "1208"
+  },
+  {
+    "dist_id": "120802",
+    "distrito": "CHACAPALPA",
+    "prov_id": "1208"
+  },
+  {
+    "dist_id": "120803",
+    "distrito": "HUAY-HUAY",
+    "prov_id": "1208"
+  },
+  {
+    "dist_id": "120804",
+    "distrito": "MARCAPOMACOCHA",
+    "prov_id": "1208"
+  },
+  {
+    "dist_id": "120805",
+    "distrito": "MOROCOCHA",
+    "prov_id": "1208"
+  },
+  {
+    "dist_id": "120806",
+    "distrito": "PACCHA",
+    "prov_id": "1208"
+  },
+  {
+    "dist_id": "120807",
+    "distrito": "SANTA BÁRBARA DE CARHUACAYAN",
+    "prov_id": "1208"
+  },
+  {
+    "dist_id": "120808",
+    "distrito": "SANTA ROSA DE SACCO",
+    "prov_id": "1208"
+  },
+  {
+    "dist_id": "120809",
+    "distrito": "SUITUCANCHA",
+    "prov_id": "1208"
+  },
+  {
+    "dist_id": "120810",
+    "distrito": "YAULI",
+    "prov_id": "1208"
+  },
+  {
+    "dist_id": "120901",
+    "distrito": "CHUPACA",
+    "prov_id": "1209"
+  },
+  {
+    "dist_id": "120902",
+    "distrito": "AHUAC",
+    "prov_id": "1209"
+  },
+  {
+    "dist_id": "120903",
+    "distrito": "CHONGOS BAJO",
+    "prov_id": "1209"
+  },
+  {
+    "dist_id": "120904",
+    "distrito": "HUACHAC",
+    "prov_id": "1209"
+  },
+  {
+    "dist_id": "120905",
+    "distrito": "HUAMANCACA CHICO",
+    "prov_id": "1209"
+  },
+  {
+    "dist_id": "120906",
+    "distrito": "SAN JUAN DE ISCOS",
+    "prov_id": "1209"
+  },
+  {
+    "dist_id": "120907",
+    "distrito": "SAN JUAN DE JARPA",
+    "prov_id": "1209"
+  },
+  {
+    "dist_id": "120908",
+    "distrito": "TRES DE DICIEMBRE",
+    "prov_id": "1209"
+  },
+  {
+    "dist_id": "120909",
+    "distrito": "YANACANCHA",
+    "prov_id": "1209"
+  },
+  {
+    "dist_id": "130101",
+    "distrito": "TRUJILLO",
+    "prov_id": "1301"
+  },
+  {
+    "dist_id": "130102",
+    "distrito": "EL PORVENIR",
+    "prov_id": "1301"
+  },
+  {
+    "dist_id": "130103",
+    "distrito": "FLORENCIA DE MORA",
+    "prov_id": "1301"
+  },
+  {
+    "dist_id": "130104",
+    "distrito": "HUANCHACO",
+    "prov_id": "1301"
+  },
+  {
+    "dist_id": "130105",
+    "distrito": "LA ESPERANZA",
+    "prov_id": "1301"
+  },
+  {
+    "dist_id": "130106",
+    "distrito": "LAREDO",
+    "prov_id": "1301"
+  },
+  {
+    "dist_id": "130107",
+    "distrito": "MOCHE",
+    "prov_id": "1301"
+  },
+  {
+    "dist_id": "130108",
+    "distrito": "POROTO",
+    "prov_id": "1301"
+  },
+  {
+    "dist_id": "130109",
+    "distrito": "SALAVERRY",
+    "prov_id": "1301"
+  },
+  {
+    "dist_id": "130110",
+    "distrito": "SIMBAL",
+    "prov_id": "1301"
+  },
+  {
+    "dist_id": "130111",
+    "distrito": "VICTOR LARCO HERRERA",
+    "prov_id": "1301"
+  },
+  {
+    "dist_id": "130201",
+    "distrito": "ASCOPE",
+    "prov_id": "1302"
+  },
+  {
+    "dist_id": "130202",
+    "distrito": "CHICAMA",
+    "prov_id": "1302"
+  },
+  {
+    "dist_id": "130203",
+    "distrito": "CHOCOPE",
+    "prov_id": "1302"
+  },
+  {
+    "dist_id": "130204",
+    "distrito": "MAGDALENA DE CAO",
+    "prov_id": "1302"
+  },
+  {
+    "dist_id": "130205",
+    "distrito": "PAIJAN",
+    "prov_id": "1302"
+  },
+  {
+    "dist_id": "130206",
+    "distrito": "RÁZURI",
+    "prov_id": "1302"
+  },
+  {
+    "dist_id": "130207",
+    "distrito": "SANTIAGO DE CAO",
+    "prov_id": "1302"
+  },
+  {
+    "dist_id": "130208",
+    "distrito": "CASA GRANDE",
+    "prov_id": "1302"
+  },
+  {
+    "dist_id": "130301",
+    "distrito": "BOLÍVAR",
+    "prov_id": "1303"
+  },
+  {
+    "dist_id": "130302",
+    "distrito": "BAMBAMARCA",
+    "prov_id": "1303"
+  },
+  {
+    "dist_id": "130303",
+    "distrito": "CONDORMARCA",
+    "prov_id": "1303"
+  },
+  {
+    "dist_id": "130304",
+    "distrito": "LONGOTEA",
+    "prov_id": "1303"
+  },
+  {
+    "dist_id": "130305",
+    "distrito": "UCHUMARCA",
+    "prov_id": "1303"
+  },
+  {
+    "dist_id": "130306",
+    "distrito": "UCUNCHA",
+    "prov_id": "1303"
+  },
+  {
+    "dist_id": "130401",
+    "distrito": "CHEPEN",
+    "prov_id": "1304"
+  },
+  {
+    "dist_id": "130402",
+    "distrito": "PACANGA",
+    "prov_id": "1304"
+  },
+  {
+    "dist_id": "130403",
+    "distrito": "PUEBLO NUEVO",
+    "prov_id": "1304"
+  },
+  {
+    "dist_id": "130501",
+    "distrito": "JULCAN",
+    "prov_id": "1305"
+  },
+  {
+    "dist_id": "130502",
+    "distrito": "CALAMARCA",
+    "prov_id": "1305"
+  },
+  {
+    "dist_id": "130503",
+    "distrito": "CARABAMBA",
+    "prov_id": "1305"
+  },
+  {
+    "dist_id": "130504",
+    "distrito": "HUASO",
+    "prov_id": "1305"
+  },
+  {
+    "dist_id": "130601",
+    "distrito": "OTUZCO",
+    "prov_id": "1306"
+  },
+  {
+    "dist_id": "130602",
+    "distrito": "AGALLPAMPA",
+    "prov_id": "1306"
+  },
+  {
+    "dist_id": "130604",
+    "distrito": "CHARAT",
+    "prov_id": "1306"
+  },
+  {
+    "dist_id": "130605",
+    "distrito": "HUARANCHAL",
+    "prov_id": "1306"
+  },
+  {
+    "dist_id": "130606",
+    "distrito": "LA CUESTA",
+    "prov_id": "1306"
+  },
+  {
+    "dist_id": "130608",
+    "distrito": "MACHE",
+    "prov_id": "1306"
+  },
+  {
+    "dist_id": "130610",
+    "distrito": "PARANDAY",
+    "prov_id": "1306"
+  },
+  {
+    "dist_id": "130611",
+    "distrito": "SALPO",
+    "prov_id": "1306"
+  },
+  {
+    "dist_id": "130613",
+    "distrito": "SINSICAP",
+    "prov_id": "1306"
+  },
+  {
+    "dist_id": "130614",
+    "distrito": "USQUIL",
+    "prov_id": "1306"
+  },
+  {
+    "dist_id": "130701",
+    "distrito": "SAN PEDRO DE LLOC",
+    "prov_id": "1307"
+  },
+  {
+    "dist_id": "130702",
+    "distrito": "GUADALUPE",
+    "prov_id": "1307"
+  },
+  {
+    "dist_id": "130703",
+    "distrito": "JEQUETEPEQUE",
+    "prov_id": "1307"
+  },
+  {
+    "dist_id": "130704",
+    "distrito": "PACASMAYO",
+    "prov_id": "1307"
+  },
+  {
+    "dist_id": "130705",
+    "distrito": "SAN JOSÉ",
+    "prov_id": "1307"
+  },
+  {
+    "dist_id": "130801",
+    "distrito": "TAYABAMBA",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130802",
+    "distrito": "BULDIBUYO",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130803",
+    "distrito": "CHILLIA",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130804",
+    "distrito": "HUANCASPATA",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130805",
+    "distrito": "HUAYLILLAS",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130806",
+    "distrito": "HUAYO",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130807",
+    "distrito": "ONGON",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130808",
+    "distrito": "PARCOY",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130809",
+    "distrito": "PATAZ",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130810",
+    "distrito": "PIAS",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130811",
+    "distrito": "SANTIAGO DE CHALLAS",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130812",
+    "distrito": "TAURIJA",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130813",
+    "distrito": "URPAY",
+    "prov_id": "1308"
+  },
+  {
+    "dist_id": "130901",
+    "distrito": "HUAMACHUCO",
+    "prov_id": "1309"
+  },
+  {
+    "dist_id": "130902",
+    "distrito": "CHUGAY",
+    "prov_id": "1309"
+  },
+  {
+    "dist_id": "130903",
+    "distrito": "COCHORCO",
+    "prov_id": "1309"
+  },
+  {
+    "dist_id": "130904",
+    "distrito": "CURGOS",
+    "prov_id": "1309"
+  },
+  {
+    "dist_id": "130905",
+    "distrito": "MARCABAL",
+    "prov_id": "1309"
+  },
+  {
+    "dist_id": "130906",
+    "distrito": "SANAGORAN",
+    "prov_id": "1309"
+  },
+  {
+    "dist_id": "130907",
+    "distrito": "SARIN",
+    "prov_id": "1309"
+  },
+  {
+    "dist_id": "130908",
+    "distrito": "SARTIMBAMBA",
+    "prov_id": "1309"
+  },
+  {
+    "dist_id": "131001",
+    "distrito": "SANTIAGO DE CHUCO",
+    "prov_id": "1310"
+  },
+  {
+    "dist_id": "131002",
+    "distrito": "ANGASMARCA",
+    "prov_id": "1310"
+  },
+  {
+    "dist_id": "131003",
+    "distrito": "CACHICADAN",
+    "prov_id": "1310"
+  },
+  {
+    "dist_id": "131004",
+    "distrito": "MOLLEBAMBA",
+    "prov_id": "1310"
+  },
+  {
+    "dist_id": "131005",
+    "distrito": "MOLLEPATA",
+    "prov_id": "1310"
+  },
+  {
+    "dist_id": "131006",
+    "distrito": "QUIRUVILCA",
+    "prov_id": "1310"
+  },
+  {
+    "dist_id": "131007",
+    "distrito": "SANTA CRUZ DE CHUCA",
+    "prov_id": "1310"
+  },
+  {
+    "dist_id": "131008",
+    "distrito": "SITABAMBA",
+    "prov_id": "1310"
+  },
+  {
+    "dist_id": "131101",
+    "distrito": "CASCAS",
+    "prov_id": "1311"
+  },
+  {
+    "dist_id": "131102",
+    "distrito": "LUCMA",
+    "prov_id": "1311"
+  },
+  {
+    "dist_id": "131103",
+    "distrito": "MARMOT",
+    "prov_id": "1311"
+  },
+  {
+    "dist_id": "131104",
+    "distrito": "SAYAPULLO",
+    "prov_id": "1311"
+  },
+  {
+    "dist_id": "131201",
+    "distrito": "VIRU",
+    "prov_id": "1312"
+  },
+  {
+    "dist_id": "131202",
+    "distrito": "CHAO",
+    "prov_id": "1312"
+  },
+  {
+    "dist_id": "131203",
+    "distrito": "GUADALUPITO",
+    "prov_id": "1312"
+  },
+  {
+    "dist_id": "140101",
+    "distrito": "CHICLAYO",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140102",
+    "distrito": "CHONGOYAPE",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140103",
+    "distrito": "ETEN",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140104",
+    "distrito": "ETEN PUERTO",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140105",
+    "distrito": "JOSÉ LEONARDO ORTIZ",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140106",
+    "distrito": "LA VICTORIA",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140107",
+    "distrito": "LAGUNAS",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140108",
+    "distrito": "MONSEFU",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140109",
+    "distrito": "NUEVA ARICA",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140110",
+    "distrito": "OYOTUN",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140111",
+    "distrito": "PICSI",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140112",
+    "distrito": "PIMENTEL",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140113",
+    "distrito": "REQUE",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140114",
+    "distrito": "SANTA ROSA",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140115",
+    "distrito": "SAÑA",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140116",
+    "distrito": "CAYALTI",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140117",
+    "distrito": "PATAPO",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140118",
+    "distrito": "POMALCA",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140119",
+    "distrito": "PUCALA",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140120",
+    "distrito": "TUMAN",
+    "prov_id": "1401"
+  },
+  {
+    "dist_id": "140201",
+    "distrito": "FERREÑAFE",
+    "prov_id": "1402"
+  },
+  {
+    "dist_id": "140202",
+    "distrito": "CAÑARIS",
+    "prov_id": "1402"
+  },
+  {
+    "dist_id": "140203",
+    "distrito": "INCAHUASI",
+    "prov_id": "1402"
+  },
+  {
+    "dist_id": "140204",
+    "distrito": "MANUEL ANTONIO MESONES MURO",
+    "prov_id": "1402"
+  },
+  {
+    "dist_id": "140205",
+    "distrito": "PITIPO",
+    "prov_id": "1402"
+  },
+  {
+    "dist_id": "140206",
+    "distrito": "PUEBLO NUEVO",
+    "prov_id": "1402"
+  },
+  {
+    "dist_id": "140301",
+    "distrito": "LAMBAYEQUE",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "140302",
+    "distrito": "CHOCHOPE",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "140303",
+    "distrito": "ILLIMO",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "140304",
+    "distrito": "JAYANCA",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "140305",
+    "distrito": "MOCHUMI",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "140306",
+    "distrito": "MORROPE",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "140307",
+    "distrito": "MOTUPE",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "140308",
+    "distrito": "OLMOS",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "140309",
+    "distrito": "PACORA",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "140310",
+    "distrito": "SALAS",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "140311",
+    "distrito": "SAN JOSÉ",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "140312",
+    "distrito": "TUCUME",
+    "prov_id": "1403"
+  },
+  {
+    "dist_id": "150101",
+    "distrito": "LIMA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150102",
+    "distrito": "ANCÓN",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150103",
+    "distrito": "ATE",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150104",
+    "distrito": "BARRANCO",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150105",
+    "distrito": "BREÑA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150106",
+    "distrito": "CARABAYLLO",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150107",
+    "distrito": "CHACLACAYO",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150108",
+    "distrito": "CHORRILLOS",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150109",
+    "distrito": "CIENEGUILLA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150110",
+    "distrito": "COMAS",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150111",
+    "distrito": "EL AGUSTINO",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150112",
+    "distrito": "INDEPENDENCIA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150113",
+    "distrito": "JESÚS MARÍA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150114",
+    "distrito": "LA MOLINA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150115",
+    "distrito": "LA VICTORIA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150116",
+    "distrito": "LINCE",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150117",
+    "distrito": "LOS OLIVOS",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150118",
+    "distrito": "LURIGANCHO",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150119",
+    "distrito": "LURIN",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150120",
+    "distrito": "MAGDALENA DEL MAR",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150121",
+    "distrito": "PUEBLO LIBRE",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150122",
+    "distrito": "MIRAFLORES",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150123",
+    "distrito": "PACHACAMAC",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150124",
+    "distrito": "PUCUSANA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150125",
+    "distrito": "PUENTE PIEDRA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150126",
+    "distrito": "PUNTA HERMOSA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150127",
+    "distrito": "PUNTA NEGRA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150128",
+    "distrito": "RÍMAC",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150129",
+    "distrito": "SAN BARTOLO",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150130",
+    "distrito": "SAN BORJA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150131",
+    "distrito": "SAN ISIDRO",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150132",
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150133",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150134",
+    "distrito": "SAN LUIS",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150135",
+    "distrito": "SAN MARTÍN DE PORRES",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150136",
+    "distrito": "SAN MIGUEL",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150137",
+    "distrito": "SANTA ANITA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150138",
+    "distrito": "SANTA MARÍA DEL MAR",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150139",
+    "distrito": "SANTA ROSA",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150140",
+    "distrito": "SANTIAGO DE SURCO",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150141",
+    "distrito": "SURQUILLO",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150142",
+    "distrito": "VILLA EL SALVADOR",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150143",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "prov_id": "1501"
+  },
+  {
+    "dist_id": "150201",
+    "distrito": "BARRANCA",
+    "prov_id": "1502"
+  },
+  {
+    "dist_id": "150202",
+    "distrito": "PARAMONGA",
+    "prov_id": "1502"
+  },
+  {
+    "dist_id": "150203",
+    "distrito": "PATIVILCA",
+    "prov_id": "1502"
+  },
+  {
+    "dist_id": "150204",
+    "distrito": "SUPE",
+    "prov_id": "1502"
+  },
+  {
+    "dist_id": "150205",
+    "distrito": "SUPE PUERTO",
+    "prov_id": "1502"
+  },
+  {
+    "dist_id": "150301",
+    "distrito": "CAJATAMBO",
+    "prov_id": "1503"
+  },
+  {
+    "dist_id": "150302",
+    "distrito": "COPA",
+    "prov_id": "1503"
+  },
+  {
+    "dist_id": "150303",
+    "distrito": "GORGOR",
+    "prov_id": "1503"
+  },
+  {
+    "dist_id": "150304",
+    "distrito": "HUANCAPON",
+    "prov_id": "1503"
+  },
+  {
+    "dist_id": "150305",
+    "distrito": "MANAS",
+    "prov_id": "1503"
+  },
+  {
+    "dist_id": "150401",
+    "distrito": "CANTA",
+    "prov_id": "1504"
+  },
+  {
+    "dist_id": "150402",
+    "distrito": "ARAHUAY",
+    "prov_id": "1504"
+  },
+  {
+    "dist_id": "150403",
+    "distrito": "HUAMANTANGA",
+    "prov_id": "1504"
+  },
+  {
+    "dist_id": "150404",
+    "distrito": "HUAROS",
+    "prov_id": "1504"
+  },
+  {
+    "dist_id": "150405",
+    "distrito": "LACHAQUI",
+    "prov_id": "1504"
+  },
+  {
+    "dist_id": "150406",
+    "distrito": "SAN BUENAVENTURA",
+    "prov_id": "1504"
+  },
+  {
+    "dist_id": "150407",
+    "distrito": "SANTA ROSA DE QUIVES",
+    "prov_id": "1504"
+  },
+  {
+    "dist_id": "150501",
+    "distrito": "SAN VICENTE DE CAÑETE",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150502",
+    "distrito": "ASIA",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150503",
+    "distrito": "CALANGO",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150504",
+    "distrito": "CERRO AZUL",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150505",
+    "distrito": "CHILCA",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150506",
+    "distrito": "COAYLLO",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150507",
+    "distrito": "IMPERIAL",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150508",
+    "distrito": "LUNAHUANA",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150509",
+    "distrito": "MALA",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150510",
+    "distrito": "NUEVO IMPERIAL",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150511",
+    "distrito": "PACARAN",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150512",
+    "distrito": "QUILMANA",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150513",
+    "distrito": "SAN ANTONIO",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150514",
+    "distrito": "SAN LUIS",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150515",
+    "distrito": "SANTA CRUZ DE FLORES",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150516",
+    "distrito": "ZÚÑIGA",
+    "prov_id": "1505"
+  },
+  {
+    "dist_id": "150601",
+    "distrito": "HUARAL",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150602",
+    "distrito": "ATAVILLOS ALTO",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150603",
+    "distrito": "ATAVILLOS BAJO",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150604",
+    "distrito": "AUCALLAMA",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150605",
+    "distrito": "CHANCAY",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150606",
+    "distrito": "IHUARI",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150607",
+    "distrito": "LAMPIAN",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150608",
+    "distrito": "PACARAOS",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150609",
+    "distrito": "SAN MIGUEL DE ACOS",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150610",
+    "distrito": "SANTA CRUZ DE ANDAMARCA",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150611",
+    "distrito": "SUMBILCA",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150612",
+    "distrito": "VEINTISIETE DE NOVIEMBRE",
+    "prov_id": "1506"
+  },
+  {
+    "dist_id": "150701",
+    "distrito": "MATUCANA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150702",
+    "distrito": "ANTIOQUIA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150703",
+    "distrito": "CALLAHUANCA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150704",
+    "distrito": "CARAMPOMA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150705",
+    "distrito": "CHICLA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150706",
+    "distrito": "CUENCA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150707",
+    "distrito": "HUACHUPAMPA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150708",
+    "distrito": "HUANZA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150709",
+    "distrito": "HUAROCHIRI",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150710",
+    "distrito": "LAHUAYTAMBO",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150711",
+    "distrito": "LANGA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150712",
+    "distrito": "LARAOS",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150713",
+    "distrito": "MARIATANA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150714",
+    "distrito": "RICARDO PALMA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150715",
+    "distrito": "SAN ANDRÉS DE TUPICOCHA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150716",
+    "distrito": "SAN ANTONIO",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150717",
+    "distrito": "SAN BARTOLOMÉ",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150718",
+    "distrito": "SAN DAMIAN",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150719",
+    "distrito": "SAN JUAN DE IRIS",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150720",
+    "distrito": "SAN JUAN DE TANTARANCHE",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150721",
+    "distrito": "SAN LORENZO DE QUINTI",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150722",
+    "distrito": "SAN MATEO",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150723",
+    "distrito": "SAN MATEO DE OTAO",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150724",
+    "distrito": "SAN PEDRO DE CASTA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150725",
+    "distrito": "SAN PEDRO DE HUANCAYRE",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150726",
+    "distrito": "SANGALLAYA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150727",
+    "distrito": "SANTA CRUZ DE COCACHACRA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150728",
+    "distrito": "SANTA EULALIA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150729",
+    "distrito": "SANTIAGO DE ANCHUCAYA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150730",
+    "distrito": "SANTIAGO DE TUNA",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150731",
+    "distrito": "SANTO DOMINGO DE LOS OLLEROS",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150732",
+    "distrito": "SURCO",
+    "prov_id": "1507"
+  },
+  {
+    "dist_id": "150801",
+    "distrito": "HUACHO",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150802",
+    "distrito": "AMBAR",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150803",
+    "distrito": "CALETA DE CARQUIN",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150804",
+    "distrito": "CHECRAS",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150805",
+    "distrito": "HUALMAY",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150806",
+    "distrito": "HUAURA",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150807",
+    "distrito": "LEONCIO PRADO",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150808",
+    "distrito": "PACCHO",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150809",
+    "distrito": "SANTA LEONOR",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150810",
+    "distrito": "SANTA MARÍA",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150811",
+    "distrito": "SAYAN",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150812",
+    "distrito": "VEGUETA",
+    "prov_id": "1508"
+  },
+  {
+    "dist_id": "150901",
+    "distrito": "OYON",
+    "prov_id": "1509"
+  },
+  {
+    "dist_id": "150902",
+    "distrito": "ANDAJES",
+    "prov_id": "1509"
+  },
+  {
+    "dist_id": "150903",
+    "distrito": "CAUJUL",
+    "prov_id": "1509"
+  },
+  {
+    "dist_id": "150904",
+    "distrito": "COCHAMARCA",
+    "prov_id": "1509"
+  },
+  {
+    "dist_id": "150905",
+    "distrito": "NAVAN",
+    "prov_id": "1509"
+  },
+  {
+    "dist_id": "150906",
+    "distrito": "PACHANGARA",
+    "prov_id": "1509"
+  },
+  {
+    "dist_id": "151001",
+    "distrito": "YAUYOS",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151002",
+    "distrito": "ALIS",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151003",
+    "distrito": "ALLAUCA",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151004",
+    "distrito": "AYAVIRI",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151005",
+    "distrito": "AZÁNGARO",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151006",
+    "distrito": "CACRA",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151007",
+    "distrito": "CARANIA",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151008",
+    "distrito": "CATAHUASI",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151009",
+    "distrito": "CHOCOS",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151010",
+    "distrito": "COCHAS",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151011",
+    "distrito": "COLONIA",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151012",
+    "distrito": "HONGOS",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151013",
+    "distrito": "HUAMPARA",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151014",
+    "distrito": "HUANCAYA",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151015",
+    "distrito": "HUANGASCAR",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151016",
+    "distrito": "HUANTAN",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151017",
+    "distrito": "HUAÑEC",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151018",
+    "distrito": "LARAOS",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151019",
+    "distrito": "LINCHA",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151020",
+    "distrito": "MADEAN",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151021",
+    "distrito": "MIRAFLORES",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151022",
+    "distrito": "OMAS",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151023",
+    "distrito": "PUTINZA",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151024",
+    "distrito": "QUINCHES",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151025",
+    "distrito": "QUINOCAY",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151026",
+    "distrito": "SAN JOAQUÍN",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151027",
+    "distrito": "SAN PEDRO DE PILAS",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151028",
+    "distrito": "TANTA",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151029",
+    "distrito": "TAURIPAMPA",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151030",
+    "distrito": "TOMAS",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151031",
+    "distrito": "TUPE",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151032",
+    "distrito": "VIÑAC",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "151033",
+    "distrito": "VITIS",
+    "prov_id": "1510"
+  },
+  {
+    "dist_id": "160101",
+    "distrito": "IQUITOS",
+    "prov_id": "1601"
+  },
+  {
+    "dist_id": "160102",
+    "distrito": "ALTO NANAY",
+    "prov_id": "1601"
+  },
+  {
+    "dist_id": "160103",
+    "distrito": "FERNANDO LORES",
+    "prov_id": "1601"
+  },
+  {
+    "dist_id": "160104",
+    "distrito": "INDIANA",
+    "prov_id": "1601"
+  },
+  {
+    "dist_id": "160105",
+    "distrito": "LAS AMAZONAS",
+    "prov_id": "1601"
+  },
+  {
+    "dist_id": "160106",
+    "distrito": "MAZAN",
+    "prov_id": "1601"
+  },
+  {
+    "dist_id": "160107",
+    "distrito": "NAPO",
+    "prov_id": "1601"
+  },
+  {
+    "dist_id": "160108",
+    "distrito": "PUNCHANA",
+    "prov_id": "1601"
+  },
+  {
+    "dist_id": "160110",
+    "distrito": "TORRES CAUSANA",
+    "prov_id": "1601"
+  },
+  {
+    "dist_id": "160112",
+    "distrito": "BELÉN",
+    "prov_id": "1601"
+  },
+  {
+    "dist_id": "160113",
+    "distrito": "SAN JUAN BAUTISTA",
+    "prov_id": "1601"
+  },
+  {
+    "dist_id": "160201",
+    "distrito": "YURIMAGUAS",
+    "prov_id": "1602"
+  },
+  {
+    "dist_id": "160202",
+    "distrito": "BALSAPUERTO",
+    "prov_id": "1602"
+  },
+  {
+    "dist_id": "160205",
+    "distrito": "JEBEROS",
+    "prov_id": "1602"
+  },
+  {
+    "dist_id": "160206",
+    "distrito": "LAGUNAS",
+    "prov_id": "1602"
+  },
+  {
+    "dist_id": "160210",
+    "distrito": "SANTA CRUZ",
+    "prov_id": "1602"
+  },
+  {
+    "dist_id": "160211",
+    "distrito": "TENIENTE CESAR LÓPEZ ROJAS",
+    "prov_id": "1602"
+  },
+  {
+    "dist_id": "160301",
+    "distrito": "NAUTA",
+    "prov_id": "1603"
+  },
+  {
+    "dist_id": "160302",
+    "distrito": "PARINARI",
+    "prov_id": "1603"
+  },
+  {
+    "dist_id": "160303",
+    "distrito": "TIGRE",
+    "prov_id": "1603"
+  },
+  {
+    "dist_id": "160304",
+    "distrito": "TROMPETEROS",
+    "prov_id": "1603"
+  },
+  {
+    "dist_id": "160305",
+    "distrito": "URARINAS",
+    "prov_id": "1603"
+  },
+  {
+    "dist_id": "160401",
+    "distrito": "RAMÓN CASTILLA",
+    "prov_id": "1604"
+  },
+  {
+    "dist_id": "160402",
+    "distrito": "PEBAS",
+    "prov_id": "1604"
+  },
+  {
+    "dist_id": "160403",
+    "distrito": "YAVARI",
+    "prov_id": "1604"
+  },
+  {
+    "dist_id": "160404",
+    "distrito": "SAN PABLO",
+    "prov_id": "1604"
+  },
+  {
+    "dist_id": "160501",
+    "distrito": "REQUENA",
+    "prov_id": "1605"
+  },
+  {
+    "dist_id": "160502",
+    "distrito": "ALTO TAPICHE",
+    "prov_id": "1605"
+  },
+  {
+    "dist_id": "160503",
+    "distrito": "CAPELO",
+    "prov_id": "1605"
+  },
+  {
+    "dist_id": "160504",
+    "distrito": "EMILIO SAN MARTÍN",
+    "prov_id": "1605"
+  },
+  {
+    "dist_id": "160505",
+    "distrito": "MAQUIA",
+    "prov_id": "1605"
+  },
+  {
+    "dist_id": "160506",
+    "distrito": "PUINAHUA",
+    "prov_id": "1605"
+  },
+  {
+    "dist_id": "160507",
+    "distrito": "SAQUENA",
+    "prov_id": "1605"
+  },
+  {
+    "dist_id": "160508",
+    "distrito": "SOPLIN",
+    "prov_id": "1605"
+  },
+  {
+    "dist_id": "160509",
+    "distrito": "TAPICHE",
+    "prov_id": "1605"
+  },
+  {
+    "dist_id": "160510",
+    "distrito": "JENARO HERRERA",
+    "prov_id": "1605"
+  },
+  {
+    "dist_id": "160511",
+    "distrito": "YAQUERANA",
+    "prov_id": "1605"
+  },
+  {
+    "dist_id": "160601",
+    "distrito": "CONTAMANA",
+    "prov_id": "1606"
+  },
+  {
+    "dist_id": "160602",
+    "distrito": "INAHUAYA",
+    "prov_id": "1606"
+  },
+  {
+    "dist_id": "160603",
+    "distrito": "PADRE MÁRQUEZ",
+    "prov_id": "1606"
+  },
+  {
+    "dist_id": "160604",
+    "distrito": "PAMPA HERMOSA",
+    "prov_id": "1606"
+  },
+  {
+    "dist_id": "160605",
+    "distrito": "SARAYACU",
+    "prov_id": "1606"
+  },
+  {
+    "dist_id": "160606",
+    "distrito": "VARGAS GUERRA",
+    "prov_id": "1606"
+  },
+  {
+    "dist_id": "160701",
+    "distrito": "BARRANCA",
+    "prov_id": "1607"
+  },
+  {
+    "dist_id": "160702",
+    "distrito": "CAHUAPANAS",
+    "prov_id": "1607"
+  },
+  {
+    "dist_id": "160703",
+    "distrito": "MANSERICHE",
+    "prov_id": "1607"
+  },
+  {
+    "dist_id": "160704",
+    "distrito": "MORONA",
+    "prov_id": "1607"
+  },
+  {
+    "dist_id": "160705",
+    "distrito": "PASTAZA",
+    "prov_id": "1607"
+  },
+  {
+    "dist_id": "160706",
+    "distrito": "ANDOAS",
+    "prov_id": "1607"
+  },
+  {
+    "dist_id": "160801",
+    "distrito": "PUTUMAYO",
+    "prov_id": "1608"
+  },
+  {
+    "dist_id": "160802",
+    "distrito": "ROSA PANDURO",
+    "prov_id": "1608"
+  },
+  {
+    "dist_id": "160803",
+    "distrito": "TENIENTE MANUEL CLAVERO",
+    "prov_id": "1608"
+  },
+  {
+    "dist_id": "160804",
+    "distrito": "YAGUAS",
+    "prov_id": "1608"
+  },
+  {
+    "dist_id": "170101",
+    "distrito": "TAMBOPATA",
+    "prov_id": "1701"
+  },
+  {
+    "dist_id": "170102",
+    "distrito": "INAMBARI",
+    "prov_id": "1701"
+  },
+  {
+    "dist_id": "170103",
+    "distrito": "LAS PIEDRAS",
+    "prov_id": "1701"
+  },
+  {
+    "dist_id": "170104",
+    "distrito": "LABERINTO",
+    "prov_id": "1701"
+  },
+  {
+    "dist_id": "170201",
+    "distrito": "MANU",
+    "prov_id": "1702"
+  },
+  {
+    "dist_id": "170202",
+    "distrito": "FITZCARRALD",
+    "prov_id": "1702"
+  },
+  {
+    "dist_id": "170203",
+    "distrito": "MADRE DE DIOS",
+    "prov_id": "1702"
+  },
+  {
+    "dist_id": "170204",
+    "distrito": "HUEPETUHE",
+    "prov_id": "1702"
+  },
+  {
+    "dist_id": "170301",
+    "distrito": "IÑAPARI",
+    "prov_id": "1703"
+  },
+  {
+    "dist_id": "170302",
+    "distrito": "IBERIA",
+    "prov_id": "1703"
+  },
+  {
+    "dist_id": "170303",
+    "distrito": "TAHUAMANU",
+    "prov_id": "1703"
+  },
+  {
+    "dist_id": "180101",
+    "distrito": "MOQUEGUA",
+    "prov_id": "1801"
+  },
+  {
+    "dist_id": "180102",
+    "distrito": "CARUMAS",
+    "prov_id": "1801"
+  },
+  {
+    "dist_id": "180103",
+    "distrito": "CUCHUMBAYA",
+    "prov_id": "1801"
+  },
+  {
+    "dist_id": "180104",
+    "distrito": "SAMEGUA",
+    "prov_id": "1801"
+  },
+  {
+    "dist_id": "180105",
+    "distrito": "SAN CRISTÓBAL",
+    "prov_id": "1801"
+  },
+  {
+    "dist_id": "180106",
+    "distrito": "TORATA",
+    "prov_id": "1801"
+  },
+  {
+    "dist_id": "180201",
+    "distrito": "OMATE",
+    "prov_id": "1802"
+  },
+  {
+    "dist_id": "180202",
+    "distrito": "CHOJATA",
+    "prov_id": "1802"
+  },
+  {
+    "dist_id": "180203",
+    "distrito": "COALAQUE",
+    "prov_id": "1802"
+  },
+  {
+    "dist_id": "180204",
+    "distrito": "ICHUÑA",
+    "prov_id": "1802"
+  },
+  {
+    "dist_id": "180205",
+    "distrito": "LA CAPILLA",
+    "prov_id": "1802"
+  },
+  {
+    "dist_id": "180206",
+    "distrito": "LLOQUE",
+    "prov_id": "1802"
+  },
+  {
+    "dist_id": "180207",
+    "distrito": "MATALAQUE",
+    "prov_id": "1802"
+  },
+  {
+    "dist_id": "180208",
+    "distrito": "PUQUINA",
+    "prov_id": "1802"
+  },
+  {
+    "dist_id": "180209",
+    "distrito": "QUINISTAQUILLAS",
+    "prov_id": "1802"
+  },
+  {
+    "dist_id": "180210",
+    "distrito": "UBINAS",
+    "prov_id": "1802"
+  },
+  {
+    "dist_id": "180211",
+    "distrito": "YUNGA",
+    "prov_id": "1802"
+  },
+  {
+    "dist_id": "180301",
+    "distrito": "ILO",
+    "prov_id": "1803"
+  },
+  {
+    "dist_id": "180302",
+    "distrito": "EL ALGARROBAL",
+    "prov_id": "1803"
+  },
+  {
+    "dist_id": "180303",
+    "distrito": "PACOCHA",
+    "prov_id": "1803"
+  },
+  {
+    "dist_id": "190101",
+    "distrito": "CHAUPIMARCA",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190102",
+    "distrito": "HUACHON",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190103",
+    "distrito": "HUARIACA",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190104",
+    "distrito": "HUAYLLAY",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190105",
+    "distrito": "NINACACA",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190106",
+    "distrito": "PALLANCHACRA",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190107",
+    "distrito": "PAUCARTAMBO",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190108",
+    "distrito": "SAN FRANCISCO DE ASÍS DE YARUSYACAN",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190109",
+    "distrito": "SIMON BOLÍVAR",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190110",
+    "distrito": "TICLACAYAN",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190111",
+    "distrito": "TINYAHUARCO",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190112",
+    "distrito": "VICCO",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190113",
+    "distrito": "YANACANCHA",
+    "prov_id": "1901"
+  },
+  {
+    "dist_id": "190201",
+    "distrito": "YANAHUANCA",
+    "prov_id": "1902"
+  },
+  {
+    "dist_id": "190202",
+    "distrito": "CHACAYAN",
+    "prov_id": "1902"
+  },
+  {
+    "dist_id": "190203",
+    "distrito": "GOYLLARISQUIZGA",
+    "prov_id": "1902"
+  },
+  {
+    "dist_id": "190204",
+    "distrito": "PAUCAR",
+    "prov_id": "1902"
+  },
+  {
+    "dist_id": "190205",
+    "distrito": "SAN PEDRO DE PILLAO",
+    "prov_id": "1902"
+  },
+  {
+    "dist_id": "190206",
+    "distrito": "SANTA ANA DE TUSI",
+    "prov_id": "1902"
+  },
+  {
+    "dist_id": "190207",
+    "distrito": "TAPUC",
+    "prov_id": "1902"
+  },
+  {
+    "dist_id": "190208",
+    "distrito": "VILCABAMBA",
+    "prov_id": "1902"
+  },
+  {
+    "dist_id": "190301",
+    "distrito": "OXAPAMPA",
+    "prov_id": "1903"
+  },
+  {
+    "dist_id": "190302",
+    "distrito": "CHONTABAMBA",
+    "prov_id": "1903"
+  },
+  {
+    "dist_id": "190303",
+    "distrito": "HUANCABAMBA",
+    "prov_id": "1903"
+  },
+  {
+    "dist_id": "190304",
+    "distrito": "PALCAZU",
+    "prov_id": "1903"
+  },
+  {
+    "dist_id": "190305",
+    "distrito": "POZUZO",
+    "prov_id": "1903"
+  },
+  {
+    "dist_id": "190306",
+    "distrito": "PUERTO BERMÚDEZ",
+    "prov_id": "1903"
+  },
+  {
+    "dist_id": "190307",
+    "distrito": "VILLA RICA",
+    "prov_id": "1903"
+  },
+  {
+    "dist_id": "190308",
+    "distrito": "CONSTITUCIÓN",
+    "prov_id": "1903"
+  },
+  {
+    "dist_id": "200101",
+    "distrito": "PIURA",
+    "prov_id": "2001"
+  },
+  {
+    "dist_id": "200104",
+    "distrito": "CASTILLA",
+    "prov_id": "2001"
+  },
+  {
+    "dist_id": "200105",
+    "distrito": "CATACAOS",
+    "prov_id": "2001"
+  },
+  {
+    "dist_id": "200107",
+    "distrito": "CURA MORI",
+    "prov_id": "2001"
+  },
+  {
+    "dist_id": "200108",
+    "distrito": "EL TALLAN",
+    "prov_id": "2001"
+  },
+  {
+    "dist_id": "200109",
+    "distrito": "LA ARENA",
+    "prov_id": "2001"
+  },
+  {
+    "dist_id": "200110",
+    "distrito": "LA UNIÓN",
+    "prov_id": "2001"
+  },
+  {
+    "dist_id": "200111",
+    "distrito": "LAS LOMAS",
+    "prov_id": "2001"
+  },
+  {
+    "dist_id": "200114",
+    "distrito": "TAMBO GRANDE",
+    "prov_id": "2001"
+  },
+  {
+    "dist_id": "200115",
+    "distrito": "VEINTISEIS DE OCTUBRE",
+    "prov_id": "2001"
+  },
+  {
+    "dist_id": "200201",
+    "distrito": "AYABACA",
+    "prov_id": "2002"
+  },
+  {
+    "dist_id": "200202",
+    "distrito": "FRIAS",
+    "prov_id": "2002"
+  },
+  {
+    "dist_id": "200203",
+    "distrito": "JILILI",
+    "prov_id": "2002"
+  },
+  {
+    "dist_id": "200204",
+    "distrito": "LAGUNAS",
+    "prov_id": "2002"
+  },
+  {
+    "dist_id": "200205",
+    "distrito": "MONTERO",
+    "prov_id": "2002"
+  },
+  {
+    "dist_id": "200206",
+    "distrito": "PACAIPAMPA",
+    "prov_id": "2002"
+  },
+  {
+    "dist_id": "200207",
+    "distrito": "PAIMAS",
+    "prov_id": "2002"
+  },
+  {
+    "dist_id": "200208",
+    "distrito": "SAPILLICA",
+    "prov_id": "2002"
+  },
+  {
+    "dist_id": "200209",
+    "distrito": "SICCHEZ",
+    "prov_id": "2002"
+  },
+  {
+    "dist_id": "200210",
+    "distrito": "SUYO",
+    "prov_id": "2002"
+  },
+  {
+    "dist_id": "200301",
+    "distrito": "HUANCABAMBA",
+    "prov_id": "2003"
+  },
+  {
+    "dist_id": "200302",
+    "distrito": "CANCHAQUE",
+    "prov_id": "2003"
+  },
+  {
+    "dist_id": "200303",
+    "distrito": "EL CARMEN DE LA FRONTERA",
+    "prov_id": "2003"
+  },
+  {
+    "dist_id": "200304",
+    "distrito": "HUARMACA",
+    "prov_id": "2003"
+  },
+  {
+    "dist_id": "200305",
+    "distrito": "LALAQUIZ",
+    "prov_id": "2003"
+  },
+  {
+    "dist_id": "200306",
+    "distrito": "SAN MIGUEL DE EL FAIQUE",
+    "prov_id": "2003"
+  },
+  {
+    "dist_id": "200307",
+    "distrito": "SONDOR",
+    "prov_id": "2003"
+  },
+  {
+    "dist_id": "200308",
+    "distrito": "SONDORILLO",
+    "prov_id": "2003"
+  },
+  {
+    "dist_id": "200401",
+    "distrito": "CHULUCANAS",
+    "prov_id": "2004"
+  },
+  {
+    "dist_id": "200402",
+    "distrito": "BUENOS AIRES",
+    "prov_id": "2004"
+  },
+  {
+    "dist_id": "200403",
+    "distrito": "CHALACO",
+    "prov_id": "2004"
+  },
+  {
+    "dist_id": "200404",
+    "distrito": "LA MATANZA",
+    "prov_id": "2004"
+  },
+  {
+    "dist_id": "200405",
+    "distrito": "MORROPON",
+    "prov_id": "2004"
+  },
+  {
+    "dist_id": "200406",
+    "distrito": "SALITRAL",
+    "prov_id": "2004"
+  },
+  {
+    "dist_id": "200407",
+    "distrito": "SAN JUAN DE BIGOTE",
+    "prov_id": "2004"
+  },
+  {
+    "dist_id": "200408",
+    "distrito": "SANTA CATALINA DE MOSSA",
+    "prov_id": "2004"
+  },
+  {
+    "dist_id": "200409",
+    "distrito": "SANTO DOMINGO",
+    "prov_id": "2004"
+  },
+  {
+    "dist_id": "200410",
+    "distrito": "YAMANGO",
+    "prov_id": "2004"
+  },
+  {
+    "dist_id": "200501",
+    "distrito": "PAITA",
+    "prov_id": "2005"
+  },
+  {
+    "dist_id": "200502",
+    "distrito": "AMOTAPE",
+    "prov_id": "2005"
+  },
+  {
+    "dist_id": "200503",
+    "distrito": "ARENAL",
+    "prov_id": "2005"
+  },
+  {
+    "dist_id": "200504",
+    "distrito": "COLAN",
+    "prov_id": "2005"
+  },
+  {
+    "dist_id": "200505",
+    "distrito": "LA HUACA",
+    "prov_id": "2005"
+  },
+  {
+    "dist_id": "200506",
+    "distrito": "TAMARINDO",
+    "prov_id": "2005"
+  },
+  {
+    "dist_id": "200507",
+    "distrito": "VICHAYAL",
+    "prov_id": "2005"
+  },
+  {
+    "dist_id": "200601",
+    "distrito": "SULLANA",
+    "prov_id": "2006"
+  },
+  {
+    "dist_id": "200602",
+    "distrito": "BELLAVISTA",
+    "prov_id": "2006"
+  },
+  {
+    "dist_id": "200603",
+    "distrito": "IGNACIO ESCUDERO",
+    "prov_id": "2006"
+  },
+  {
+    "dist_id": "200604",
+    "distrito": "LANCONES",
+    "prov_id": "2006"
+  },
+  {
+    "dist_id": "200605",
+    "distrito": "MARCAVELICA",
+    "prov_id": "2006"
+  },
+  {
+    "dist_id": "200606",
+    "distrito": "MIGUEL CHECA",
+    "prov_id": "2006"
+  },
+  {
+    "dist_id": "200607",
+    "distrito": "QUERECOTILLO",
+    "prov_id": "2006"
+  },
+  {
+    "dist_id": "200608",
+    "distrito": "SALITRAL",
+    "prov_id": "2006"
+  },
+  {
+    "dist_id": "200701",
+    "distrito": "PARIÑAS",
+    "prov_id": "2007"
+  },
+  {
+    "dist_id": "200702",
+    "distrito": "EL ALTO",
+    "prov_id": "2007"
+  },
+  {
+    "dist_id": "200703",
+    "distrito": "LA BREA",
+    "prov_id": "2007"
+  },
+  {
+    "dist_id": "200704",
+    "distrito": "LOBITOS",
+    "prov_id": "2007"
+  },
+  {
+    "dist_id": "200705",
+    "distrito": "LOS ORGANOS",
+    "prov_id": "2007"
+  },
+  {
+    "dist_id": "200706",
+    "distrito": "MANCORA",
+    "prov_id": "2007"
+  },
+  {
+    "dist_id": "200801",
+    "distrito": "SECHURA",
+    "prov_id": "2008"
+  },
+  {
+    "dist_id": "200802",
+    "distrito": "BELLAVISTA DE LA UNIÓN",
+    "prov_id": "2008"
+  },
+  {
+    "dist_id": "200803",
+    "distrito": "BERNAL",
+    "prov_id": "2008"
+  },
+  {
+    "dist_id": "200804",
+    "distrito": "CRISTO NOS VALGA",
+    "prov_id": "2008"
+  },
+  {
+    "dist_id": "200805",
+    "distrito": "VICE",
+    "prov_id": "2008"
+  },
+  {
+    "dist_id": "200806",
+    "distrito": "RINCONADA LLICUAR",
+    "prov_id": "2008"
+  },
+  {
+    "dist_id": "210101",
+    "distrito": "PUNO",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210102",
+    "distrito": "ACORA",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210103",
+    "distrito": "AMANTANI",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210104",
+    "distrito": "ATUNCOLLA",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210105",
+    "distrito": "CAPACHICA",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210106",
+    "distrito": "CHUCUITO",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210107",
+    "distrito": "COATA",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210108",
+    "distrito": "HUATA",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210109",
+    "distrito": "MAÑAZO",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210110",
+    "distrito": "PAUCARCOLLA",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210111",
+    "distrito": "PICHACANI",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210112",
+    "distrito": "PLATERIA",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210113",
+    "distrito": "SAN ANTONIO",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210114",
+    "distrito": "TIQUILLACA",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210115",
+    "distrito": "VILQUE",
+    "prov_id": "2101"
+  },
+  {
+    "dist_id": "210201",
+    "distrito": "AZÁNGARO",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210202",
+    "distrito": "ACHAYA",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210203",
+    "distrito": "ARAPA",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210204",
+    "distrito": "ASILLO",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210205",
+    "distrito": "CAMINACA",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210206",
+    "distrito": "CHUPA",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210207",
+    "distrito": "JOSÉ DOMINGO CHOQUEHUANCA",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210208",
+    "distrito": "MUÑANI",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210209",
+    "distrito": "POTONI",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210210",
+    "distrito": "SAMAN",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210211",
+    "distrito": "SAN ANTON",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210212",
+    "distrito": "SAN JOSÉ",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210213",
+    "distrito": "SAN JUAN DE SALINAS",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210214",
+    "distrito": "SANTIAGO DE PUPUJA",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210215",
+    "distrito": "TIRAPATA",
+    "prov_id": "2102"
+  },
+  {
+    "dist_id": "210301",
+    "distrito": "MACUSANI",
+    "prov_id": "2103"
+  },
+  {
+    "dist_id": "210302",
+    "distrito": "AJOYANI",
+    "prov_id": "2103"
+  },
+  {
+    "dist_id": "210303",
+    "distrito": "AYAPATA",
+    "prov_id": "2103"
+  },
+  {
+    "dist_id": "210304",
+    "distrito": "COASA",
+    "prov_id": "2103"
+  },
+  {
+    "dist_id": "210305",
+    "distrito": "CORANI",
+    "prov_id": "2103"
+  },
+  {
+    "dist_id": "210306",
+    "distrito": "CRUCERO",
+    "prov_id": "2103"
+  },
+  {
+    "dist_id": "210307",
+    "distrito": "ITUATA",
+    "prov_id": "2103"
+  },
+  {
+    "dist_id": "210308",
+    "distrito": "OLLACHEA",
+    "prov_id": "2103"
+  },
+  {
+    "dist_id": "210309",
+    "distrito": "SAN GABAN",
+    "prov_id": "2103"
+  },
+  {
+    "dist_id": "210310",
+    "distrito": "USICAYOS",
+    "prov_id": "2103"
+  },
+  {
+    "dist_id": "210401",
+    "distrito": "JULI",
+    "prov_id": "2104"
+  },
+  {
+    "dist_id": "210402",
+    "distrito": "DESAGUADERO",
+    "prov_id": "2104"
+  },
+  {
+    "dist_id": "210403",
+    "distrito": "HUACULLANI",
+    "prov_id": "2104"
+  },
+  {
+    "dist_id": "210404",
+    "distrito": "KELLUYO",
+    "prov_id": "2104"
+  },
+  {
+    "dist_id": "210405",
+    "distrito": "PISACOMA",
+    "prov_id": "2104"
+  },
+  {
+    "dist_id": "210406",
+    "distrito": "POMATA",
+    "prov_id": "2104"
+  },
+  {
+    "dist_id": "210407",
+    "distrito": "ZEPITA",
+    "prov_id": "2104"
+  },
+  {
+    "dist_id": "210501",
+    "distrito": "ILAVE",
+    "prov_id": "2105"
+  },
+  {
+    "dist_id": "210502",
+    "distrito": "CAPAZO",
+    "prov_id": "2105"
+  },
+  {
+    "dist_id": "210503",
+    "distrito": "PILCUYO",
+    "prov_id": "2105"
+  },
+  {
+    "dist_id": "210504",
+    "distrito": "SANTA ROSA",
+    "prov_id": "2105"
+  },
+  {
+    "dist_id": "210505",
+    "distrito": "CONDURIRI",
+    "prov_id": "2105"
+  },
+  {
+    "dist_id": "210601",
+    "distrito": "HUANCANE",
+    "prov_id": "2106"
+  },
+  {
+    "dist_id": "210602",
+    "distrito": "COJATA",
+    "prov_id": "2106"
+  },
+  {
+    "dist_id": "210603",
+    "distrito": "HUATASANI",
+    "prov_id": "2106"
+  },
+  {
+    "dist_id": "210604",
+    "distrito": "INCHUPALLA",
+    "prov_id": "2106"
+  },
+  {
+    "dist_id": "210605",
+    "distrito": "PUSI",
+    "prov_id": "2106"
+  },
+  {
+    "dist_id": "210606",
+    "distrito": "ROSASPATA",
+    "prov_id": "2106"
+  },
+  {
+    "dist_id": "210607",
+    "distrito": "TARACO",
+    "prov_id": "2106"
+  },
+  {
+    "dist_id": "210608",
+    "distrito": "VILQUE CHICO",
+    "prov_id": "2106"
+  },
+  {
+    "dist_id": "210701",
+    "distrito": "LAMPA",
+    "prov_id": "2107"
+  },
+  {
+    "dist_id": "210702",
+    "distrito": "CABANILLA",
+    "prov_id": "2107"
+  },
+  {
+    "dist_id": "210703",
+    "distrito": "CALAPUJA",
+    "prov_id": "2107"
+  },
+  {
+    "dist_id": "210704",
+    "distrito": "NICASIO",
+    "prov_id": "2107"
+  },
+  {
+    "dist_id": "210705",
+    "distrito": "OCUVIRI",
+    "prov_id": "2107"
+  },
+  {
+    "dist_id": "210706",
+    "distrito": "PALCA",
+    "prov_id": "2107"
+  },
+  {
+    "dist_id": "210707",
+    "distrito": "PARATIA",
+    "prov_id": "2107"
+  },
+  {
+    "dist_id": "210708",
+    "distrito": "PUCARA",
+    "prov_id": "2107"
+  },
+  {
+    "dist_id": "210709",
+    "distrito": "SANTA LUCIA",
+    "prov_id": "2107"
+  },
+  {
+    "dist_id": "210710",
+    "distrito": "VILAVILA",
+    "prov_id": "2107"
+  },
+  {
+    "dist_id": "210801",
+    "distrito": "AYAVIRI",
+    "prov_id": "2108"
+  },
+  {
+    "dist_id": "210802",
+    "distrito": "ANTAUTA",
+    "prov_id": "2108"
+  },
+  {
+    "dist_id": "210803",
+    "distrito": "CUPI",
+    "prov_id": "2108"
+  },
+  {
+    "dist_id": "210804",
+    "distrito": "LLALLI",
+    "prov_id": "2108"
+  },
+  {
+    "dist_id": "210805",
+    "distrito": "MACARI",
+    "prov_id": "2108"
+  },
+  {
+    "dist_id": "210806",
+    "distrito": "NUÑOA",
+    "prov_id": "2108"
+  },
+  {
+    "dist_id": "210807",
+    "distrito": "ORURILLO",
+    "prov_id": "2108"
+  },
+  {
+    "dist_id": "210808",
+    "distrito": "SANTA ROSA",
+    "prov_id": "2108"
+  },
+  {
+    "dist_id": "210809",
+    "distrito": "UMACHIRI",
+    "prov_id": "2108"
+  },
+  {
+    "dist_id": "210901",
+    "distrito": "MOHO",
+    "prov_id": "2109"
+  },
+  {
+    "dist_id": "210902",
+    "distrito": "CONIMA",
+    "prov_id": "2109"
+  },
+  {
+    "dist_id": "210903",
+    "distrito": "HUAYRAPATA",
+    "prov_id": "2109"
+  },
+  {
+    "dist_id": "210904",
+    "distrito": "TILALI",
+    "prov_id": "2109"
+  },
+  {
+    "dist_id": "211001",
+    "distrito": "PUTINA",
+    "prov_id": "2110"
+  },
+  {
+    "dist_id": "211002",
+    "distrito": "ANANEA",
+    "prov_id": "2110"
+  },
+  {
+    "dist_id": "211003",
+    "distrito": "PEDRO VILCA APAZA",
+    "prov_id": "2110"
+  },
+  {
+    "dist_id": "211004",
+    "distrito": "QUILCAPUNCU",
+    "prov_id": "2110"
+  },
+  {
+    "dist_id": "211005",
+    "distrito": "SINA",
+    "prov_id": "2110"
+  },
+  {
+    "dist_id": "211101",
+    "distrito": "JULIACA",
+    "prov_id": "2111"
+  },
+  {
+    "dist_id": "211102",
+    "distrito": "CABANA",
+    "prov_id": "2111"
+  },
+  {
+    "dist_id": "211103",
+    "distrito": "CABANILLAS",
+    "prov_id": "2111"
+  },
+  {
+    "dist_id": "211104",
+    "distrito": "CARACOTO",
+    "prov_id": "2111"
+  },
+  {
+    "dist_id": "211201",
+    "distrito": "SANDIA",
+    "prov_id": "2112"
+  },
+  {
+    "dist_id": "211202",
+    "distrito": "CUYOCUYO",
+    "prov_id": "2112"
+  },
+  {
+    "dist_id": "211203",
+    "distrito": "LIMBANI",
+    "prov_id": "2112"
+  },
+  {
+    "dist_id": "211204",
+    "distrito": "PATAMBUCO",
+    "prov_id": "2112"
+  },
+  {
+    "dist_id": "211205",
+    "distrito": "PHARA",
+    "prov_id": "2112"
+  },
+  {
+    "dist_id": "211206",
+    "distrito": "QUIACA",
+    "prov_id": "2112"
+  },
+  {
+    "dist_id": "211207",
+    "distrito": "SAN JUAN DEL ORO",
+    "prov_id": "2112"
+  },
+  {
+    "dist_id": "211208",
+    "distrito": "YANAHUAYA",
+    "prov_id": "2112"
+  },
+  {
+    "dist_id": "211209",
+    "distrito": "ALTO INAMBARI",
+    "prov_id": "2112"
+  },
+  {
+    "dist_id": "211210",
+    "distrito": "SAN PEDRO DE PUTINA PUNCO",
+    "prov_id": "2112"
+  },
+  {
+    "dist_id": "211301",
+    "distrito": "YUNGUYO",
+    "prov_id": "2113"
+  },
+  {
+    "dist_id": "211302",
+    "distrito": "ANAPIA",
+    "prov_id": "2113"
+  },
+  {
+    "dist_id": "211303",
+    "distrito": "COPANI",
+    "prov_id": "2113"
+  },
+  {
+    "dist_id": "211304",
+    "distrito": "CUTURAPI",
+    "prov_id": "2113"
+  },
+  {
+    "dist_id": "211305",
+    "distrito": "OLLARAYA",
+    "prov_id": "2113"
+  },
+  {
+    "dist_id": "211306",
+    "distrito": "TINICACHI",
+    "prov_id": "2113"
+  },
+  {
+    "dist_id": "211307",
+    "distrito": "UNICACHI",
+    "prov_id": "2113"
+  },
+  {
+    "dist_id": "220101",
+    "distrito": "MOYOBAMBA",
+    "prov_id": "2201"
+  },
+  {
+    "dist_id": "220102",
+    "distrito": "CALZADA",
+    "prov_id": "2201"
+  },
+  {
+    "dist_id": "220103",
+    "distrito": "HABANA",
+    "prov_id": "2201"
+  },
+  {
+    "dist_id": "220104",
+    "distrito": "JEPELACIO",
+    "prov_id": "2201"
+  },
+  {
+    "dist_id": "220105",
+    "distrito": "SORITOR",
+    "prov_id": "2201"
+  },
+  {
+    "dist_id": "220106",
+    "distrito": "YANTALO",
+    "prov_id": "2201"
+  },
+  {
+    "dist_id": "220201",
+    "distrito": "BELLAVISTA",
+    "prov_id": "2202"
+  },
+  {
+    "dist_id": "220202",
+    "distrito": "ALTO BIAVO",
+    "prov_id": "2202"
+  },
+  {
+    "dist_id": "220203",
+    "distrito": "BAJO BIAVO",
+    "prov_id": "2202"
+  },
+  {
+    "dist_id": "220204",
+    "distrito": "HUALLAGA",
+    "prov_id": "2202"
+  },
+  {
+    "dist_id": "220205",
+    "distrito": "SAN PABLO",
+    "prov_id": "2202"
+  },
+  {
+    "dist_id": "220206",
+    "distrito": "SAN RAFAEL",
+    "prov_id": "2202"
+  },
+  {
+    "dist_id": "220301",
+    "distrito": "SAN JOSÉ DE SISA",
+    "prov_id": "2203"
+  },
+  {
+    "dist_id": "220302",
+    "distrito": "AGUA BLANCA",
+    "prov_id": "2203"
+  },
+  {
+    "dist_id": "220303",
+    "distrito": "SAN MARTÍN",
+    "prov_id": "2203"
+  },
+  {
+    "dist_id": "220304",
+    "distrito": "SANTA ROSA",
+    "prov_id": "2203"
+  },
+  {
+    "dist_id": "220305",
+    "distrito": "SHATOJA",
+    "prov_id": "2203"
+  },
+  {
+    "dist_id": "220401",
+    "distrito": "SAPOSOA",
+    "prov_id": "2204"
+  },
+  {
+    "dist_id": "220402",
+    "distrito": "ALTO SAPOSOA",
+    "prov_id": "2204"
+  },
+  {
+    "dist_id": "220403",
+    "distrito": "EL ESLABÓN",
+    "prov_id": "2204"
+  },
+  {
+    "dist_id": "220404",
+    "distrito": "PISCOYACU",
+    "prov_id": "2204"
+  },
+  {
+    "dist_id": "220405",
+    "distrito": "SACANCHE",
+    "prov_id": "2204"
+  },
+  {
+    "dist_id": "220406",
+    "distrito": "TINGO DE SAPOSOA",
+    "prov_id": "2204"
+  },
+  {
+    "dist_id": "220501",
+    "distrito": "LAMAS",
+    "prov_id": "2205"
+  },
+  {
+    "dist_id": "220502",
+    "distrito": "ALONSO DE ALVARADO",
+    "prov_id": "2205"
+  },
+  {
+    "dist_id": "220503",
+    "distrito": "BARRANQUITA",
+    "prov_id": "2205"
+  },
+  {
+    "dist_id": "220504",
+    "distrito": "CAYNARACHI",
+    "prov_id": "2205"
+  },
+  {
+    "dist_id": "220505",
+    "distrito": "CUÑUMBUQUI",
+    "prov_id": "2205"
+  },
+  {
+    "dist_id": "220506",
+    "distrito": "PINTO RECODO",
+    "prov_id": "2205"
+  },
+  {
+    "dist_id": "220507",
+    "distrito": "RUMISAPA",
+    "prov_id": "2205"
+  },
+  {
+    "dist_id": "220508",
+    "distrito": "SAN ROQUE DE CUMBAZA",
+    "prov_id": "2205"
+  },
+  {
+    "dist_id": "220509",
+    "distrito": "SHANAO",
+    "prov_id": "2205"
+  },
+  {
+    "dist_id": "220510",
+    "distrito": "TABALOSOS",
+    "prov_id": "2205"
+  },
+  {
+    "dist_id": "220511",
+    "distrito": "ZAPATERO",
+    "prov_id": "2205"
+  },
+  {
+    "dist_id": "220601",
+    "distrito": "JUANJUÍ",
+    "prov_id": "2206"
+  },
+  {
+    "dist_id": "220602",
+    "distrito": "CAMPANILLA",
+    "prov_id": "2206"
+  },
+  {
+    "dist_id": "220603",
+    "distrito": "HUICUNGO",
+    "prov_id": "2206"
+  },
+  {
+    "dist_id": "220604",
+    "distrito": "PACHIZA",
+    "prov_id": "2206"
+  },
+  {
+    "dist_id": "220605",
+    "distrito": "PAJARILLO",
+    "prov_id": "2206"
+  },
+  {
+    "dist_id": "220701",
+    "distrito": "PICOTA",
+    "prov_id": "2207"
+  },
+  {
+    "dist_id": "220702",
+    "distrito": "BUENOS AIRES",
+    "prov_id": "2207"
+  },
+  {
+    "dist_id": "220703",
+    "distrito": "CASPISAPA",
+    "prov_id": "2207"
+  },
+  {
+    "dist_id": "220704",
+    "distrito": "PILLUANA",
+    "prov_id": "2207"
+  },
+  {
+    "dist_id": "220705",
+    "distrito": "PUCACACA",
+    "prov_id": "2207"
+  },
+  {
+    "dist_id": "220706",
+    "distrito": "SAN CRISTÓBAL",
+    "prov_id": "2207"
+  },
+  {
+    "dist_id": "220707",
+    "distrito": "SAN HILARIÓN",
+    "prov_id": "2207"
+  },
+  {
+    "dist_id": "220708",
+    "distrito": "SHAMBOYACU",
+    "prov_id": "2207"
+  },
+  {
+    "dist_id": "220709",
+    "distrito": "TINGO DE PONASA",
+    "prov_id": "2207"
+  },
+  {
+    "dist_id": "220710",
+    "distrito": "TRES UNIDOS",
+    "prov_id": "2207"
+  },
+  {
+    "dist_id": "220801",
+    "distrito": "RIOJA",
+    "prov_id": "2208"
+  },
+  {
+    "dist_id": "220802",
+    "distrito": "AWAJUN",
+    "prov_id": "2208"
+  },
+  {
+    "dist_id": "220803",
+    "distrito": "ELÍAS SOPLIN VARGAS",
+    "prov_id": "2208"
+  },
+  {
+    "dist_id": "220804",
+    "distrito": "NUEVA CAJAMARCA",
+    "prov_id": "2208"
+  },
+  {
+    "dist_id": "220805",
+    "distrito": "PARDO MIGUEL",
+    "prov_id": "2208"
+  },
+  {
+    "dist_id": "220806",
+    "distrito": "POSIC",
+    "prov_id": "2208"
+  },
+  {
+    "dist_id": "220807",
+    "distrito": "SAN FERNANDO",
+    "prov_id": "2208"
+  },
+  {
+    "dist_id": "220808",
+    "distrito": "YORONGOS",
+    "prov_id": "2208"
+  },
+  {
+    "dist_id": "220809",
+    "distrito": "YURACYACU",
+    "prov_id": "2208"
+  },
+  {
+    "dist_id": "220901",
+    "distrito": "TARAPOTO",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220902",
+    "distrito": "ALBERTO LEVEAU",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220903",
+    "distrito": "CACATACHI",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220904",
+    "distrito": "CHAZUTA",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220905",
+    "distrito": "CHIPURANA",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220906",
+    "distrito": "EL PORVENIR",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220907",
+    "distrito": "HUIMBAYOC",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220908",
+    "distrito": "JUAN GUERRA",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220909",
+    "distrito": "LA BANDA DE SHILCAYO",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220910",
+    "distrito": "MORALES",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220911",
+    "distrito": "PAPAPLAYA",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220912",
+    "distrito": "SAN ANTONIO",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220913",
+    "distrito": "SAUCE",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "220914",
+    "distrito": "SHAPAJA",
+    "prov_id": "2209"
+  },
+  {
+    "dist_id": "221001",
+    "distrito": "TOCACHE",
+    "prov_id": "2210"
+  },
+  {
+    "dist_id": "221002",
+    "distrito": "NUEVO PROGRESO",
+    "prov_id": "2210"
+  },
+  {
+    "dist_id": "221003",
+    "distrito": "POLVORA",
+    "prov_id": "2210"
+  },
+  {
+    "dist_id": "221004",
+    "distrito": "SHUNTE",
+    "prov_id": "2210"
+  },
+  {
+    "dist_id": "221005",
+    "distrito": "UCHIZA",
+    "prov_id": "2210"
+  },
+  {
+    "dist_id": "230101",
+    "distrito": "TACNA",
+    "prov_id": "2301"
+  },
+  {
+    "dist_id": "230102",
+    "distrito": "ALTO DE LA ALIANZA",
+    "prov_id": "2301"
+  },
+  {
+    "dist_id": "230103",
+    "distrito": "CALANA",
+    "prov_id": "2301"
+  },
+  {
+    "dist_id": "230104",
+    "distrito": "CIUDAD NUEVA",
+    "prov_id": "2301"
+  },
+  {
+    "dist_id": "230105",
+    "distrito": "INCLAN",
+    "prov_id": "2301"
+  },
+  {
+    "dist_id": "230106",
+    "distrito": "PACHIA",
+    "prov_id": "2301"
+  },
+  {
+    "dist_id": "230107",
+    "distrito": "PALCA",
+    "prov_id": "2301"
+  },
+  {
+    "dist_id": "230108",
+    "distrito": "POCOLLAY",
+    "prov_id": "2301"
+  },
+  {
+    "dist_id": "230109",
+    "distrito": "SAMA",
+    "prov_id": "2301"
+  },
+  {
+    "dist_id": "230110",
+    "distrito": "CORONEL GREGORIO ALBARRACÍN LANCHIPA",
+    "prov_id": "2301"
+  },
+  {
+    "dist_id": "230111",
+    "distrito": "LA YARADA LOS PALOS",
+    "prov_id": "2301"
+  },
+  {
+    "dist_id": "230201",
+    "distrito": "CANDARAVE",
+    "prov_id": "2302"
+  },
+  {
+    "dist_id": "230202",
+    "distrito": "CAIRANI",
+    "prov_id": "2302"
+  },
+  {
+    "dist_id": "230203",
+    "distrito": "CAMILACA",
+    "prov_id": "2302"
+  },
+  {
+    "dist_id": "230204",
+    "distrito": "CURIBAYA",
+    "prov_id": "2302"
+  },
+  {
+    "dist_id": "230205",
+    "distrito": "HUANUARA",
+    "prov_id": "2302"
+  },
+  {
+    "dist_id": "230206",
+    "distrito": "QUILAHUANI",
+    "prov_id": "2302"
+  },
+  {
+    "dist_id": "230301",
+    "distrito": "LOCUMBA",
+    "prov_id": "2303"
+  },
+  {
+    "dist_id": "230302",
+    "distrito": "ILABAYA",
+    "prov_id": "2303"
+  },
+  {
+    "dist_id": "230303",
+    "distrito": "ITE",
+    "prov_id": "2303"
+  },
+  {
+    "dist_id": "230401",
+    "distrito": "TARATA",
+    "prov_id": "2304"
+  },
+  {
+    "dist_id": "230402",
+    "distrito": "HÉROES ALBARRACÍN",
+    "prov_id": "2304"
+  },
+  {
+    "dist_id": "230403",
+    "distrito": "ESTIQUE",
+    "prov_id": "2304"
+  },
+  {
+    "dist_id": "230404",
+    "distrito": "ESTIQUE-PAMPA",
+    "prov_id": "2304"
+  },
+  {
+    "dist_id": "230405",
+    "distrito": "SITAJARA",
+    "prov_id": "2304"
+  },
+  {
+    "dist_id": "230406",
+    "distrito": "SUSAPAYA",
+    "prov_id": "2304"
+  },
+  {
+    "dist_id": "230407",
+    "distrito": "TARUCACHI",
+    "prov_id": "2304"
+  },
+  {
+    "dist_id": "230408",
+    "distrito": "TICACO",
+    "prov_id": "2304"
+  },
+  {
+    "dist_id": "240101",
+    "distrito": "TUMBES",
+    "prov_id": "2401"
+  },
+  {
+    "dist_id": "240102",
+    "distrito": "CORRALES",
+    "prov_id": "2401"
+  },
+  {
+    "dist_id": "240103",
+    "distrito": "LA CRUZ",
+    "prov_id": "2401"
+  },
+  {
+    "dist_id": "240104",
+    "distrito": "PAMPAS DE HOSPITAL",
+    "prov_id": "2401"
+  },
+  {
+    "dist_id": "240105",
+    "distrito": "SAN JACINTO",
+    "prov_id": "2401"
+  },
+  {
+    "dist_id": "240106",
+    "distrito": "SAN JUAN DE LA VIRGEN",
+    "prov_id": "2401"
+  },
+  {
+    "dist_id": "240201",
+    "distrito": "ZORRITOS",
+    "prov_id": "2402"
+  },
+  {
+    "dist_id": "240202",
+    "distrito": "CASITAS",
+    "prov_id": "2402"
+  },
+  {
+    "dist_id": "240203",
+    "distrito": "CANOAS DE PUNTA SAL",
+    "prov_id": "2402"
+  },
+  {
+    "dist_id": "240301",
+    "distrito": "ZARUMILLA",
+    "prov_id": "2403"
+  },
+  {
+    "dist_id": "240302",
+    "distrito": "AGUAS VERDES",
+    "prov_id": "2403"
+  },
+  {
+    "dist_id": "240303",
+    "distrito": "MATAPALO",
+    "prov_id": "2403"
+  },
+  {
+    "dist_id": "240304",
+    "distrito": "PAPAYAL",
+    "prov_id": "2403"
+  },
+  {
+    "dist_id": "250101",
+    "distrito": "CALLERIA",
+    "prov_id": "2501"
+  },
+  {
+    "dist_id": "250102",
+    "distrito": "CAMPOVERDE",
+    "prov_id": "2501"
+  },
+  {
+    "dist_id": "250103",
+    "distrito": "IPARIA",
+    "prov_id": "2501"
+  },
+  {
+    "dist_id": "250104",
+    "distrito": "MASISEA",
+    "prov_id": "2501"
+  },
+  {
+    "dist_id": "250105",
+    "distrito": "YARINACOCHA",
+    "prov_id": "2501"
+  },
+  {
+    "dist_id": "250106",
+    "distrito": "NUEVA REQUENA",
+    "prov_id": "2501"
+  },
+  {
+    "dist_id": "250107",
+    "distrito": "MANANTAY",
+    "prov_id": "2501"
+  },
+  {
+    "dist_id": "250201",
+    "distrito": "RAYMONDI",
+    "prov_id": "2502"
+  },
+  {
+    "dist_id": "250202",
+    "distrito": "SEPAHUA",
+    "prov_id": "2502"
+  },
+  {
+    "dist_id": "250203",
+    "distrito": "TAHUANIA",
+    "prov_id": "2502"
+  },
+  {
+    "dist_id": "250204",
+    "distrito": "YURUA",
+    "prov_id": "2502"
+  },
+  {
+    "dist_id": "250301",
+    "distrito": "PADRE ABAD",
+    "prov_id": "2503"
+  },
+  {
+    "dist_id": "250302",
+    "distrito": "IRAZOLA",
+    "prov_id": "2503"
+  },
+  {
+    "dist_id": "250303",
+    "distrito": "CURIMANA",
+    "prov_id": "2503"
+  },
+  {
+    "dist_id": "250304",
+    "distrito": "NESHUYA",
+    "prov_id": "2503"
+  },
+  {
+    "dist_id": "250305",
+    "distrito": "ALEXANDER VON HUMBOLDT",
+    "prov_id": "2503"
+  },
+  {
+    "dist_id": "250401",
+    "distrito": "PURUS",
+    "prov_id": "2504"
+  }
+]
