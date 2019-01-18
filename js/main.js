@@ -248,6 +248,10 @@ $('[data-popover-target="#zona-clientes-popover"]').on('click', function () {
 
 if ($.validator) {
   $.validator.messages.required = 'Verifique';
+  $.validator.messages.rangelength = 'Verifique';
+  $.validator.messages.maxlength = 'Verifique';
+  $.validator.messages.email = 'Verifique';
+
   var ValidatorDefaults = {
     highlight: function(element) {
       $(element).closest('.form-control').addClass('is-invalid');
@@ -274,15 +278,35 @@ if ($.validator) {
       },
       documento: {
         required: true,
+        rangelength: function(){
+          var len, tipo_doc = $('#tipo_doc').val();
+
+          switch(tipo_doc){
+            case 'dni':
+              len = 8;
+              break;
+            case 'ruc':
+              len = 11;
+              break;
+            default:
+              len = 15;
+              break;
+          }
+
+          return [len, len];
+        },
       },
       nombres: {
         required: true,
+        maxlength: 80,
       },
       apellido_paterno: {
         required: true,
+        maxlength: 40,
       },
       apellido_materno: {
         required: true,
+        maxlength: 40,
       },
       departamento: {
         required: true,
@@ -295,15 +319,19 @@ if ($.validator) {
       },
       domicilio: {
         required: true,
+        maxlength: 40,
       },
       telefono: {
         required: true,
+        maxlength: 15,
       },
       email: {
         required: true,
+        email: true,
       },
       empresa: {
         required: true,
+        maxlength: 40,
       },
       detalle: {
         required: true,
@@ -321,11 +349,14 @@ if ($.validator) {
     rules:{
       nombre: {
         required: true,
+        maxlength: 80,
       },
       telefono: {
+        maxlength: 20,
         required: true,
       },
       email: {
+        maxlength: 120,
         required: true,
         email: true,
       },
