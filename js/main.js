@@ -262,7 +262,7 @@ if ($.validator) {
       if (element.parent('.input-group').length) {
         error.insertAfter(element.parent());
       } else {
-        error.insertAfter(element);
+        error.appendTo($(element).closest('.form-group'))
       }
     },
   }
@@ -315,6 +315,26 @@ if ($.validator) {
   })
 
   $("#form-consulta-sugerencia").validate(formCFG);
+
+  var formFlotanteCfg = $.extend({}, ValidatorDefaults, {
+    errorClass: 'help-block text-danger',
+    rules:{
+      nombre: {
+        required: true,
+      },
+      telefono: {
+        required: true,
+      },
+      email: {
+        required: true,
+        email: true,
+      },
+      acepto_terminos: {
+        required: true,
+      },
+    }
+  });
+  $('#floatingForm').validate(formFlotanteCfg);
 }
 
 $("#provincia").slaveSelect({

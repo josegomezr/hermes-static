@@ -5,19 +5,22 @@
         <hr class="red-line my-2">
         <p class="text-white mb-1"><small>NOS COMUNICAREMOS CONTIGO</small></p>
         <div class="form-group my-3">
-          <input class="form-control" id="nombre" type="text" placeholder="Nombre">
+          <input class="form-control" name="nombre" id="nombre" type="text" required placeholder="Nombre">
         </div>
         <div class="form-group my-3">
-          <input class="form-control" id="telefono" type="text" placeholder="Teléfono">
+          <input class="form-control" name="telefono" id="telefono" type="text" required placeholder="Teléfono">
         </div>
         <div class="form-group my-3">
-          <input class="form-control" id="nombre" type="text" placeholder="Email">
+          <input class="form-control" name="email" id="email" type="text" required placeholder="Email">
         </div>
         <div class="row clearfix align-items-center">
           <div class="col-12 col-sm-auto mb-3 mb-sm-auto">
-            <div class="form-check d-sm-flex align-items-center">
-              <input class="form-check-input hermes-checkbox mr-sm-2" id="acepto_terminos" type="checkbox">
-              <label class="text-white form-check-label" for="acepto_terminos">Acepto términos y condiciones</label>
+            <div class="form-group">
+              <div class="form-check d-sm-flex align-items-center">
+                <input class="form-check-input hermes-checkbox mr-sm-2" required id="acepto_terminos" name="acepto_terminos" type="checkbox">
+                <label class="text-white form-check-label" for="acepto_terminos">Acepto términos y condiciones</label>
+              </div>
+
             </div>
           </div>
           <div class="col-12 col-sm-auto">

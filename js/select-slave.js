@@ -75,7 +75,11 @@
         url: url,
       });
       
-      $.ajax(ajaxConfig).then(function(data){
+      $.ajax(ajaxConfig).then(function(data, status, jqxhr){
+        var content_type = jqxhr.getResponseHeader('content-type').split(' ').shift();
+        if(!/(json)/.test(content_type)){
+          data = JSON.parse(data);
+        }
         data = data.filter(self.settings.filterRow).map(self.settings.mapRow)
         self.populate(data);
       })
