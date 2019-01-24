@@ -184,6 +184,7 @@ function cambiarTituloForm(title) {
   }
 
   $('#titulo-cambiante').html(title);
+  $('#asunto').val(title);
 }
 
 function cambiarDireccionForm(direccion) {
@@ -363,6 +364,9 @@ if ($.validator) {
       acepto_terminos: {
         required: true,
       },
+    },
+    submitHandler: function(){
+      grecaptcha.execute();
     }
   });
   $('#floatingForm').validate(formFlotanteCfg);
@@ -396,6 +400,17 @@ $("#distrito").slaveSelect({
   }
 })
 
-function onAfterSugerenciasSubmit() {
-  $("#form-consulta-sugerencia")[0].submit();
+function onAfterRecaptcha() {
+  if ($("#form-consulta-sugerencia").length == 1 ){
+   $("#form-consulta-sugerencia").get(0).submit();
+  }
+
+  if ($("#floatingForm").length == 1 ){
+    $("#floatingForm").get(0).submit();
+  }
 }
+
+$("#floatingForm :input").on('focus blur', function(e){
+  var method = e.type == 'focus' ? 'pause' : 'cycle';
+  $('#carouselPrincipal').carousel(method);
+})
